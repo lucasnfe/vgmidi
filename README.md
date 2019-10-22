@@ -22,5 +22,4 @@ This dataset was presented in [this paper](http://www.lucasnferreira.com/papers/
   series = {ISMIR'19},
   year={2019},
 }
-
 ```
