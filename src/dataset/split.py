@@ -1,9 +1,11 @@
+import math
+import random
 from collections import OrderedDict
 
 def get_pieces(annotated_mids, remove_duplicates):
     pieces = {}
 
-    n_pos, n_neg = 0, 0
+    n_parts = 0
     for an in annotated_mids:
         piece_id = an["id"]
         piece_part_label = an["label"]
@@ -17,56 +19,51 @@ def get_pieces(annotated_mids, remove_duplicates):
             pieces[piece_id] = {"pos": 0, "neg": 0, "parts": []}
 
         if piece_part_label > 0:
-            n_pos += 1
             pieces[piece_id]["pos"] += 1
         else:
-            n_neg += 1
             pieces[piece_id]["neg"] += 1
 
         pieces[piece_id]["parts"].append(an)
+        n_parts += 1
 
-    return pieces, n_pos, n_neg
-
-def sort_pieces(pieces, n_neg, n_pos):
-    max_parts = max([len(value["parts"]) for key, value in pieces.items()])
-
-    for pc in pieces:
-        neg_diff = (n_neg - pieces[pc]["neg"])/n_neg if n_neg > 0 else 0
-        pos_diff = (n_pos - pieces[pc]["pos"])/n_pos if n_pos > 0 else 0
-        parts = (max_parts - len(pieces[pc]["parts"]))/max_parts if max_parts > 0 else 0
-
-        pieces[pc]["fitness"] = neg_diff + pos_diff + parts
-
-    ordered_pieces = OrderedDict(sorted(pieces.items(), key=lambda t: t[1]["fitness"]))
-
-    return ordered_pieces
+    return pieces, n_parts
 
 def generate_data_splits(annotated_mids, test_percentage=0.1, remove_duplicates=True):
+    train, test = {}, {}
+
     # Get pieces
-    pieces, n_pos, n_neg = get_pieces(annotated_mids, remove_duplicates)
-
-    # Rank pieces according to amount of negative and positve parts
-    ordered_pieces = sort_pieces(pieces, n_pos, n_neg)
-
-    n_test_parts = 0
-    test_parts = {}
-
-    train, test = [], []
+    pieces, n_parts = get_pieces(annotated_mids, remove_duplicates)
 
     # Build test set
-    n_pieces = n_pos + n_neg
+    n_pos, n_neg = 0, 0
+    while n_pos + n_neg < int(test_percentage * n_parts):
+        min_sent_dist = math.inf
+        min_sent_piece_id = None
+        for piece_id, piece in pieces.items():
+            sent_dist = abs((n_pos + piece["pos"]) - (n_neg + piece["neg"]))
+            if sent_dist < min_sent_dist:
+                min_sent_dist = sent_dist
+                min_sent_piece_id = piece_id
 
-    while n_test_parts < int(test_percentage * n_pieces):
-        test_piece_id, test_piece_data = ordered_pieces.popitem(last=False)
-        n_test_parts += len(test_piece_data["parts"])
+        # Remove selected piece
+        min_sent_piece = pieces.pop(min_sent_piece_id)
 
-        test_parts[test_piece_id] = pieces[test_piece_id]["parts"]
-        test += sorted([an for an in pieces[test_piece_id]["parts"]], key = lambda i: i['part'])
+        n_pos += min_sent_piece["pos"]
+        n_neg += min_sent_piece["neg"]
+
+        test[min_sent_piece_id] = min_sent_piece["parts"]
 
     # Build train set
-    for pc in pieces:
-        train_piece_id = pieces[pc]["parts"][0]["id"]
-        if train_piece_id not in test_parts:
-            train += sorted([an for an in pieces[train_piece_id]["parts"]], key = lambda i: i['part'])
+    for piece_id, piece in pieces.items():
+        if piece_id not in test:
+            train[piece_id] = piece["parts"]
 
-    return train, test
+    train_set = []
+    for piece_id, piece_parts in train.items():
+        train_set += piece_parts
+
+    test_set = []
+    for piece_id, piece_parts in test.items():
+        test_set += piece_parts
+
+    return train_set, test_set
