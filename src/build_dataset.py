@@ -35,8 +35,14 @@ for i, piece_id in enumerate(pieces):
     valence_min_length = min([len(d) for d in pieces[piece_id]["valence"]])
     valence_data = np.array([d[:valence_min_length] for d in pieces[piece_id]["valence"]])
 
+    # Remove annotations with very high variance (noise)
+    valence_data_without_noise = []
+    for x in valence_data:
+        if np.var(x) < 0.1:
+            valence_data_without_noise.append(x)
+
     # Cluster annotations of this midi file
-    clustering, cluster_with_higher_agreement = ts.cluster.cluster_annotations(valence_data)
+    clustering, cluster_with_higher_agreement = ts.cluster.cluster_annotations(valence_data_without_noise)
 
     # In the valence dimension, find the nearest curve to the centroid
     mean_annotation = ts.tsmath.nearest_to_centroid(clustering[cluster_with_higher_agreement])
@@ -54,7 +60,7 @@ for i, piece_id in enumerate(pieces):
 
     # Plot valence
     plot_path = os.path.join(opt.plots, os.path.splitext(midi_name)[0] + "_valence.png")
-    ts.plot.plot_cluster(valence_data, clustering, "Clustering Valence", plot_path)
+    ts.plot.plot_cluster(valence_data_without_noise, clustering, "Clustering Valence", plot_path)
 
 train, test = ds.split.generate_data_splits(annotated_data, remove_duplicates=opt.rmdup)
 ds.parse.persist_annotated_mids(train, "vgmidi_sent_train.csv")

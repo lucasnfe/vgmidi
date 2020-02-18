@@ -97,10 +97,10 @@ def split_midi(piece_id, midi_path, labeled_phrases, measure_length, phrases_pat
         if ch_key in annotated_data:
             print(ch_key, "is repeated")
             annotated_data[ch_key + str(i)] = {"id": piece_id,
-                                                  "part": i,
-                                              "filepath": ch_midi_name,
-                                                 "label": phrase_label,
-                                                "repeat": annotated_data[ch_key]["part"]}
+                                             "part": i,
+                                         "filepath": ch_midi_name,
+                                            "label": annotated_data[ch_key]["label"],
+                                           "repeat": annotated_data[ch_key]["part"]}
         else:
             annotated_data[ch_key] = {"id": piece_id,
                                          "part": i,
