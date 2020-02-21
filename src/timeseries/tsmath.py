@@ -3,11 +3,6 @@ import numpy  as np
 from dtaidistance               import dtw
 from sklearn.metrics.pairwise   import pairwise_distances
 
-def sign(x):
-    if x >= 0:
-        return 1
-    return -1
-
 def normalize(x):
     if np.std(x) == 0:
         return x
@@ -27,6 +22,10 @@ def affinity(x):
 def mean(xs):
     # Time series mean
     return np.mean(xs, axis=0)
+
+def median(xs):
+    # Time series mean
+    return np.median(xs, axis=0)
 
 def nearest_to_centroid(xs):
     centroid = mean(xs)

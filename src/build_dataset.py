@@ -45,7 +45,7 @@ for i, piece_id in enumerate(pieces):
     clustering, cluster_with_higher_agreement = ts.cluster.cluster_annotations(valence_data_without_noise)
 
     # In the valence dimension, find the nearest curve to the centroid
-    mean_annotation = ts.tsmath.nearest_to_centroid(clustering[cluster_with_higher_agreement])
+    mean_annotation = ts.tsmath.median(clustering[cluster_with_higher_agreement])
 
     # Split the nearest curve to the centroid at the points of sentiment change (from -1 to 1 or from 1 to -1)
     split_valence = ts.split.split_annotation_by_sentiment(mean_annotation)

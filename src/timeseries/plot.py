@@ -64,7 +64,7 @@ def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
     plt.xlabel('Measures')
     plt.ylabel('Valence')
 
-    plt.plot(nearest_to_centroid(clustering[h_ix]))
+    plt.plot(median(clustering[h_ix]))
 
     # Plot splitting points
     # plt.vlines(split_points, -1, 1, colors='r', linestyles='dashed')
