@@ -9,17 +9,37 @@ def sentiment(x):
         return 1
     return 0
 
-def split_annotation_by_sentiment(annotation, split_size=4):
+def split_sequence_with_sentiment(sequence, sentiment, split_size=4):
     labeled_phrases = []
-    for i in range(0, len(annotation), split_size):
-        phrase = annotation[i:i+split_size]
+    for i in range(0, len(sequence), split_size):
+        slice = sequence[i:i+split_size]
+        if len(slice) == split_size:
+            labeled_phrases.append((slice, sentiment))
 
-        n_pos_neg = [0, 0]
-        for x in phrase:
-            n_pos_neg[sentiment(x)] += 1
+    return labeled_phrases
 
-        phrase_sentiment = np.argmax(n_pos_neg)
-        labeled_phrases.append((phrase, phrase_sentiment))
+def split_annotation_by_sentiment(xs):
+    i = 0
+
+    init_sign = sentiment(xs[i])
+    current_sign = sentiment(xs[i])
+
+    phrases = []
+    while i < len(xs):
+        current_phrase = []
+        while current_sign == init_sign and i < len(xs):
+            current_phrase.append(xs[i])
+
+            i += 1
+            if i < len(xs):
+                current_sign = sentiment(xs[i])
+
+        phrases.append(current_phrase)
+        init_sign = current_sign
+
+    labeled_phrases = []
+    for phrase in phrases:
+        labeled_phrases += split_sequence_with_sentiment(phrase, sentiment(phrase[0]))
 
     return labeled_phrases
 
