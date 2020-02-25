@@ -57,7 +57,7 @@ def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
     h_ix = get_cluster_with_higher_agreement(clustering)
 
     ts_ax = plt.subplot2grid((3, n_clusters), (2, 0), colspan=n_clusters)
-    ts_ax.set_title("Mean of the cluster " + str(h_ix + 1) , fontsize=12)
+    ts_ax.set_title("Median of the cluster " + str(h_ix + 1) , fontsize=12)
 
     plt.axis([0, len(clustering[h_ix][0]), -1, 1])
     # plt.xticks(np.arange(0, len(clustering[h_ix][0]), 5))

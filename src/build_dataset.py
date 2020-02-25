@@ -38,7 +38,7 @@ for i, piece_id in enumerate(pieces):
     # Remove annotations with very high variance (noise)
     valence_data_without_noise = []
     for x in valence_data:
-        if np.var(x) < 0.1:
+        if np.var(x) < 0.05:
             valence_data_without_noise.append(x)
 
     # Cluster annotations of this midi file
