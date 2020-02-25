@@ -30,15 +30,14 @@ def get_cluster_with_higher_agreement(clustering):
     for i in range(len(clustering)):
         cl_lens.append(len(clustering[i]))
 
-    return np.argmax(cl_lens)
+    first = np.argsort(cl_lens)[-1]
+    median_first = np.median(np.median(clustering[first], axis=0))
 
-    # top_2_max_len = np.argsort(cl_lens)[-2:]
-    #
-    # cl_vars = []
-    # for i in top_2_max_len:
-    #     cl_vars.append(sum(variance(clustering[i])))
-    #
-    # return top_2_max_len[np.argmin(cl_vars)]
+    if abs(median_first) > 0.1:
+        return first
+
+    second = np.argsort(cl_lens)[-2]
+    return second
 
 def get_cluster_series_from_labels(series, labels):
     n_clusters = len(set(labels))
