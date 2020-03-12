@@ -1,3 +1,4 @@
 phrases/*.txt
 *.npy
 *.pyc
+*.gsheet
