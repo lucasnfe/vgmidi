@@ -117,4 +117,4 @@ def split_midi(piece_id, midi_path, labeled_phrases, measure_length, phrases_pat
 
         slice_init += phrase_length
 
-    return annotated_data.values()
+    return list(annotated_data.values())
