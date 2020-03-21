@@ -9,6 +9,16 @@ def emotion(x):
         return 1
     return 0
 
+def split_sequence_with_emotion(phrase, split_size=4):
+    tokens, emotion = phrase
+
+    labeled_phrases = []
+    for i in range(0, len(tokens), split_size):
+        slice = tokens[i:i+split_size]
+        labeled_phrases.append((slice, emotion))
+
+    return labeled_phrases
+
 def split_annotation_by_emotion(xs):
     i = 0
 
@@ -33,13 +43,11 @@ def split_annotation_by_emotion(xs):
     if len(current_phrase) > 0:
         phrases.append((current_phrase, emotion(init_sign)))
 
-    print(phrases)
+    labeled_phrases = []
+    for phrase in phrases:
+        labeled_phrases += split_sequence_with_emotion(phrase)
 
-    # labeled_phrases = []
-    # for phrase in phrases:
-    #     labeled_phrases += split_sequence_with_emotion(phrase, emotion(phrase[0]))
-
-    return phrases
+    return labeled_phrases
 
 def slice_midi_data(midi_data, start, end):
     notes = []
