@@ -4,44 +4,42 @@ import pretty_midi
 import numpy as np
 from .tsmath import *
 
-def sentiment(x):
+def emotion(x):
     if x >= 0:
         return 1
     return 0
 
-def split_sequence_with_sentiment(sequence, sentiment, split_size=4):
-    labeled_phrases = []
-    for i in range(0, len(sequence), split_size):
-        slice = sequence[i:i+split_size]
-        if len(slice) == split_size:
-            labeled_phrases.append((slice, sentiment))
-
-    return labeled_phrases
-
-def split_annotation_by_sentiment(xs):
+def split_annotation_by_emotion(xs):
     i = 0
 
-    init_sign = sentiment(xs[i])
-    current_sign = sentiment(xs[i])
+    init_sign = xs[i]
+    current_sign = xs[i]
 
     phrases = []
-    while i < len(xs):
-        current_phrase = []
-        while current_sign == init_sign and i < len(xs):
+    current_phrase = []
+
+    for i in range(len(xs)):
+        if emotion(current_sign) == emotion(init_sign):
             current_phrase.append(xs[i])
+        elif abs(current_sign) <= 0.15:
+            current_phrase.append(xs[i])
+        else:
+            phrases.append((current_phrase, emotion(init_sign)))
+            current_phrase = []
+            init_sign = current_sign
 
-            i += 1
-            if i < len(xs):
-                current_sign = sentiment(xs[i])
+        current_sign = xs[i]
 
-        phrases.append(current_phrase)
-        init_sign = current_sign
+    if len(current_phrase) > 0:
+        phrases.append((current_phrase, emotion(init_sign)))
 
-    labeled_phrases = []
-    for phrase in phrases:
-        labeled_phrases += split_sequence_with_sentiment(phrase, sentiment(phrase[0]))
+    print(phrases)
 
-    return labeled_phrases
+    # labeled_phrases = []
+    # for phrase in phrases:
+    #     labeled_phrases += split_sequence_with_emotion(phrase, emotion(phrase[0]))
+
+    return phrases
 
 def slice_midi_data(midi_data, start, end):
     notes = []

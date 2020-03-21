@@ -59,7 +59,9 @@ for i, piece_id in enumerate(pieces):
     assert len(valence_median) == len(arousal_median)
 
     # Split medians at the points of axis changes (from -1 to 1 or from 1 to -1)
+    print("VALENCE", "\n")
     split_valence = ts.split.split_annotation_by_emotion(valence_median)
+    print("AROUSAL", "\n")
     split_arousal = ts.split.split_annotation_by_emotion(arousal_median)
 
     # Calculate measure length

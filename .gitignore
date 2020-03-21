@@ -1,4 +1,6 @@
+__pycache__/
 phrases/*.txt
+*.py[cod]
+*$py.class
 *.npy
-*.pyc
 *.gsheet
