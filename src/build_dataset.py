@@ -13,7 +13,7 @@ def parse_emotion_dimension(piece, dimension_name, max_variance=0.1):
 
     rows_to_delete = np.where(np.var(data_dimension, axis=1) > max_variance)
     data_dimension = np.delete(data_dimension, rows_to_delete, axis=0)
-    
+
     return data_dimension
 
 # Parse arguments
@@ -55,9 +55,12 @@ for i, piece_id in enumerate(pieces):
     valence_median = ts.tsmath.median(valence_clustering[valence_best_cluster])
     arousal_median = ts.tsmath.median(arousal_clustering[arousal_best_cluster])
 
+    # Make sure number of measures is the same for both dimensions
+    assert len(valence_median) == len(arousal_median)
+
     # Split medians at the points of axis changes (from -1 to 1 or from 1 to -1)
-    split_valence = ts.split.split_annotation_by_sentiment(valence_median)
-    split_arousal = ts.split.split_annotation_by_sentiment(arousal_median)
+    split_valence = ts.split.split_annotation_by_emotion(valence_median)
+    split_arousal = ts.split.split_annotation_by_emotion(arousal_median)
 
     # Calculate measure length
     measure_length = pieces[piece_id]["duration"]/pieces[piece_id]["measures"]
