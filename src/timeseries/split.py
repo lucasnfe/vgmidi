@@ -9,12 +9,15 @@ def emotion(x):
         return 1
     return 0
 
-def split_sequence_with_emotion(phrase, split_size=4):
+def split_sequence_with_emotion(phrase, split_size):
     tokens, emotion = phrase
 
+    # Calculate step and make sure it is always greater or equal to 1
+    step = max(1, len(tokens)//split_size)
+
     labeled_phrases = []
-    for i in range(0, len(tokens), split_size):
-        slice = tokens[i:i+split_size]
+    for i in range(0, len(tokens), step):
+        slice = tokens[i:i+step]
         labeled_phrases.append((slice, emotion))
 
     return labeled_phrases
@@ -45,7 +48,11 @@ def split_annotation_by_emotion(xs):
 
     labeled_phrases = []
     for phrase in phrases:
-        labeled_phrases += split_sequence_with_emotion(phrase)
+        split_size = 1
+        while split_size <= 16:
+            phrase_split = split_sequence_with_emotion(phrase, split_size=split_size)
+            labeled_phrases.append((split_size, phrase_split))
+            split_size <<= 1
 
     return labeled_phrases
 

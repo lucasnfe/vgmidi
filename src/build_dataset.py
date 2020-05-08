@@ -66,11 +66,29 @@ for i, piece_id in enumerate(pieces):
     measure_length = pieces[piece_id]["duration"]/pieces[piece_id]["measures"]
 
     # Split midi file considering the median splits
-    midi_valence_parts = ts.split.split_midi(piece_id, midi_path, split_valence, measure_length, os.path.join(opt.phrases, "valence"))
-    midi_arousal_parts = ts.split.split_midi(piece_id, midi_path, split_arousal, measure_length, os.path.join(opt.phrases, "arousal"))
+    for v_split in split_valence:
+        split_size, phrase_split = v_split
 
-    valence_phrases += midi_valence_parts
-    arousal_phrases += midi_arousal_parts
+        valence_path = os.path.join(opt.phrases, "valence")
+        phrases_path = os.path.join(valence_path, "split_" + str(split_size))
+
+        if not os.path.isdir(phrases_path):
+            os.makedirs(phrases_path)
+
+        midi_valence_parts = ts.split.split_midi(piece_id, midi_path, phrase_split, measure_length, phrases_path)
+        valence_phrases += midi_valence_parts
+
+    for a_split in split_valence:
+        split_size, phrase_split = a_split
+
+        arousal_path = os.path.join(opt.phrases, "arousal")
+        phrases_path = os.path.join(arousal_path, "split_" + str(split_size))
+
+        if not os.path.isdir(phrases_path):
+            os.makedirs(phrases_path)
+
+        midi_arousal_parts = ts.split.split_midi(piece_id, midi_path, phrase_split, measure_length, phrases_path)
+        arousal_phrases += midi_arousal_parts
 
     # Plot data
     plot_valence_path = os.path.join(os.path.join(opt.plots, "valence"), os.path.splitext(midi_name)[0] + ".png")
