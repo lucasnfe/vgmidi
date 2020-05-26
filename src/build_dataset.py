@@ -67,9 +67,7 @@ for i, piece_id in enumerate(pieces):
     for e_split in split_emotions:
         split_size, phrase_split = e_split
 
-        emotion_path = os.path.join(opt.phrases, "emotion")
-        phrases_path = os.path.join(emotion_path, "split_" + str(split_size))
-
+        phrases_path = os.path.join(opt.phrases, "split_" + str(split_size))
         if not os.path.isdir(phrases_path):
             os.makedirs(phrases_path)
 
