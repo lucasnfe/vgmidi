@@ -31,8 +31,7 @@ opt = parser.parse_args()
 pieces = ds.parse.parse_annotation(opt.annotations)
 
 # Cluster pieces
-valence_phrases = []
-arousal_phrases= []
+emotion_phrases = []
 
 # Means
 means_pos, means_neg = [], []
@@ -59,48 +58,24 @@ for i, piece_id in enumerate(pieces):
     assert len(valence_median) == len(arousal_median)
 
     # Split medians at the points of axis changes (from -1 to 1 or from 1 to -1)
-    split_valence = ts.split.split_annotation_by_emotion(valence_median)
-    split_arousal = ts.split.split_annotation_by_emotion(arousal_median)
+    split_emotions = ts.split.split_annotation_by_emotion(valence_median, arousal_median)
 
     # Calculate measure length
     measure_length = pieces[piece_id]["duration"]/pieces[piece_id]["measures"]
 
     # Split midi file considering the median splits
-    for v_split in split_valence:
-        split_size, phrase_split = v_split
+    for e_split in split_emotions:
+        split_size, phrase_split = e_split
 
-        valence_path = os.path.join(opt.phrases, "valence")
-        phrases_path = os.path.join(valence_path, "split_" + str(split_size))
+        emotion_path = os.path.join(opt.phrases, "emotion")
+        phrases_path = os.path.join(emotion_path, "split_" + str(split_size))
 
         if not os.path.isdir(phrases_path):
             os.makedirs(phrases_path)
 
         midi_valence_parts = ts.split.split_midi(piece_id, midi_path, phrase_split, measure_length, phrases_path)
-        valence_phrases += midi_valence_parts
+        emotion_phrases += midi_valence_parts
 
-    for a_split in split_valence:
-        split_size, phrase_split = a_split
-
-        arousal_path = os.path.join(opt.phrases, "arousal")
-        phrases_path = os.path.join(arousal_path, "split_" + str(split_size))
-
-        if not os.path.isdir(phrases_path):
-            os.makedirs(phrases_path)
-
-        midi_arousal_parts = ts.split.split_midi(piece_id, midi_path, phrase_split, measure_length, phrases_path)
-        arousal_phrases += midi_arousal_parts
-
-    # Plot data
-    plot_valence_path = os.path.join(os.path.join(opt.plots, "valence"), os.path.splitext(midi_name)[0] + ".png")
-    plot_arousal_path = os.path.join(os.path.join(opt.plots, "arousal"), os.path.splitext(midi_name)[0] + ".png")
-
-    ts.plot.plot_cluster(valence_data, valence_clustering, "Clustering Valence", plot_valence_path)
-    ts.plot.plot_cluster(arousal_data, arousal_clustering, "Clustering Arousal", plot_arousal_path)
-
-train, test = ds.split.generate_data_splits(valence_phrases, remove_duplicates=opt.rmdup)
-ds.parse.persist_annotated_mids(train, "vgmidi_valence_train.csv")
-ds.parse.persist_annotated_mids(test, "vgmidi_valence_test.csv")
-
-train, test = ds.split.generate_data_splits(arousal_phrases, remove_duplicates=opt.rmdup)
-ds.parse.persist_annotated_mids(train, "vgmidi_arousal_train.csv")
-ds.parse.persist_annotated_mids(test, "vgmidi_arousal_test.csv")
+train, test = ds.split.generate_data_splits(emotion_phrases, remove_duplicates=opt.rmdup)
+ds.parse.persist_annotated_mids(train, "vgmidi_bardo_train.csv")
+ds.parse.persist_annotated_mids(test, "vgmidi_bardo_test.csv")

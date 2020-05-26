@@ -4,54 +4,56 @@ import pretty_midi
 import numpy as np
 from .tsmath import *
 
-def emotion(x):
-    if x >= 0:
-        return 1
-    return 0
+def emotion(v, a):
+    # Use dot product to find angle between x axis (1,0) and (v,a)
+    angle = np.arctan2(a, v) * (180.0/np.pi)
+    if angle < 0:
+        angle += 360
 
-def split_sequence_with_emotion(phrase, split_size):
-    tokens, emotion = phrase
+    if angle >= 0 and angle < 90:
+        return 0 # happy
+    elif angle >= 90 and angle < 135:
+        return 1 # agitated
+    elif angle >= 135 and angle < 270:
+        return 2 # suspense
+    elif angle >= 270 and angle < 360:
+        return 3 # calm
 
+def slice_sequence_with_emotion(phrase, split_size):
     # Calculate step and make sure it is always greater or equal to 1
-    step = max(1, len(tokens)//split_size)
+    step = max(2, len(phrase)//split_size)
 
-    labeled_phrases = []
-    for i in range(0, len(tokens), step):
-        slice = tokens[i:i+step]
-        labeled_phrases.append((slice, emotion))
+    slices = []
+    for i in range(0, len(phrase), step):
+        sl = phrase[i:i+step]
+        slices.append(sl)
 
-    return labeled_phrases
+    return slices
 
-def split_annotation_by_emotion(xs):
-    i = 0
-
-    init_sign = xs[i]
-    current_sign = xs[i]
-
+def split_annotation_by_emotion(valence, arousal):
     phrases = []
-    current_phrase = []
-
-    for i in range(len(xs)):
-        if emotion(current_sign) == emotion(init_sign):
-            current_phrase.append(xs[i])
-        elif abs(current_sign) <= 0.15:
-            current_phrase.append(xs[i])
+    ix, last_emotion = 0, 0
+    for v,a in zip(valence, arousal):
+        current_emotion = emotion(v, a)
+        if current_emotion != last_emotion:
+            phrases.append([current_emotion])
+            if len(phrases) > 1:
+                ix += 1
         else:
-            phrases.append((current_phrase, emotion(init_sign)))
-            current_phrase = []
-            init_sign = current_sign
+            if len(phrases) == 0:
+                phrases.append([])
+                
+            phrases[ix].append(current_emotion)
 
-        current_sign = xs[i]
+        last_emotion = current_emotion
 
-    if len(current_phrase) > 0:
-        phrases.append((current_phrase, emotion(init_sign)))
-
+    # Augment data by including sub-sequences in the dataset
     labeled_phrases = []
     for phrase in phrases:
         split_size = 1
         while split_size <= 16:
-            phrase_split = split_sequence_with_emotion(phrase, split_size=split_size)
-            labeled_phrases.append((split_size, phrase_split))
+            slices = slice_sequence_with_emotion(phrase, split_size=split_size)
+            labeled_phrases.append((split_size, slices))
             split_size <<= 1
 
     return labeled_phrases
@@ -96,8 +98,9 @@ def split_midi(piece_id, midi_path, labeled_phrases, measure_length, phrases_pat
     slice_init = 0
     velocity, duration = None, None
     for i, phrase in enumerate(labeled_phrases):
-        phrase_valence, phrase_label = phrase
-        phrase_length = len(phrase_valence)
+        # phrase_valence, phrase_label = phrase
+        phrase_label = phrase[0]
+        phrase_length = len(phrase)
 
         # Slice midi given measure length in seconds
         start, end = slice_init * measure_length, (slice_init + phrase_length) * measure_length
