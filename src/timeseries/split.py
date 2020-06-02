@@ -21,7 +21,7 @@ def emotion(v, a):
 
 def slice_sequence_with_emotion(phrase, split_size):
     # Calculate step and make sure it is always greater or equal to 1
-    step = max(2, len(phrase)//split_size)
+    step = max(1, len(phrase)//split_size)
 
     slices = []
     for i in range(0, len(phrase), step):
@@ -42,7 +42,7 @@ def split_annotation_by_emotion(valence, arousal):
         else:
             if len(phrases) == 0:
                 phrases.append([])
-                
+
             phrases[ix].append(current_emotion)
 
         last_emotion = current_emotion

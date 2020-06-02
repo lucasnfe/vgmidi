@@ -22,6 +22,7 @@ parser.add_argument('--annotations', type=str, required=True, help="Dir with ann
 parser.add_argument('--midi' , type=str, required=True, help="Dir with annotated midi files.")
 parser.add_argument('--phrases' , type=str, required=True, help="Phrases output path.")
 parser.add_argument('--plots' , type=str, required=True, help="Plots output path.")
+parser.add_argument('--perc' , type=float, default=0.1, help="Plots output path.")
 parser.add_argument('--dupli', dest='rmdup', action='store_false')
 parser.set_defaults(rmdup=True)
 
@@ -74,6 +75,6 @@ for i, piece_id in enumerate(pieces):
         midi_valence_parts = ts.split.split_midi(piece_id, midi_path, phrase_split, measure_length, phrases_path)
         emotion_phrases += midi_valence_parts
 
-train, test = ds.split.generate_data_splits(emotion_phrases, remove_duplicates=opt.rmdup)
+train, test = ds.split.generate_data_splits(emotion_phrases, remove_duplicates=opt.rmdup, test_percentage=opt.perc)
 ds.parse.persist_annotated_mids(train, "vgmidi_bardo_train.csv")
 ds.parse.persist_annotated_mids(test, "vgmidi_bardo_test.csv")
