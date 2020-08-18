@@ -22,7 +22,8 @@ parser.add_argument('--annotations', type=str, required=True, help="Dir with ann
 parser.add_argument('--midi' , type=str, required=True, help="Dir with annotated midi files.")
 parser.add_argument('--phrases' , type=str, required=True, help="Phrases output path.")
 parser.add_argument('--plots' , type=str, required=True, help="Plots output path.")
-parser.add_argument('--perc' , type=float, default=0.1, help="Plots output path.")
+parser.add_argument('--perc' , type=float, default=0.1, help="Percentage of test data.")
+parser.add_argument('--splits' , type=int, default=1, help="Max size of data split.")
 parser.add_argument('--dupli', dest='rmdup', action='store_false')
 parser.set_defaults(rmdup=True)
 
@@ -59,7 +60,7 @@ for i, piece_id in enumerate(pieces):
     assert len(valence_median) == len(arousal_median)
 
     # Split medians at the points of axis changes (from -1 to 1 or from 1 to -1)
-    split_emotions = ts.split.split_annotation_by_emotion(valence_median, arousal_median)
+    split_emotions = ts.split.split_annotation_by_emotion(valence_median, arousal_median, opt.splits)
 
     # Calculate measure length
     measure_length = pieces[piece_id]["duration"]/pieces[piece_id]["measures"]
@@ -74,6 +75,21 @@ for i, piece_id in enumerate(pieces):
 
         midi_valence_parts = ts.split.split_midi(piece_id, midi_path, phrase_split, measure_length, phrases_path)
         emotion_phrases += midi_valence_parts
+
+    # Plot data
+    plot_valence_path = os.path.join(opt.plots, "valence")
+    if not os.path.isdir(plot_valence_path):
+        os.makedirs(plot_valence_path)
+
+    plot_valence_path = os.path.join(plot_valence_path, os.path.splitext(midi_name)[0] + ".png")
+    ts.plot.plot_cluster(valence_data, valence_clustering, "Valence", "Clustering Valence", plot_valence_path)
+
+    plot_arousal_path = os.path.join(opt.plots, "arousal")
+    if not os.path.isdir(plot_arousal_path):
+        os.makedirs(plot_arousal_path)
+
+    plot_arousal_path = os.path.join(plot_arousal_path, os.path.splitext(midi_name)[0] + ".png")
+    ts.plot.plot_cluster(arousal_data, arousal_clustering, "Arousal", "Clustering Arousal", plot_arousal_path)
 
 train, test = ds.split.generate_data_splits(emotion_phrases, remove_duplicates=opt.rmdup, test_percentage=opt.perc)
 ds.parse.persist_annotated_mids(train, "vgmidi_bardo_train.csv")

@@ -25,7 +25,7 @@ def slice_sequence_with_emotion(phrase, split_size):
 
     return slices
 
-def split_annotation_by_emotion(valence, arousal):
+def split_annotation_by_emotion(valence, arousal, max_split=1):
     phrases = []
     ix = 0
     last_emotion = np.array([0,0])
@@ -47,7 +47,7 @@ def split_annotation_by_emotion(valence, arousal):
     labeled_phrases = []
     for phrase in phrases:
         split_size = 1
-        while split_size <= 16:
+        while split_size <= max_split:
             slices = slice_sequence_with_emotion(phrase, split_size=split_size)
             labeled_phrases.append((split_size, slices))
             split_size <<= 1
