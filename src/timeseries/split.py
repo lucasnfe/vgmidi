@@ -5,19 +5,14 @@ import numpy as np
 from .tsmath import *
 
 def emotion(v, a):
-    # Use dot product to find angle between x axis (1,0) and (v,a)
-    angle = np.arctan2(a, v) * (180.0/np.pi)
-    if angle < 0:
-        angle += 360
+    emotion = np.array([0,0])
 
-    if angle >= 0 and angle < 90:
-        return 0 # happy
-    elif angle >= 90 and angle < 135:
-        return 1 # agitated
-    elif angle >= 135 and angle < 270:
-        return 2 # suspense
-    elif angle >= 270 and angle < 360:
-        return 3 # calm
+    if v >= 0:
+        emotion[0] = 1
+    if a >= 0:
+        emotion[1] = 1
+
+    return emotion
 
 def slice_sequence_with_emotion(phrase, split_size):
     # Calculate step and make sure it is always greater or equal to 1
@@ -32,10 +27,11 @@ def slice_sequence_with_emotion(phrase, split_size):
 
 def split_annotation_by_emotion(valence, arousal):
     phrases = []
-    ix, last_emotion = 0, 0
+    ix = 0
+    last_emotion = np.array([0,0])
     for v,a in zip(valence, arousal):
         current_emotion = emotion(v, a)
-        if current_emotion != last_emotion:
+        if (current_emotion != last_emotion).all():
             phrases.append([current_emotion])
             if len(phrases) > 1:
                 ix += 1
@@ -99,7 +95,9 @@ def split_midi(piece_id, midi_path, labeled_phrases, measure_length, phrases_pat
     velocity, duration = None, None
     for i, phrase in enumerate(labeled_phrases):
         # phrase_valence, phrase_label = phrase
-        phrase_label = phrase[0]
+        phrase_valence = phrase[0][0]
+        phrase_arousal = phrase[0][1]
+
         phrase_length = len(phrase)
 
         # Slice midi given measure length in seconds
@@ -122,13 +120,15 @@ def split_midi(piece_id, midi_path, labeled_phrases, measure_length, phrases_pat
             annotated_data[ch_key + str(i)] = {"id": piece_id,
                                              "part": i,
                                          "filepath": ch_midi_name,
-                                            "label": annotated_data[ch_key]["label"],
+                                            "valence": annotated_data[ch_key]["valence"],
+                                            "arousal": annotated_data[ch_key]["arousal"],
                                            "repeat": annotated_data[ch_key]["part"]}
         else:
             annotated_data[ch_key] = {"id": piece_id,
                                          "part": i,
                                      "filepath": ch_midi_name,
-                                        "label": phrase_label,
+                                        "valence": phrase_valence,
+                                        "arousal": phrase_arousal,
                                        "repeat": -1}
 
         slice_init += phrase_length

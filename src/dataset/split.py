@@ -26,6 +26,8 @@ def generate_data_splits(annotated_mids, test_percentage=0.1, remove_duplicates=
     # Get pieces
     train = get_pieces(annotated_mids, remove_duplicates)
 
+    print(len(train))
+
     # Build test set
     test_size = int(test_percentage * len(train))
     for i in range(test_size):
