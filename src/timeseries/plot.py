@@ -6,13 +6,13 @@ from matplotlib import gridspec
 from .cluster import *
 from .tsmath import *
 
-def plot_annotation(piece_annotations, subtitle=""):
+def plot_annotation(piece_annotations, y_axis="", subtitle=""):
     fig, axarr = plt.subplots(2, sharex=True, figsize=(15, 5))
     fig.suptitle(subtitle)
 
     for an_val in piece_annotations["valence"]:
         axarr[0].plot(an_val)
-    axarr[0].set(ylabel='Valence')
+    axarr[0].set(ylabel=y_axis)
 
     for an_aro in piece_annotations["arousal"]:
         axarr[1].plot(an_aro)
@@ -24,7 +24,7 @@ def plot_annotation(piece_annotations, subtitle=""):
     plt.clf()
     plt.close();
 
-def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
+def plot_cluster(series, clustering, y_axis="", subtitle="", filename="clustering.png"):
     # Plot figure with subplots of different sizes
     fig = plt.figure()
 
@@ -36,7 +36,7 @@ def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
     plt.axis([0, len(series[0]), -1, 1])
     plt.xticks(np.arange(0, len(series[0]), 5))
     plt.xlabel('Measures')
-    plt.ylabel('Valence')
+    plt.ylabel(y_axis)
 
     # large subplot
     for x in series:
@@ -50,7 +50,7 @@ def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
         plt.axis([0, len(clustering[i][0]), -1, 1])
         plt.xticks(np.arange(0,  len(clustering[i][0]), 5))
         plt.xlabel('Measures')
-        plt.ylabel('Valence')
+        plt.ylabel(y_axis)
         for x in clustering[i]:
             plt.plot(x)
 
@@ -62,7 +62,7 @@ def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
     plt.axis([0, len(clustering[h_ix][0]), -1, 1])
     # plt.xticks(np.arange(0, len(clustering[h_ix][0]), 5))
     plt.xlabel('Measures')
-    plt.ylabel('Valence')
+    plt.ylabel(y_axis)
 
     plt.plot(median(clustering[h_ix]))
 
@@ -88,12 +88,12 @@ def plot_cluster(series, clustering, subtitle="", filename="clustering.png"):
     #
     # fig.savefig(filename, format="png")
 
-def plot_means(means, filename, title="", color=(0,0,1,1)):
+def plot_means(means, filename, y_axis="", title="", color=(0,0,1,1)):
     fig = plt.figure(figsize=(7,2))
 
     plt.axis([0, len(means[0]), -1, 1])
     plt.xlabel('Measures')
-    plt.ylabel('Valence')
+    plt.ylabel(y_axis)
 
     plt.title(title, fontsize=16)
 
