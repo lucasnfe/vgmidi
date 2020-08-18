@@ -48,13 +48,14 @@ def parse_annotation(annotations_path):
 
 def persist_annotated_mids(annotated_pieces, output_path):
     with open(output_path, mode='w') as fp:
-        fieldnames = ['label', 'id', 'part', 'repeat', 'filepath']
+        fieldnames = ['valence', 'arousal', 'id', 'part', 'repeat', 'filepath']
         fp_writer = csv.DictWriter(fp, fieldnames=fieldnames)
 
         fp_writer.writeheader()
         for piece in annotated_pieces:
             for phrase in piece:
-                fp_writer.writerow({"label": phrase["label"],
+                fp_writer.writerow({"valence": phrase["valence"],
+                                    "arousal": phrase["arousal"],
                                        "id": phrase["id"],
                                      "part": phrase["part"],
                                    "repeat": phrase["repeat"],
