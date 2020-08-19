@@ -92,5 +92,5 @@ for i, piece_id in enumerate(pieces):
     ts.plot.plot_cluster(arousal_data, arousal_clustering, "Arousal", "Clustering Arousal", plot_arousal_path)
 
 train, test = ds.split.generate_data_splits(emotion_phrases, remove_duplicates=opt.rmdup, test_percentage=opt.perc)
-ds.parse.persist_annotated_mids(train, "vgmidi_bardo_train.csv")
-ds.parse.persist_annotated_mids(test, "vgmidi_bardo_test.csv")
+ds.parse.persist_annotated_mids(train, "vgmidi_train.csv")
+ds.parse.persist_annotated_mids(test, "vgmidi_test.csv")
