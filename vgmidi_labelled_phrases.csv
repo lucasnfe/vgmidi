@@ -1,0 +1,1483 @@
+valence,arousal,id,part,repeat,filepath
+1,0,piece_1,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_0.mid
+1,0,piece_1,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_4.mid
+1,0,piece_1,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_8.mid
+1,0,piece_1,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_12.mid
+1,0,piece_1,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_16.mid
+1,0,piece_1,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_20.mid
+1,0,piece_1,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_24.mid
+1,1,piece_3,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_0.mid
+1,1,piece_3,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_4.mid
+1,1,piece_3,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_8.mid
+1,1,piece_3,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_12.mid
+1,1,piece_3,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_16.mid
+1,1,piece_3,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_20.mid
+1,1,piece_3,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_24.mid
+1,1,piece_3,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_28.mid
+1,1,piece_3,32,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_32.mid
+1,1,piece_3,36,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_36.mid
+1,1,piece_3,40,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_40.mid
+1,1,piece_3,44,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_44.mid
+1,1,piece_3,48,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_48.mid
+1,1,piece_3,52,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_52.mid
+1,1,piece_3,56,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_56.mid
+1,0,piece_4,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_0.mid
+1,0,piece_4,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_4.mid
+1,0,piece_4,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_8.mid
+1,0,piece_4,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_12.mid
+1,0,piece_4,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_16.mid
+1,0,piece_4,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_20.mid
+1,0,piece_4,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_24.mid
+1,0,piece_4,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_28.mid
+1,0,piece_4,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_32.mid
+0,1,piece_5,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_0.mid
+0,1,piece_5,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_4.mid
+0,1,piece_5,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_8.mid
+0,1,piece_5,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_12.mid
+0,1,piece_5,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_20.mid
+1,1,piece_7,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_0.mid
+1,1,piece_7,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_4.mid
+1,1,piece_7,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_8.mid
+1,1,piece_7,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_12.mid
+1,1,piece_7,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_16.mid
+1,1,piece_7,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_20.mid
+1,1,piece_7,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_24.mid
+1,1,piece_7,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_28.mid
+1,1,piece_7,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_32.mid
+1,1,piece_7,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_36.mid
+1,1,piece_7,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_40.mid
+1,1,piece_7,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_44.mid
+0,1,piece_9,0,-1,../phrases/Other_N64_GoldenEye 007_Facility X_0.mid
+0,1,piece_9,4,-1,../phrases/Other_N64_GoldenEye 007_Facility X_4.mid
+0,1,piece_9,8,-1,../phrases/Other_N64_GoldenEye 007_Facility X_8.mid
+0,1,piece_9,12,-1,../phrases/Other_N64_GoldenEye 007_Facility X_12.mid
+0,1,piece_9,16,-1,../phrases/Other_N64_GoldenEye 007_Facility X_16.mid
+0,1,piece_9,20,-1,../phrases/Other_N64_GoldenEye 007_Facility X_20.mid
+1,1,piece_13,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy_0.mid
+1,1,piece_13,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy_4.mid
+1,1,piece_13,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy_8.mid
+1,1,piece_13,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy_12.mid
+1,0,piece_18,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_0.mid
+1,0,piece_18,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_4.mid
+1,0,piece_18,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_8.mid
+1,0,piece_18,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_12.mid
+1,0,piece_18,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_16.mid
+1,0,piece_18,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_20.mid
+1,0,piece_18,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_24.mid
+1,1,piece_19,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand_0.mid
+1,1,piece_19,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand_4.mid
+1,1,piece_19,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand_8.mid
+1,1,piece_20,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_0.mid
+1,1,piece_20,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_4.mid
+1,1,piece_20,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_8.mid
+1,1,piece_20,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_12.mid
+1,1,piece_20,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_16.mid
+1,1,piece_20,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_20.mid
+1,1,piece_20,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_24.mid
+1,1,piece_20,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_28.mid
+1,1,piece_21,0,-1,../phrases/Other_NES_Tetris_Enter Your Name_0.mid
+1,1,piece_21,4,-1,../phrases/Other_NES_Tetris_Enter Your Name_4.mid
+1,1,piece_21,8,-1,../phrases/Other_NES_Tetris_Enter Your Name_8.mid
+1,1,piece_21,12,-1,../phrases/Other_NES_Tetris_Enter Your Name_12.mid
+1,1,piece_21,16,-1,../phrases/Other_NES_Tetris_Enter Your Name_16.mid
+1,1,piece_21,20,-1,../phrases/Other_NES_Tetris_Enter Your Name_20.mid
+1,1,piece_21,24,-1,../phrases/Other_NES_Tetris_Enter Your Name_24.mid
+1,1,piece_21,28,-1,../phrases/Other_NES_Tetris_Enter Your Name_28.mid
+1,1,piece_21,32,-1,../phrases/Other_NES_Tetris_Enter Your Name_32.mid
+1,1,piece_22,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_0.mid
+1,1,piece_22,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_4.mid
+1,1,piece_22,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_8.mid
+1,1,piece_22,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_12.mid
+1,1,piece_22,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_16.mid
+1,1,piece_22,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_20.mid
+1,1,piece_23,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_0.mid
+1,1,piece_23,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_4.mid
+1,1,piece_23,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_8.mid
+1,1,piece_23,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_12.mid
+1,1,piece_23,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_16.mid
+1,1,piece_23,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_20.mid
+1,1,piece_23,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_24.mid
+1,1,piece_24,0,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_0.mid
+1,1,piece_24,4,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_4.mid
+1,1,piece_24,8,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_8.mid
+1,1,piece_24,12,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_12.mid
+1,1,piece_24,16,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_16.mid
+1,1,piece_24,20,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_20.mid
+1,1,piece_24,24,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_24.mid
+1,1,piece_24,28,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_28.mid
+1,1,piece_24,32,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_32.mid
+1,1,piece_24,36,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_36.mid
+1,1,piece_24,40,-1,../phrases/Super Mario_SNES_Super Mario World_Title Screen_40.mid
+0,0,piece_25,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_0.mid
+0,0,piece_25,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_4.mid
+0,0,piece_25,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_8.mid
+0,0,piece_25,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_12.mid
+0,0,piece_25,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_16.mid
+0,0,piece_25,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_20.mid
+0,0,piece_25,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_24.mid
+0,0,piece_25,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_28.mid
+0,0,piece_25,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_32.mid
+1,0,piece_26,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_0.mid
+1,0,piece_26,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_4.mid
+1,0,piece_26,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_8.mid
+1,0,piece_26,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_12.mid
+1,0,piece_26,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_16.mid
+1,0,piece_26,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_20.mid
+1,0,piece_26,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_24.mid
+1,0,piece_26,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_28.mid
+1,0,piece_26,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_32.mid
+1,0,piece_26,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_36.mid
+1,0,piece_26,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_40.mid
+1,0,piece_26,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_44.mid
+1,0,piece_26,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_48.mid
+0,0,piece_28,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Life Stream_0.mid
+0,0,piece_28,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Life Stream_4.mid
+1,1,piece_29,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_0.mid
+1,1,piece_29,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_4.mid
+1,1,piece_29,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_8.mid
+1,1,piece_29,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_12.mid
+1,1,piece_29,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_16.mid
+1,1,piece_29,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_20.mid
+1,1,piece_29,24,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_24.mid
+1,1,piece_29,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_28.mid
+1,1,piece_29,32,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_32.mid
+1,1,piece_29,36,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_36.mid
+0,0,piece_31,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_0.mid
+0,0,piece_31,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_4.mid
+0,0,piece_31,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_8.mid
+0,0,piece_31,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_12.mid
+0,0,piece_31,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_16.mid
+0,0,piece_31,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_20.mid
+0,0,piece_31,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_24.mid
+0,0,piece_31,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_28.mid
+0,0,piece_31,32,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_32.mid
+0,0,piece_31,36,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_36.mid
+1,0,piece_33,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light_0.mid
+1,0,piece_33,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light_4.mid
+1,0,piece_33,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light_8.mid
+1,0,piece_34,0,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_0.mid
+1,0,piece_34,4,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_4.mid
+1,0,piece_34,8,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_8.mid
+1,0,piece_34,12,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_12.mid
+1,0,piece_34,16,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_16.mid
+1,0,piece_34,20,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_20.mid
+1,0,piece_34,24,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_24.mid
+1,0,piece_34,28,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_28.mid
+1,0,piece_34,32,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_32.mid
+1,0,piece_34,36,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_36.mid
+1,0,piece_34,40,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_40.mid
+1,0,piece_34,44,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_44.mid
+1,0,piece_34,48,-1,../phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_48.mid
+0,1,piece_35,0,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_0.mid
+0,1,piece_35,4,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_4.mid
+0,1,piece_35,8,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_8.mid
+0,1,piece_35,12,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_12.mid
+0,1,piece_35,16,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_16.mid
+0,1,piece_35,20,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_20.mid
+0,1,piece_35,24,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_24.mid
+0,1,piece_35,28,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_28.mid
+0,1,piece_35,32,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_32.mid
+0,1,piece_35,36,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_36.mid
+0,1,piece_35,40,-1,../phrases/Super Mario_N64_Super Mario 64_Koopas Theme_40.mid
+1,1,piece_36,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_0.mid
+1,1,piece_36,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_4.mid
+1,1,piece_36,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_8.mid
+1,1,piece_36,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_12.mid
+1,1,piece_36,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_16.mid
+1,1,piece_36,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_20.mid
+1,0,piece_37,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_0.mid
+1,0,piece_37,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_4.mid
+1,0,piece_37,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_8.mid
+1,0,piece_37,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_12.mid
+1,0,piece_37,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_16.mid
+1,0,piece_37,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_20.mid
+1,0,piece_37,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_24.mid
+1,0,piece_37,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_28.mid
+1,0,piece_37,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_32.mid
+1,0,piece_37,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_36.mid
+1,0,piece_37,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_40.mid
+1,1,piece_38,0,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_0.mid
+1,1,piece_38,4,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_4.mid
+1,1,piece_38,8,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_8.mid
+1,1,piece_38,12,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_12.mid
+1,1,piece_38,16,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_16.mid
+1,1,piece_38,20,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_20.mid
+1,1,piece_38,24,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_24.mid
+1,1,piece_38,28,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_28.mid
+1,1,piece_38,32,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_32.mid
+1,1,piece_38,36,-1,../phrases/Super Mario_NES_Super Mario Bros_Main Theme_36.mid
+1,1,piece_43,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_0.mid
+1,1,piece_43,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_4.mid
+1,1,piece_43,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_8.mid
+1,1,piece_43,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_12.mid
+1,1,piece_43,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_16.mid
+1,1,piece_43,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_20.mid
+1,1,piece_43,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_24.mid
+1,1,piece_43,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_28.mid
+1,1,piece_43,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_32.mid
+1,1,piece_43,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_36.mid
+1,1,piece_43,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_40.mid
+1,1,piece_43,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_44.mid
+1,1,piece_43,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_48.mid
+1,1,piece_43,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_52.mid
+1,1,piece_43,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_56.mid
+1,1,piece_43,60,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_60.mid
+1,1,piece_43,64,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_64.mid
+1,1,piece_43,68,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_68.mid
+1,1,piece_43,72,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_72.mid
+0,1,piece_44,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_0.mid
+0,1,piece_44,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_4.mid
+0,1,piece_44,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_8.mid
+0,1,piece_44,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_12.mid
+0,1,piece_44,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_16.mid
+0,1,piece_44,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_20.mid
+0,1,piece_44,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_28.mid
+0,1,piece_44,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_32.mid
+0,1,piece_44,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_36.mid
+0,1,piece_44,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_40.mid
+0,1,piece_44,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_44.mid
+0,1,piece_44,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_48.mid
+0,1,piece_44,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_52.mid
+0,1,piece_44,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_56.mid
+1,1,piece_44,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_0.mid
+1,0,piece_45,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_0.mid
+1,0,piece_45,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_4.mid
+1,0,piece_45,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_8.mid
+1,0,piece_45,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_12.mid
+1,0,piece_45,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_16.mid
+1,0,piece_45,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_20.mid
+1,0,piece_45,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_24.mid
+1,0,piece_45,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_28.mid
+0,1,piece_47,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly_0.mid
+0,1,piece_47,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly_4.mid
+0,1,piece_47,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly_16.mid
+0,1,piece_48,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_0.mid
+0,1,piece_48,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_4.mid
+0,1,piece_48,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_8.mid
+0,1,piece_48,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_12.mid
+0,1,piece_48,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_16.mid
+0,1,piece_48,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_20.mid
+0,1,piece_48,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_24.mid
+0,1,piece_48,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_28.mid
+0,1,piece_48,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_32.mid
+0,1,piece_48,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_36.mid
+1,1,piece_48,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_0.mid
+1,1,piece_48,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_4.mid
+1,1,piece_48,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_8.mid
+1,1,piece_48,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_12.mid
+1,1,piece_48,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_16.mid
+1,1,piece_48,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_20.mid
+1,1,piece_48,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_24.mid
+1,1,piece_48,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_28.mid
+1,1,piece_49,0,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_0.mid
+1,1,piece_49,4,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_4.mid
+1,1,piece_49,8,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_8.mid
+1,1,piece_49,12,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_12.mid
+1,1,piece_49,16,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_16.mid
+1,1,piece_49,20,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_20.mid
+1,1,piece_49,24,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_24.mid
+1,1,piece_49,28,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_28.mid
+1,1,piece_49,32,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_32.mid
+1,1,piece_49,36,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_36.mid
+1,1,piece_49,40,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld 2_40.mid
+0,0,piece_50,0,-1,../phrases/Other_N64_GoldenEye 007_Statue_0.mid
+0,0,piece_50,4,-1,../phrases/Other_N64_GoldenEye 007_Statue_4.mid
+0,0,piece_50,8,-1,../phrases/Other_N64_GoldenEye 007_Statue_8.mid
+0,0,piece_50,12,-1,../phrases/Other_N64_GoldenEye 007_Statue_12.mid
+0,0,piece_50,16,-1,../phrases/Other_N64_GoldenEye 007_Statue_16.mid
+0,0,piece_50,20,-1,../phrases/Other_N64_GoldenEye 007_Statue_20.mid
+0,0,piece_50,24,-1,../phrases/Other_N64_GoldenEye 007_Statue_24.mid
+0,0,piece_50,28,-1,../phrases/Other_N64_GoldenEye 007_Statue_28.mid
+0,0,piece_50,32,-1,../phrases/Other_N64_GoldenEye 007_Statue_32.mid
+0,0,piece_50,36,-1,../phrases/Other_N64_GoldenEye 007_Statue_36.mid
+0,0,piece_50,40,-1,../phrases/Other_N64_GoldenEye 007_Statue_40.mid
+0,0,piece_50,44,-1,../phrases/Other_N64_GoldenEye 007_Statue_44.mid
+0,0,piece_50,48,-1,../phrases/Other_N64_GoldenEye 007_Statue_48.mid
+0,0,piece_50,52,-1,../phrases/Other_N64_GoldenEye 007_Statue_52.mid
+0,0,piece_50,56,-1,../phrases/Other_N64_GoldenEye 007_Statue_56.mid
+0,0,piece_50,60,-1,../phrases/Other_N64_GoldenEye 007_Statue_60.mid
+0,0,piece_50,64,-1,../phrases/Other_N64_GoldenEye 007_Statue_64.mid
+0,0,piece_50,68,-1,../phrases/Other_N64_GoldenEye 007_Statue_68.mid
+0,0,piece_50,72,-1,../phrases/Other_N64_GoldenEye 007_Statue_72.mid
+0,0,piece_50,76,-1,../phrases/Other_N64_GoldenEye 007_Statue_76.mid
+0,0,piece_50,80,-1,../phrases/Other_N64_GoldenEye 007_Statue_80.mid
+1,1,piece_50,0,-1,../phrases/Other_N64_GoldenEye 007_Statue_0.mid
+1,1,piece_51,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_0.mid
+1,1,piece_51,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_4.mid
+1,1,piece_51,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_8.mid
+1,1,piece_51,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_12.mid
+1,1,piece_51,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_16.mid
+1,1,piece_51,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_20.mid
+1,1,piece_51,24,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_24.mid
+1,1,piece_51,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_28.mid
+1,1,piece_51,32,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_32.mid
+1,1,piece_51,36,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_36.mid
+1,1,piece_51,40,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_40.mid
+1,1,piece_51,44,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_44.mid
+1,1,piece_51,48,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_48.mid
+0,0,piece_52,0,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_0.mid
+0,0,piece_52,4,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_4.mid
+0,0,piece_52,8,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_8.mid
+0,0,piece_52,12,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_12.mid
+0,0,piece_52,16,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_16.mid
+0,0,piece_52,20,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_20.mid
+0,0,piece_52,24,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_24.mid
+0,0,piece_52,28,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_28.mid
+0,0,piece_52,32,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_32.mid
+0,0,piece_52,36,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_36.mid
+0,0,piece_52,40,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_40.mid
+0,0,piece_52,44,-1,../phrases/Other_PS2_Shadow of the Colossus_Prayer_44.mid
+0,0,piece_54,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_0.mid
+0,0,piece_54,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_4.mid
+0,0,piece_54,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_8.mid
+0,0,piece_54,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_12.mid
+0,0,piece_54,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_16.mid
+0,0,piece_54,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_20.mid
+0,0,piece_54,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_24.mid
+0,0,piece_54,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_28.mid
+0,0,piece_54,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_32.mid
+0,0,piece_54,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_36.mid
+1,1,piece_58,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_0.mid
+1,1,piece_58,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_4.mid
+1,1,piece_58,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_8.mid
+1,1,piece_58,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_12.mid
+1,1,piece_58,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_16.mid
+1,1,piece_58,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_20.mid
+1,1,piece_59,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_0.mid
+1,1,piece_59,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_4.mid
+1,1,piece_59,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_8.mid
+1,1,piece_59,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_12.mid
+1,1,piece_59,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_16.mid
+1,1,piece_59,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_20.mid
+1,1,piece_59,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_24.mid
+1,1,piece_59,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_28.mid
+1,1,piece_59,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_32.mid
+1,1,piece_59,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_36.mid
+1,1,piece_59,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_40.mid
+1,1,piece_59,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_44.mid
+1,1,piece_59,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_48.mid
+1,1,piece_60,0,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_0.mid
+1,1,piece_60,4,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_4.mid
+1,1,piece_60,8,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_8.mid
+1,1,piece_60,12,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_12.mid
+1,1,piece_60,16,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_16.mid
+1,1,piece_60,20,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_20.mid
+1,1,piece_60,28,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_28.mid
+1,1,piece_60,32,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_32.mid
+1,1,piece_60,36,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_36.mid
+1,1,piece_60,40,-1,../phrases/Super Mario_SNES_Super Mario World_Overworld_40.mid
+1,1,piece_61,0,-1,../phrases/Other_NES_Tetris_Music A_0.mid
+1,1,piece_61,4,-1,../phrases/Other_NES_Tetris_Music A_4.mid
+1,1,piece_61,8,-1,../phrases/Other_NES_Tetris_Music A_8.mid
+1,1,piece_61,12,-1,../phrases/Other_NES_Tetris_Music A_12.mid
+1,1,piece_61,16,-1,../phrases/Other_NES_Tetris_Music A_16.mid
+1,1,piece_61,20,-1,../phrases/Other_NES_Tetris_Music A_20.mid
+1,1,piece_61,24,-1,../phrases/Other_NES_Tetris_Music A_24.mid
+1,1,piece_61,28,-1,../phrases/Other_NES_Tetris_Music A_28.mid
+1,1,piece_61,32,-1,../phrases/Other_NES_Tetris_Music A_32.mid
+1,1,piece_61,36,-1,../phrases/Other_NES_Tetris_Music A_36.mid
+1,1,piece_62,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_0.mid
+1,1,piece_62,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_4.mid
+1,1,piece_62,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_8.mid
+1,1,piece_62,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_12.mid
+1,1,piece_62,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_16.mid
+1,1,piece_62,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_20.mid
+1,1,piece_62,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_24.mid
+1,1,piece_64,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_0.mid
+1,1,piece_64,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_4.mid
+1,1,piece_64,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_8.mid
+1,1,piece_64,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_12.mid
+1,1,piece_64,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_16.mid
+1,1,piece_64,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_20.mid
+1,1,piece_64,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_24.mid
+1,1,piece_64,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_28.mid
+1,1,piece_64,32,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_32.mid
+1,1,piece_64,36,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_36.mid
+1,1,piece_66,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_0.mid
+1,1,piece_66,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_4.mid
+1,1,piece_66,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_8.mid
+1,1,piece_66,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_12.mid
+1,1,piece_66,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_16.mid
+1,1,piece_66,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_20.mid
+1,1,piece_66,24,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_24.mid
+1,1,piece_66,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_28.mid
+1,1,piece_66,32,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_32.mid
+1,0,piece_68,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_0.mid
+1,0,piece_68,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_4.mid
+1,0,piece_68,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_8.mid
+1,0,piece_68,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_12.mid
+1,0,piece_68,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_16.mid
+1,1,piece_71,0,-1,../phrases/Other_N64_GoldenEye 007_Frigate_0.mid
+1,1,piece_71,4,-1,../phrases/Other_N64_GoldenEye 007_Frigate_4.mid
+1,1,piece_71,8,-1,../phrases/Other_N64_GoldenEye 007_Frigate_8.mid
+1,1,piece_71,12,-1,../phrases/Other_N64_GoldenEye 007_Frigate_12.mid
+1,1,piece_71,16,-1,../phrases/Other_N64_GoldenEye 007_Frigate_16.mid
+1,1,piece_71,20,-1,../phrases/Other_N64_GoldenEye 007_Frigate_20.mid
+1,1,piece_71,24,-1,../phrases/Other_N64_GoldenEye 007_Frigate_24.mid
+1,1,piece_71,28,-1,../phrases/Other_N64_GoldenEye 007_Frigate_28.mid
+1,1,piece_71,32,-1,../phrases/Other_N64_GoldenEye 007_Frigate_32.mid
+1,1,piece_71,36,-1,../phrases/Other_N64_GoldenEye 007_Frigate_36.mid
+1,1,piece_71,40,-1,../phrases/Other_N64_GoldenEye 007_Frigate_40.mid
+1,0,piece_72,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_0.mid
+1,0,piece_72,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_4.mid
+1,0,piece_72,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_8.mid
+1,0,piece_72,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_12.mid
+1,0,piece_72,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_16.mid
+1,0,piece_72,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_20.mid
+1,0,piece_72,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_24.mid
+1,0,piece_72,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_28.mid
+1,0,piece_72,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_32.mid
+1,0,piece_72,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_36.mid
+1,0,piece_72,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_40.mid
+1,0,piece_72,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_44.mid
+1,0,piece_72,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_48.mid
+1,0,piece_72,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_52.mid
+1,0,piece_72,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_56.mid
+0,0,piece_73,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad_0.mid
+0,0,piece_73,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad_4.mid
+0,0,piece_73,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad_8.mid
+0,0,piece_73,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad_12.mid
+1,0,piece_74,0,-1,../phrases/Super Mario_N64_Super Mario 64_Select a File_0.mid
+1,0,piece_74,4,-1,../phrases/Super Mario_N64_Super Mario 64_Select a File_4.mid
+1,0,piece_74,8,-1,../phrases/Super Mario_N64_Super Mario 64_Select a File_8.mid
+1,0,piece_74,12,-1,../phrases/Super Mario_N64_Super Mario 64_Select a File_12.mid
+1,0,piece_74,16,-1,../phrases/Super Mario_N64_Super Mario 64_Select a File_16.mid
+1,1,piece_75,0,-1,../phrases/Super Mario_SNES_Super Mario World_Forest of Illusion_0.mid
+1,1,piece_75,4,-1,../phrases/Super Mario_SNES_Super Mario World_Forest of Illusion_4.mid
+1,1,piece_75,8,-1,../phrases/Super Mario_SNES_Super Mario World_Forest of Illusion_8.mid
+1,1,piece_75,12,-1,../phrases/Super Mario_SNES_Super Mario World_Forest of Illusion_12.mid
+0,1,piece_76,0,-1,../phrases/Other_N64_GoldenEye 007_Dam_0.mid
+0,1,piece_76,4,-1,../phrases/Other_N64_GoldenEye 007_Dam_4.mid
+0,1,piece_76,8,-1,../phrases/Other_N64_GoldenEye 007_Dam_8.mid
+0,1,piece_76,12,-1,../phrases/Other_N64_GoldenEye 007_Dam_12.mid
+0,1,piece_76,16,-1,../phrases/Other_N64_GoldenEye 007_Dam_16.mid
+0,1,piece_76,20,-1,../phrases/Other_N64_GoldenEye 007_Dam_20.mid
+0,1,piece_76,24,-1,../phrases/Other_N64_GoldenEye 007_Dam_24.mid
+0,1,piece_76,28,-1,../phrases/Other_N64_GoldenEye 007_Dam_28.mid
+0,1,piece_76,32,-1,../phrases/Other_N64_GoldenEye 007_Dam_32.mid
+0,1,piece_76,36,-1,../phrases/Other_N64_GoldenEye 007_Dam_36.mid
+0,1,piece_76,40,-1,../phrases/Other_N64_GoldenEye 007_Dam_40.mid
+0,1,piece_76,44,-1,../phrases/Other_N64_GoldenEye 007_Dam_44.mid
+0,1,piece_76,48,-1,../phrases/Other_N64_GoldenEye 007_Dam_48.mid
+0,0,piece_77,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_0.mid
+0,0,piece_77,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_4.mid
+0,0,piece_77,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_8.mid
+0,0,piece_77,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_12.mid
+0,0,piece_77,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_16.mid
+0,0,piece_77,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_20.mid
+0,0,piece_77,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_24.mid
+0,0,piece_77,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_28.mid
+1,0,piece_78,0,-1,../phrases/Super Mario_NES_Super Mario Bros_Underwater_0.mid
+1,0,piece_78,4,-1,../phrases/Super Mario_NES_Super Mario Bros_Underwater_4.mid
+1,0,piece_78,8,-1,../phrases/Super Mario_NES_Super Mario Bros_Underwater_8.mid
+1,0,piece_78,12,-1,../phrases/Super Mario_NES_Super Mario Bros_Underwater_12.mid
+1,0,piece_78,16,-1,../phrases/Super Mario_NES_Super Mario Bros_Underwater_16.mid
+1,1,piece_78,0,-1,../phrases/Super Mario_NES_Super Mario Bros_Underwater_0.mid
+1,1,piece_79,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_0.mid
+1,1,piece_79,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_4.mid
+1,1,piece_79,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_8.mid
+1,1,piece_79,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_12.mid
+1,1,piece_79,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_16.mid
+0,1,piece_80,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_0.mid
+0,1,piece_80,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_4.mid
+0,1,piece_80,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_8.mid
+0,1,piece_80,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_12.mid
+0,1,piece_80,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_16.mid
+0,1,piece_80,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_20.mid
+1,1,piece_81,0,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_0.mid
+1,1,piece_81,4,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_4.mid
+1,1,piece_81,8,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_8.mid
+1,1,piece_81,12,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_12.mid
+1,1,piece_81,16,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_16.mid
+1,1,piece_81,20,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_20.mid
+1,1,piece_81,24,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_24.mid
+1,1,piece_81,28,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_28.mid
+1,1,piece_81,32,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_32.mid
+1,1,piece_81,36,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_36.mid
+1,1,piece_81,40,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_40.mid
+1,1,piece_81,44,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_44.mid
+0,1,piece_82,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_0.mid
+0,1,piece_82,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_4.mid
+0,1,piece_82,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_8.mid
+0,1,piece_82,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_12.mid
+0,1,piece_82,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_16.mid
+0,1,piece_82,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_20.mid
+0,1,piece_82,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_24.mid
+0,1,piece_82,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_28.mid
+0,1,piece_82,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_32.mid
+0,1,piece_82,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_36.mid
+0,1,piece_82,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_40.mid
+0,0,piece_82,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_0.mid
+0,1,piece_82,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_0.mid
+0,1,piece_82,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_4.mid
+1,1,piece_83,0,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_0.mid
+1,1,piece_83,4,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_4.mid
+1,1,piece_83,8,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_8.mid
+1,1,piece_83,12,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_12.mid
+1,1,piece_83,16,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_16.mid
+1,1,piece_83,20,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_20.mid
+1,1,piece_83,24,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_24.mid
+1,1,piece_83,28,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_28.mid
+1,1,piece_83,32,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_32.mid
+1,1,piece_83,36,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_36.mid
+1,1,piece_83,40,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_40.mid
+1,0,piece_84,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_0.mid
+1,0,piece_84,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_4.mid
+1,0,piece_84,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_8.mid
+1,0,piece_84,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_12.mid
+1,0,piece_84,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_16.mid
+1,0,piece_84,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_20.mid
+1,0,piece_84,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_24.mid
+1,0,piece_84,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_28.mid
+1,1,piece_85,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_0.mid
+1,1,piece_85,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_4.mid
+1,1,piece_85,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_8.mid
+1,1,piece_85,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_12.mid
+1,1,piece_85,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_16.mid
+1,1,piece_85,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_20.mid
+1,1,piece_85,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_24.mid
+1,1,piece_85,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_28.mid
+1,1,piece_85,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_32.mid
+1,1,piece_85,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_36.mid
+1,1,piece_85,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_40.mid
+1,1,piece_86,0,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_0.mid
+0,1,piece_86,0,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_0.mid
+0,1,piece_86,4,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_4.mid
+1,1,piece_86,0,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_0.mid
+1,1,piece_86,4,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_4.mid
+1,1,piece_86,8,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_8.mid
+1,1,piece_86,12,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_12.mid
+1,1,piece_86,16,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_16.mid
+1,1,piece_86,20,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_20.mid
+1,1,piece_86,24,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_24.mid
+1,1,piece_86,28,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_28.mid
+1,1,piece_86,32,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_32.mid
+1,1,piece_86,36,-1,../phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_36.mid
+1,0,piece_87,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_0.mid
+1,0,piece_87,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_4.mid
+1,0,piece_87,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_8.mid
+1,0,piece_87,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_12.mid
+1,0,piece_87,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_16.mid
+1,0,piece_87,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_20.mid
+1,0,piece_87,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_24.mid
+1,0,piece_87,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_28.mid
+1,0,piece_87,32,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_32.mid
+1,0,piece_87,36,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_36.mid
+1,0,piece_87,40,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_40.mid
+1,1,piece_89,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_0.mid
+1,1,piece_89,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_4.mid
+1,1,piece_89,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_8.mid
+1,1,piece_89,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_12.mid
+1,1,piece_89,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_16.mid
+1,1,piece_89,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_20.mid
+1,1,piece_89,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_24.mid
+1,1,piece_89,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_28.mid
+1,1,piece_89,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_32.mid
+1,1,piece_89,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_36.mid
+1,1,piece_89,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_40.mid
+1,1,piece_89,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_44.mid
+1,1,piece_89,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_48.mid
+1,1,piece_89,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_52.mid
+1,1,piece_89,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_56.mid
+1,0,piece_92,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_0.mid
+1,0,piece_92,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_4.mid
+1,0,piece_92,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_8.mid
+1,0,piece_92,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_12.mid
+1,0,piece_92,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_16.mid
+1,0,piece_92,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_20.mid
+1,0,piece_92,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_24.mid
+1,0,piece_92,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_28.mid
+1,0,piece_92,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_32.mid
+1,0,piece_92,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_36.mid
+1,0,piece_92,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_40.mid
+1,0,piece_92,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_44.mid
+1,0,piece_92,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_48.mid
+1,0,piece_92,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_52.mid
+1,0,piece_92,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_56.mid
+1,0,piece_92,60,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_60.mid
+1,0,piece_92,64,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_64.mid
+1,0,piece_92,68,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_68.mid
+1,0,piece_92,72,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_72.mid
+1,0,piece_92,76,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_76.mid
+1,0,piece_92,80,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_80.mid
+1,1,piece_92,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_0.mid
+0,1,piece_93,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_0.mid
+0,1,piece_93,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_4.mid
+0,1,piece_93,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_8.mid
+0,1,piece_93,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_12.mid
+0,1,piece_93,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_16.mid
+0,1,piece_93,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_20.mid
+1,1,piece_93,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_0.mid
+1,1,piece_93,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_4.mid
+0,1,piece_93,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_0.mid
+0,1,piece_93,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_4.mid
+0,1,piece_93,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_8.mid
+0,1,piece_93,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_12.mid
+0,1,piece_96,0,-1,../phrases/Star Fox_SNES_Star Fox_Venom_0.mid
+0,1,piece_96,4,-1,../phrases/Star Fox_SNES_Star Fox_Venom_4.mid
+0,1,piece_96,8,-1,../phrases/Star Fox_SNES_Star Fox_Venom_8.mid
+0,1,piece_96,12,-1,../phrases/Star Fox_SNES_Star Fox_Venom_12.mid
+0,1,piece_96,16,-1,../phrases/Star Fox_SNES_Star Fox_Venom_16.mid
+0,1,piece_96,20,-1,../phrases/Star Fox_SNES_Star Fox_Venom_20.mid
+0,1,piece_96,24,-1,../phrases/Star Fox_SNES_Star Fox_Venom_24.mid
+1,0,piece_98,0,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_0.mid
+1,0,piece_98,4,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_4.mid
+1,0,piece_98,8,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_8.mid
+1,0,piece_98,12,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_12.mid
+1,0,piece_98,16,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_16.mid
+1,0,piece_98,20,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_20.mid
+1,0,piece_98,24,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_24.mid
+1,0,piece_98,28,-1,../phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_28.mid
+0,1,piece_99,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_0.mid
+0,1,piece_99,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_4.mid
+0,1,piece_99,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_8.mid
+0,1,piece_99,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_12.mid
+0,1,piece_99,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_16.mid
+0,1,piece_99,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_20.mid
+0,1,piece_99,24,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_24.mid
+0,1,piece_99,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_28.mid
+0,1,piece_99,32,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_32.mid
+1,0,piece_101,0,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_0.mid
+1,0,piece_101,4,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_4.mid
+1,0,piece_101,8,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_8.mid
+1,0,piece_101,12,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_12.mid
+1,0,piece_101,16,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_16.mid
+1,0,piece_101,20,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_20.mid
+1,0,piece_101,24,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_24.mid
+1,0,piece_101,28,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_28.mid
+1,0,piece_101,32,-1,../phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_32.mid
+1,0,piece_106,0,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_0.mid
+1,0,piece_106,4,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_4.mid
+1,0,piece_106,8,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_8.mid
+1,0,piece_106,12,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_12.mid
+1,0,piece_106,16,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_16.mid
+1,1,piece_106,0,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_0.mid
+1,1,piece_106,4,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_4.mid
+1,1,piece_106,8,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_8.mid
+1,1,piece_106,12,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_12.mid
+1,1,piece_106,16,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_16.mid
+1,1,piece_106,20,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_20.mid
+1,1,piece_106,24,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_24.mid
+1,1,piece_106,28,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_28.mid
+1,1,piece_106,32,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_32.mid
+1,1,piece_106,36,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_36.mid
+1,1,piece_106,40,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_40.mid
+1,1,piece_106,44,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_44.mid
+1,1,piece_106,48,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_48.mid
+1,0,piece_106,0,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_0.mid
+0,1,piece_108,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_0.mid
+0,1,piece_108,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_4.mid
+0,1,piece_108,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_8.mid
+0,1,piece_108,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_12.mid
+0,1,piece_108,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_16.mid
+0,1,piece_108,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_20.mid
+1,0,piece_109,0,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_0.mid
+1,0,piece_109,4,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_4.mid
+1,0,piece_109,8,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_8.mid
+1,0,piece_109,12,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_12.mid
+1,0,piece_109,16,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_16.mid
+1,0,piece_109,20,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_20.mid
+1,0,piece_109,24,-1,../phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_24.mid
+0,1,piece_110,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_0.mid
+0,1,piece_110,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_4.mid
+0,1,piece_110,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_8.mid
+0,1,piece_110,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_12.mid
+0,1,piece_110,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_16.mid
+0,1,piece_110,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_20.mid
+0,1,piece_110,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_24.mid
+0,1,piece_110,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_28.mid
+0,1,piece_110,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_32.mid
+0,1,piece_110,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_36.mid
+0,1,piece_110,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_40.mid
+0,1,piece_110,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_44.mid
+0,1,piece_110,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_48.mid
+0,1,piece_110,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_52.mid
+0,1,piece_110,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_56.mid
+0,1,piece_110,60,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_60.mid
+0,1,piece_110,64,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_64.mid
+0,1,piece_110,68,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_68.mid
+0,1,piece_110,72,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_72.mid
+0,1,piece_110,76,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_76.mid
+0,1,piece_110,80,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_80.mid
+0,1,piece_110,84,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_84.mid
+0,1,piece_110,88,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_88.mid
+0,1,piece_110,92,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_92.mid
+0,1,piece_110,96,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_96.mid
+0,1,piece_110,100,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_100.mid
+0,1,piece_110,104,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_104.mid
+0,1,piece_110,108,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_108.mid
+0,1,piece_110,112,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_112.mid
+0,1,piece_110,116,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_116.mid
+0,1,piece_110,120,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_120.mid
+1,1,piece_110,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_0.mid
+0,1,piece_112,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_0.mid
+0,1,piece_112,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_4.mid
+0,1,piece_112,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_8.mid
+0,1,piece_112,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_12.mid
+0,1,piece_112,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_16.mid
+0,1,piece_112,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_20.mid
+0,1,piece_112,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_28.mid
+0,1,piece_112,32,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_32.mid
+1,1,piece_113,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_0.mid
+1,1,piece_113,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_4.mid
+1,1,piece_113,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_8.mid
+1,1,piece_113,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_12.mid
+1,1,piece_113,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_16.mid
+1,1,piece_113,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_20.mid
+1,1,piece_113,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_24.mid
+1,1,piece_113,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_28.mid
+1,1,piece_113,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_32.mid
+1,1,piece_113,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_36.mid
+1,1,piece_113,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_40.mid
+1,1,piece_113,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_44.mid
+1,1,piece_113,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_48.mid
+1,1,piece_113,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_52.mid
+1,1,piece_113,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_56.mid
+1,1,piece_113,60,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_60.mid
+1,1,piece_113,64,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_64.mid
+1,1,piece_113,68,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_68.mid
+1,1,piece_113,72,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_72.mid
+1,1,piece_113,76,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_76.mid
+1,1,piece_113,80,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_80.mid
+1,1,piece_113,84,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_84.mid
+1,1,piece_113,88,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_88.mid
+1,1,piece_113,92,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_92.mid
+1,1,piece_113,96,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_96.mid
+0,0,piece_118,0,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_0.mid
+0,0,piece_118,4,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_4.mid
+0,0,piece_118,8,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_8.mid
+0,0,piece_118,12,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_12.mid
+0,0,piece_118,16,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_16.mid
+0,0,piece_118,20,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_20.mid
+0,0,piece_118,24,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_24.mid
+0,0,piece_118,28,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_28.mid
+0,0,piece_118,32,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_32.mid
+0,0,piece_118,36,-1,../phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_36.mid
+1,1,piece_119,0,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_0.mid
+1,1,piece_119,4,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_4.mid
+1,1,piece_119,8,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_8.mid
+1,1,piece_119,12,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_12.mid
+1,1,piece_119,16,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_16.mid
+0,1,piece_121,0,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_0.mid
+0,1,piece_121,4,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_4.mid
+0,1,piece_121,8,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_8.mid
+0,1,piece_121,12,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_12.mid
+0,1,piece_121,16,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_16.mid
+0,1,piece_121,20,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_20.mid
+0,1,piece_121,24,-1,../phrases/Other_PC_Age of Empires II The Age of Kings_Menu_24.mid
+0,0,piece_122,0,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_0.mid
+0,0,piece_122,4,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_4.mid
+0,0,piece_122,8,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_8.mid
+0,0,piece_122,12,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_12.mid
+0,0,piece_122,16,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_16.mid
+1,1,piece_126,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_0.mid
+1,1,piece_126,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_4.mid
+1,1,piece_126,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_8.mid
+1,1,piece_126,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_12.mid
+1,1,piece_126,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_16.mid
+1,1,piece_126,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_20.mid
+1,1,piece_128,0,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_0.mid
+1,1,piece_128,4,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_4.mid
+1,1,piece_128,8,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_8.mid
+1,1,piece_128,12,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_12.mid
+1,1,piece_128,16,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_16.mid
+1,1,piece_128,20,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_20.mid
+1,1,piece_128,24,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_24.mid
+1,1,piece_128,28,-1,../phrases/Super Mario_N64_Super Mario 64_Final Bowser_28.mid
+1,0,piece_130,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_0.mid
+1,0,piece_130,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_4.mid
+1,0,piece_130,8,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_8.mid
+1,0,piece_130,12,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_12.mid
+1,0,piece_130,16,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_16.mid
+1,0,piece_130,20,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_20.mid
+1,0,piece_130,24,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_24.mid
+1,0,piece_130,28,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_28.mid
+1,0,piece_130,32,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_32.mid
+1,0,piece_130,36,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_36.mid
+1,0,piece_130,40,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_40.mid
+0,0,piece_130,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_0.mid
+0,0,piece_130,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_4.mid
+1,0,piece_130,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_0.mid
+1,0,piece_130,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_4.mid
+1,0,piece_130,8,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_8.mid
+1,0,piece_130,12,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_12.mid
+1,0,piece_130,16,-1,../phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_16.mid
+1,1,piece_131,0,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_0.mid
+1,1,piece_131,4,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_4.mid
+1,1,piece_131,8,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_8.mid
+1,1,piece_131,12,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_12.mid
+1,1,piece_131,16,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_16.mid
+1,1,piece_131,20,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_20.mid
+1,1,piece_131,24,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_24.mid
+1,1,piece_131,28,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_28.mid
+1,1,piece_131,32,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_32.mid
+1,1,piece_131,36,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_36.mid
+1,1,piece_131,40,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_40.mid
+1,1,piece_131,44,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_44.mid
+1,1,piece_131,48,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_48.mid
+1,1,piece_131,52,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_52.mid
+1,1,piece_131,56,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_56.mid
+1,1,piece_131,60,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_60.mid
+1,1,piece_131,64,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_64.mid
+1,1,piece_131,68,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_68.mid
+1,1,piece_131,72,-1,../phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_72.mid
+1,0,piece_132,0,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_0.mid
+1,0,piece_132,4,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_4.mid
+1,0,piece_132,8,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_8.mid
+1,0,piece_132,12,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_12.mid
+1,0,piece_132,16,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_16.mid
+1,0,piece_132,20,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_20.mid
+1,0,piece_132,24,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_24.mid
+1,0,piece_132,28,-1,../phrases/Mana_SNES_Secret of Mana_A Wish_28.mid
+0,0,piece_135,0,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_0.mid
+0,0,piece_135,4,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_4.mid
+0,0,piece_135,8,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_8.mid
+0,0,piece_135,12,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_12.mid
+0,0,piece_135,16,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_16.mid
+0,0,piece_135,20,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_20.mid
+0,0,piece_135,24,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_24.mid
+0,0,piece_135,28,-1,../phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_28.mid
+1,1,piece_136,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_0.mid
+1,1,piece_136,4,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_4.mid
+1,1,piece_136,8,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_8.mid
+1,1,piece_136,12,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_12.mid
+1,1,piece_136,16,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_16.mid
+1,1,piece_136,20,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_20.mid
+1,1,piece_136,24,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_24.mid
+1,1,piece_136,28,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_28.mid
+1,1,piece_136,32,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_32.mid
+1,1,piece_136,36,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_36.mid
+1,1,piece_136,40,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_40.mid
+1,1,piece_136,44,-1,../phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_44.mid
+1,0,piece_137,0,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_0.mid
+1,0,piece_137,4,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_4.mid
+1,1,piece_137,0,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_0.mid
+1,1,piece_137,4,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_4.mid
+1,1,piece_137,8,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_8.mid
+1,1,piece_137,12,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_12.mid
+1,1,piece_137,16,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_16.mid
+1,1,piece_137,20,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_20.mid
+1,1,piece_137,24,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_24.mid
+1,1,piece_137,28,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_28.mid
+1,1,piece_137,32,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_32.mid
+1,1,piece_137,36,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_36.mid
+1,1,piece_137,40,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_40.mid
+1,1,piece_137,44,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_44.mid
+1,1,piece_137,48,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_48.mid
+1,0,piece_138,0,-1,../phrases/Other_PC_The Sims_Since We Met_0.mid
+1,0,piece_138,4,-1,../phrases/Other_PC_The Sims_Since We Met_4.mid
+1,0,piece_138,8,-1,../phrases/Other_PC_The Sims_Since We Met_8.mid
+1,0,piece_138,12,-1,../phrases/Other_PC_The Sims_Since We Met_12.mid
+1,0,piece_138,16,-1,../phrases/Other_PC_The Sims_Since We Met_16.mid
+1,0,piece_138,20,-1,../phrases/Other_PC_The Sims_Since We Met_20.mid
+1,0,piece_138,24,-1,../phrases/Other_PC_The Sims_Since We Met_24.mid
+1,0,piece_138,28,-1,../phrases/Other_PC_The Sims_Since We Met_28.mid
+1,0,piece_138,32,-1,../phrases/Other_PC_The Sims_Since We Met_32.mid
+1,0,piece_138,36,-1,../phrases/Other_PC_The Sims_Since We Met_36.mid
+1,0,piece_138,40,-1,../phrases/Other_PC_The Sims_Since We Met_40.mid
+1,0,piece_138,44,-1,../phrases/Other_PC_The Sims_Since We Met_44.mid
+1,0,piece_138,48,-1,../phrases/Other_PC_The Sims_Since We Met_48.mid
+1,0,piece_138,52,-1,../phrases/Other_PC_The Sims_Since We Met_52.mid
+1,0,piece_138,56,-1,../phrases/Other_PC_The Sims_Since We Met_56.mid
+1,0,piece_138,60,-1,../phrases/Other_PC_The Sims_Since We Met_60.mid
+1,0,piece_138,64,-1,../phrases/Other_PC_The Sims_Since We Met_64.mid
+1,0,piece_138,68,-1,../phrases/Other_PC_The Sims_Since We Met_68.mid
+1,0,piece_138,72,-1,../phrases/Other_PC_The Sims_Since We Met_72.mid
+1,0,piece_138,76,-1,../phrases/Other_PC_The Sims_Since We Met_76.mid
+1,0,piece_138,80,-1,../phrases/Other_PC_The Sims_Since We Met_80.mid
+1,0,piece_138,84,-1,../phrases/Other_PC_The Sims_Since We Met_84.mid
+1,0,piece_138,88,-1,../phrases/Other_PC_The Sims_Since We Met_88.mid
+1,0,piece_138,92,-1,../phrases/Other_PC_The Sims_Since We Met_92.mid
+1,0,piece_138,96,-1,../phrases/Other_PC_The Sims_Since We Met_96.mid
+1,0,piece_138,100,-1,../phrases/Other_PC_The Sims_Since We Met_100.mid
+1,0,piece_138,104,-1,../phrases/Other_PC_The Sims_Since We Met_104.mid
+1,0,piece_138,108,-1,../phrases/Other_PC_The Sims_Since We Met_108.mid
+1,0,piece_138,112,-1,../phrases/Other_PC_The Sims_Since We Met_112.mid
+1,0,piece_138,116,-1,../phrases/Other_PC_The Sims_Since We Met_116.mid
+1,0,piece_138,120,-1,../phrases/Other_PC_The Sims_Since We Met_120.mid
+1,0,piece_138,124,-1,../phrases/Other_PC_The Sims_Since We Met_124.mid
+1,0,piece_138,128,-1,../phrases/Other_PC_The Sims_Since We Met_128.mid
+1,0,piece_138,132,-1,../phrases/Other_PC_The Sims_Since We Met_132.mid
+1,0,piece_138,136,-1,../phrases/Other_PC_The Sims_Since We Met_136.mid
+1,0,piece_138,140,-1,../phrases/Other_PC_The Sims_Since We Met_140.mid
+1,1,piece_138,0,-1,../phrases/Other_PC_The Sims_Since We Met_0.mid
+1,0,piece_140,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_0.mid
+1,0,piece_140,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_4.mid
+1,0,piece_140,8,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_8.mid
+1,0,piece_140,12,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_12.mid
+1,0,piece_140,16,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_16.mid
+1,0,piece_140,20,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_20.mid
+1,0,piece_140,24,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_24.mid
+1,0,piece_140,28,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_28.mid
+1,0,piece_140,32,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_32.mid
+1,0,piece_140,36,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_36.mid
+1,0,piece_140,40,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_40.mid
+1,0,piece_140,44,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_44.mid
+1,0,piece_140,48,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_48.mid
+1,0,piece_140,52,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_52.mid
+1,0,piece_140,56,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_56.mid
+1,0,piece_140,60,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_60.mid
+1,0,piece_140,64,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_64.mid
+1,0,piece_140,68,-1,../phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_68.mid
+1,1,piece_141,0,-1,../phrases/Dragon Quest_NES_Dragon Quest_Final Battle_0.mid
+1,1,piece_141,4,-1,../phrases/Dragon Quest_NES_Dragon Quest_Final Battle_4.mid
+1,1,piece_141,8,-1,../phrases/Dragon Quest_NES_Dragon Quest_Final Battle_8.mid
+1,1,piece_141,12,-1,../phrases/Dragon Quest_NES_Dragon Quest_Final Battle_12.mid
+1,0,piece_142,0,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_0.mid
+1,0,piece_142,4,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_4.mid
+1,0,piece_142,8,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_8.mid
+1,0,piece_142,12,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_12.mid
+1,0,piece_142,16,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_16.mid
+1,0,piece_142,20,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_20.mid
+1,0,piece_142,24,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_24.mid
+1,0,piece_142,28,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_28.mid
+1,0,piece_142,32,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_32.mid
+1,0,piece_142,36,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_36.mid
+1,0,piece_142,40,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_40.mid
+1,0,piece_142,44,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_44.mid
+1,0,piece_142,48,-1,../phrases/Mana_SNES_Secret of Mana_Rose and Ghost_48.mid
+1,0,piece_143,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_0.mid
+1,0,piece_143,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_4.mid
+1,0,piece_143,8,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_8.mid
+1,0,piece_143,12,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_12.mid
+1,0,piece_143,16,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_16.mid
+1,0,piece_143,20,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_20.mid
+1,0,piece_143,24,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_24.mid
+1,0,piece_143,28,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_28.mid
+1,0,piece_143,32,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_32.mid
+1,0,piece_143,36,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_36.mid
+1,0,piece_143,40,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_40.mid
+1,0,piece_143,44,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_44.mid
+1,0,piece_143,48,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_48.mid
+1,0,piece_143,52,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_52.mid
+1,0,piece_143,56,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_56.mid
+1,0,piece_143,60,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_60.mid
+1,0,piece_143,64,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_64.mid
+1,0,piece_143,68,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_68.mid
+1,0,piece_143,72,-1,../phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_72.mid
+1,0,piece_144,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_0.mid
+1,0,piece_144,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_4.mid
+1,0,piece_144,8,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_8.mid
+1,0,piece_144,12,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_12.mid
+1,0,piece_144,16,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_16.mid
+1,0,piece_144,20,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_20.mid
+1,0,piece_144,24,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_24.mid
+1,0,piece_144,28,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_28.mid
+1,0,piece_144,32,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_32.mid
+1,0,piece_144,36,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_36.mid
+1,0,piece_144,40,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_40.mid
+1,0,piece_144,44,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_44.mid
+1,0,piece_144,48,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_48.mid
+1,0,piece_144,52,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_52.mid
+1,0,piece_144,56,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_56.mid
+1,0,piece_144,60,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_60.mid
+1,0,piece_144,64,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_64.mid
+1,0,piece_144,68,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_68.mid
+1,0,piece_144,72,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_72.mid
+1,0,piece_144,76,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_76.mid
+1,1,piece_144,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_0.mid
+1,1,piece_144,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_4.mid
+1,0,piece_144,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_0.mid
+1,0,piece_144,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_4.mid
+1,0,piece_145,0,-1,../phrases/Other_PC_The Sims_Bittersweet_0.mid
+1,0,piece_145,4,-1,../phrases/Other_PC_The Sims_Bittersweet_4.mid
+1,0,piece_145,8,-1,../phrases/Other_PC_The Sims_Bittersweet_8.mid
+1,0,piece_145,12,-1,../phrases/Other_PC_The Sims_Bittersweet_12.mid
+1,0,piece_145,16,-1,../phrases/Other_PC_The Sims_Bittersweet_16.mid
+1,0,piece_145,20,-1,../phrases/Other_PC_The Sims_Bittersweet_20.mid
+1,0,piece_145,24,-1,../phrases/Other_PC_The Sims_Bittersweet_24.mid
+1,0,piece_145,28,-1,../phrases/Other_PC_The Sims_Bittersweet_28.mid
+1,0,piece_145,32,-1,../phrases/Other_PC_The Sims_Bittersweet_32.mid
+1,0,piece_145,36,-1,../phrases/Other_PC_The Sims_Bittersweet_36.mid
+1,0,piece_145,40,-1,../phrases/Other_PC_The Sims_Bittersweet_40.mid
+1,0,piece_145,44,-1,../phrases/Other_PC_The Sims_Bittersweet_44.mid
+1,0,piece_145,48,-1,../phrases/Other_PC_The Sims_Bittersweet_48.mid
+1,0,piece_145,52,-1,../phrases/Other_PC_The Sims_Bittersweet_52.mid
+1,0,piece_145,56,-1,../phrases/Other_PC_The Sims_Bittersweet_56.mid
+1,1,piece_146,0,-1,../phrases/Other_PC_The Sims_Buying Theme_0.mid
+1,1,piece_146,4,-1,../phrases/Other_PC_The Sims_Buying Theme_4.mid
+1,1,piece_146,8,-1,../phrases/Other_PC_The Sims_Buying Theme_8.mid
+1,1,piece_146,12,-1,../phrases/Other_PC_The Sims_Buying Theme_12.mid
+1,1,piece_146,16,-1,../phrases/Other_PC_The Sims_Buying Theme_16.mid
+1,1,piece_146,20,-1,../phrases/Other_PC_The Sims_Buying Theme_20.mid
+1,1,piece_146,24,-1,../phrases/Other_PC_The Sims_Buying Theme_24.mid
+1,1,piece_147,0,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_0.mid
+1,1,piece_147,4,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_4.mid
+1,1,piece_147,8,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_8.mid
+1,1,piece_147,12,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_12.mid
+1,1,piece_147,16,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_16.mid
+1,1,piece_147,20,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_20.mid
+1,1,piece_147,24,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_24.mid
+1,1,piece_147,28,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_28.mid
+1,1,piece_147,32,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_32.mid
+1,1,piece_147,36,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_36.mid
+1,1,piece_147,40,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_40.mid
+1,1,piece_147,44,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_44.mid
+1,1,piece_147,48,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_48.mid
+1,1,piece_147,52,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_52.mid
+1,1,piece_147,56,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_56.mid
+1,1,piece_147,60,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_60.mid
+1,1,piece_147,64,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_64.mid
+1,1,piece_147,68,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_68.mid
+1,1,piece_147,72,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_72.mid
+1,1,piece_147,76,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_76.mid
+1,1,piece_147,80,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_80.mid
+1,1,piece_147,84,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_84.mid
+1,1,piece_147,88,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_88.mid
+1,1,piece_147,92,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_92.mid
+1,1,piece_147,96,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_96.mid
+1,1,piece_147,100,-1,../phrases/Mana_SNES_Secret of Mana_Meridian Dance_100.mid
+1,1,piece_148,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_0.mid
+1,1,piece_148,4,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_4.mid
+1,1,piece_148,8,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_8.mid
+1,1,piece_148,12,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_12.mid
+1,1,piece_148,16,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_16.mid
+1,1,piece_148,20,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_20.mid
+1,1,piece_148,24,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_24.mid
+1,1,piece_148,28,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_28.mid
+1,1,piece_148,32,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_32.mid
+1,1,piece_148,36,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_36.mid
+1,1,piece_148,40,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_40.mid
+1,1,piece_148,44,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_44.mid
+1,1,piece_148,48,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_48.mid
+1,1,piece_148,60,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_60.mid
+1,1,piece_148,64,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_64.mid
+1,1,piece_148,68,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_68.mid
+1,1,piece_148,72,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_72.mid
+1,1,piece_148,76,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_76.mid
+1,1,piece_148,80,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_80.mid
+1,1,piece_148,84,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_84.mid
+1,1,piece_148,88,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_88.mid
+1,1,piece_148,92,-1,../phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_92.mid
+1,0,piece_149,0,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_0.mid
+1,0,piece_149,4,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_4.mid
+1,0,piece_149,8,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_8.mid
+1,0,piece_149,12,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_12.mid
+1,0,piece_149,16,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_16.mid
+1,0,piece_149,20,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_20.mid
+1,0,piece_149,24,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_24.mid
+1,0,piece_149,28,-1,../phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_28.mid
+1,1,piece_151,0,-1,../phrases/Dragon Quest_NES_Dragon Quest_Town Theme_0.mid
+1,0,piece_151,0,-1,../phrases/Dragon Quest_NES_Dragon Quest_Town Theme_0.mid
+1,1,piece_151,0,-1,../phrases/Dragon Quest_NES_Dragon Quest_Town Theme_0.mid
+1,1,piece_151,4,-1,../phrases/Dragon Quest_NES_Dragon Quest_Town Theme_4.mid
+1,0,piece_152,0,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_0.mid
+1,0,piece_152,4,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_4.mid
+1,0,piece_152,8,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_8.mid
+1,0,piece_152,12,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_12.mid
+1,0,piece_152,16,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_16.mid
+1,0,piece_152,20,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_20.mid
+1,0,piece_152,24,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_24.mid
+1,0,piece_152,28,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_28.mid
+1,0,piece_152,32,-1,../phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_32.mid
+1,1,piece_153,0,-1,../phrases/Other_NES_Ghosts 'n Goblins_Main Theme_0.mid
+1,1,piece_153,4,-1,../phrases/Other_NES_Ghosts 'n Goblins_Main Theme_4.mid
+1,1,piece_153,8,-1,../phrases/Other_NES_Ghosts 'n Goblins_Main Theme_8.mid
+1,1,piece_153,12,-1,../phrases/Other_NES_Ghosts 'n Goblins_Main Theme_12.mid
+1,1,piece_153,16,-1,../phrases/Other_NES_Ghosts 'n Goblins_Main Theme_16.mid
+1,1,piece_153,20,-1,../phrases/Other_NES_Ghosts 'n Goblins_Main Theme_20.mid
+1,0,piece_155,0,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_0.mid
+1,0,piece_155,4,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_4.mid
+1,0,piece_155,8,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_8.mid
+1,0,piece_155,12,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_12.mid
+1,0,piece_155,16,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_16.mid
+1,0,piece_155,20,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_20.mid
+1,0,piece_155,24,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_24.mid
+1,0,piece_155,28,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_28.mid
+1,0,piece_155,32,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_32.mid
+1,0,piece_155,36,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_36.mid
+1,0,piece_155,40,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_40.mid
+1,0,piece_155,44,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_44.mid
+1,0,piece_155,48,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_48.mid
+1,0,piece_155,52,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_52.mid
+1,0,piece_155,56,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_56.mid
+1,0,piece_155,60,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_60.mid
+1,0,piece_155,64,-1,../phrases/Chrono_SNES_Chrono Trigger_600 AD_64.mid
+1,0,piece_157,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_0.mid
+1,0,piece_157,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_4.mid
+1,0,piece_157,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_8.mid
+1,0,piece_157,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_12.mid
+1,0,piece_157,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_16.mid
+1,0,piece_157,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_20.mid
+1,0,piece_157,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_24.mid
+1,0,piece_157,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_28.mid
+1,0,piece_157,32,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_32.mid
+1,0,piece_157,36,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_36.mid
+0,0,piece_159,0,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid
+0,1,piece_159,0,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid
+0,0,piece_159,0,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid
+0,0,piece_159,4,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_4.mid
+0,0,piece_159,8,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_8.mid
+0,0,piece_159,12,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_12.mid
+1,0,piece_159,0,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid
+0,0,piece_159,0,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid
+0,0,piece_159,4,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_4.mid
+0,0,piece_159,8,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_8.mid
+0,0,piece_159,12,-1,../phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_12.mid
+1,0,piece_160,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_0.mid
+1,0,piece_160,4,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_4.mid
+0,0,piece_160,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_0.mid
+1,0,piece_160,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_0.mid
+1,0,piece_160,4,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_4.mid
+1,0,piece_160,8,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_8.mid
+1,0,piece_160,12,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_12.mid
+1,0,piece_160,16,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_16.mid
+1,0,piece_160,20,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_20.mid
+1,0,piece_160,24,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_24.mid
+1,0,piece_160,28,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_28.mid
+1,0,piece_160,32,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_32.mid
+1,0,piece_160,36,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_36.mid
+1,0,piece_160,40,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_40.mid
+1,0,piece_160,44,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_44.mid
+1,0,piece_160,48,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_48.mid
+1,0,piece_160,52,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_52.mid
+1,0,piece_160,56,-1,../phrases/Chrono_SNES_Chrono Trigger_Silent Light_56.mid
+1,0,piece_162,0,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_0.mid
+1,0,piece_162,4,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_4.mid
+1,0,piece_162,8,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_8.mid
+1,0,piece_162,12,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_12.mid
+1,0,piece_162,16,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_16.mid
+1,0,piece_162,20,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_20.mid
+1,0,piece_162,24,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_24.mid
+1,0,piece_162,28,-1,../phrases/Mana_SNES_Secret of Mana_Kind Memories_28.mid
+1,1,piece_163,0,-1,../phrases/Star Fox_SNES_Star Fox_Stage_Clear_0.mid
+1,1,piece_163,4,-1,../phrases/Star Fox_SNES_Star Fox_Stage_Clear_4.mid
+1,1,piece_163,8,-1,../phrases/Star Fox_SNES_Star Fox_Stage_Clear_8.mid
+1,1,piece_163,12,-1,../phrases/Star Fox_SNES_Star Fox_Stage_Clear_12.mid
+1,1,piece_164,0,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_0.mid
+1,1,piece_164,4,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_4.mid
+1,1,piece_164,8,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_8.mid
+1,1,piece_164,12,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_12.mid
+1,1,piece_164,16,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_16.mid
+1,1,piece_164,20,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_20.mid
+1,1,piece_164,24,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_24.mid
+1,1,piece_164,28,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_28.mid
+1,1,piece_164,32,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_32.mid
+1,1,piece_164,36,-1,../phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_36.mid
+0,0,piece_165,0,-1,../phrases/Other_PC_The Sims_Theme 5_0.mid
+0,0,piece_165,4,-1,../phrases/Other_PC_The Sims_Theme 5_4.mid
+1,0,piece_165,0,-1,../phrases/Other_PC_The Sims_Theme 5_0.mid
+0,0,piece_165,0,-1,../phrases/Other_PC_The Sims_Theme 5_0.mid
+0,0,piece_165,4,-1,../phrases/Other_PC_The Sims_Theme 5_4.mid
+1,0,piece_165,0,-1,../phrases/Other_PC_The Sims_Theme 5_0.mid
+1,0,piece_165,4,-1,../phrases/Other_PC_The Sims_Theme 5_4.mid
+1,0,piece_165,8,-1,../phrases/Other_PC_The Sims_Theme 5_8.mid
+1,0,piece_165,12,-1,../phrases/Other_PC_The Sims_Theme 5_12.mid
+1,0,piece_165,16,-1,../phrases/Other_PC_The Sims_Theme 5_16.mid
+1,0,piece_165,20,-1,../phrases/Other_PC_The Sims_Theme 5_20.mid
+1,0,piece_165,24,-1,../phrases/Other_PC_The Sims_Theme 5_24.mid
+1,0,piece_165,28,-1,../phrases/Other_PC_The Sims_Theme 5_28.mid
+1,0,piece_165,32,-1,../phrases/Other_PC_The Sims_Theme 5_32.mid
+1,0,piece_165,36,-1,../phrases/Other_PC_The Sims_Theme 5_36.mid
+1,0,piece_165,40,-1,../phrases/Other_PC_The Sims_Theme 5_40.mid
+1,0,piece_165,44,-1,../phrases/Other_PC_The Sims_Theme 5_44.mid
+1,0,piece_165,48,-1,../phrases/Other_PC_The Sims_Theme 5_48.mid
+1,0,piece_165,52,-1,../phrases/Other_PC_The Sims_Theme 5_52.mid
+1,0,piece_165,56,-1,../phrases/Other_PC_The Sims_Theme 5_56.mid
+1,0,piece_165,60,-1,../phrases/Other_PC_The Sims_Theme 5_60.mid
+1,0,piece_165,64,-1,../phrases/Other_PC_The Sims_Theme 5_64.mid
+1,0,piece_165,68,-1,../phrases/Other_PC_The Sims_Theme 5_68.mid
+1,0,piece_165,72,-1,../phrases/Other_PC_The Sims_Theme 5_72.mid
+1,0,piece_165,76,-1,../phrases/Other_PC_The Sims_Theme 5_76.mid
+1,0,piece_165,80,-1,../phrases/Other_PC_The Sims_Theme 5_80.mid
+1,0,piece_165,84,-1,../phrases/Other_PC_The Sims_Theme 5_84.mid
+1,0,piece_165,88,-1,../phrases/Other_PC_The Sims_Theme 5_88.mid
+1,0,piece_165,92,-1,../phrases/Other_PC_The Sims_Theme 5_92.mid
+1,0,piece_165,96,-1,../phrases/Other_PC_The Sims_Theme 5_96.mid
+1,0,piece_165,100,-1,../phrases/Other_PC_The Sims_Theme 5_100.mid
+1,0,piece_165,104,-1,../phrases/Other_PC_The Sims_Theme 5_104.mid
+1,0,piece_165,108,-1,../phrases/Other_PC_The Sims_Theme 5_108.mid
+1,0,piece_165,112,-1,../phrases/Other_PC_The Sims_Theme 5_112.mid
+1,0,piece_165,116,-1,../phrases/Other_PC_The Sims_Theme 5_116.mid
+1,0,piece_165,120,-1,../phrases/Other_PC_The Sims_Theme 5_120.mid
+1,0,piece_165,124,-1,../phrases/Other_PC_The Sims_Theme 5_124.mid
+1,0,piece_165,128,-1,../phrases/Other_PC_The Sims_Theme 5_128.mid
+1,0,piece_165,132,-1,../phrases/Other_PC_The Sims_Theme 5_132.mid
+1,0,piece_165,136,-1,../phrases/Other_PC_The Sims_Theme 5_136.mid
+1,0,piece_165,140,-1,../phrases/Other_PC_The Sims_Theme 5_140.mid
+1,0,piece_165,144,-1,../phrases/Other_PC_The Sims_Theme 5_144.mid
+1,0,piece_165,148,-1,../phrases/Other_PC_The Sims_Theme 5_148.mid
+1,0,piece_165,152,-1,../phrases/Other_PC_The Sims_Theme 5_152.mid
+1,0,piece_165,156,-1,../phrases/Other_PC_The Sims_Theme 5_156.mid
+1,0,piece_165,160,-1,../phrases/Other_PC_The Sims_Theme 5_160.mid
+1,0,piece_165,164,-1,../phrases/Other_PC_The Sims_Theme 5_164.mid
+1,0,piece_165,168,-1,../phrases/Other_PC_The Sims_Theme 5_168.mid
+1,0,piece_165,172,-1,../phrases/Other_PC_The Sims_Theme 5_172.mid
+1,0,piece_165,176,-1,../phrases/Other_PC_The Sims_Theme 5_176.mid
+1,0,piece_165,180,-1,../phrases/Other_PC_The Sims_Theme 5_180.mid
+1,1,piece_165,0,-1,../phrases/Other_PC_The Sims_Theme 5_0.mid
+0,1,piece_167,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_0.mid
+0,1,piece_167,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_4.mid
+0,1,piece_167,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_8.mid
+0,1,piece_167,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_12.mid
+0,1,piece_167,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_16.mid
+0,1,piece_167,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_20.mid
+0,1,piece_167,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_24.mid
+0,1,piece_167,28,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_28.mid
+0,1,piece_167,32,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_32.mid
+0,1,piece_167,36,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_36.mid
+0,1,piece_167,40,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_40.mid
+0,1,piece_167,44,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_44.mid
+0,1,piece_167,48,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_48.mid
+0,1,piece_167,52,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_52.mid
+0,1,piece_167,56,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_56.mid
+0,1,piece_167,60,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_60.mid
+0,1,piece_167,64,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_64.mid
+0,1,piece_167,68,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_68.mid
+0,1,piece_167,72,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_72.mid
+0,1,piece_167,76,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_76.mid
+0,1,piece_167,80,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_80.mid
+0,1,piece_167,84,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_84.mid
+0,1,piece_167,88,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_88.mid
+0,1,piece_167,92,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_92.mid
+1,1,piece_167,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_0.mid
+1,1,piece_169,0,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_0.mid
+1,1,piece_169,4,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_4.mid
+1,1,piece_169,8,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_8.mid
+1,1,piece_169,12,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_12.mid
+1,1,piece_169,16,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_16.mid
+1,1,piece_169,20,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_20.mid
+1,1,piece_169,24,-1,../phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_24.mid
+1,0,piece_171,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_0.mid
+1,0,piece_171,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_4.mid
+1,0,piece_171,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_8.mid
+1,0,piece_171,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_12.mid
+1,0,piece_171,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_16.mid
+0,0,piece_172,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_0.mid
+0,0,piece_172,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_4.mid
+0,0,piece_172,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_8.mid
+0,0,piece_172,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_12.mid
+0,0,piece_172,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_16.mid
+0,0,piece_174,0,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_0.mid
+0,0,piece_174,4,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_4.mid
+0,0,piece_174,8,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_8.mid
+0,0,piece_174,12,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_12.mid
+0,0,piece_174,16,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_16.mid
+0,0,piece_174,20,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_20.mid
+0,0,piece_174,24,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_24.mid
+0,0,piece_174,28,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_28.mid
+0,0,piece_174,32,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_32.mid
+0,0,piece_174,36,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_36.mid
+0,0,piece_174,40,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_40.mid
+0,0,piece_174,44,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_44.mid
+0,0,piece_174,48,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_48.mid
+0,0,piece_174,52,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_52.mid
+0,0,piece_174,56,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_56.mid
+0,0,piece_174,60,-1,../phrases/Other_PC_Aion Tower of Eternity_Death Waltz_60.mid
+0,1,piece_175,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_0.mid
+0,1,piece_175,4,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_4.mid
+0,1,piece_175,8,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_8.mid
+0,1,piece_175,12,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_12.mid
+0,1,piece_175,16,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_16.mid
+0,1,piece_175,20,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_20.mid
+0,1,piece_175,24,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_24.mid
+0,1,piece_175,28,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_28.mid
+0,1,piece_175,32,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_32.mid
+0,1,piece_175,36,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_36.mid
+0,1,piece_175,40,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_40.mid
+0,1,piece_175,44,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_44.mid
+0,1,piece_175,48,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_48.mid
+0,1,piece_175,52,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_52.mid
+0,1,piece_175,56,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_56.mid
+0,1,piece_175,60,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_60.mid
+0,1,piece_175,64,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_64.mid
+0,1,piece_175,68,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_68.mid
+0,1,piece_175,72,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_72.mid
+0,1,piece_175,76,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_76.mid
+0,1,piece_175,80,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_80.mid
+0,1,piece_175,84,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_84.mid
+1,1,piece_175,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_0.mid
+1,0,piece_176,0,-1,../phrases/Xeno_PS1_Xenogears_Lost Broken Shards_0.mid
+1,0,piece_176,4,-1,../phrases/Xeno_PS1_Xenogears_Lost Broken Shards_4.mid
+1,0,piece_176,8,-1,../phrases/Xeno_PS1_Xenogears_Lost Broken Shards_8.mid
+1,0,piece_176,12,-1,../phrases/Xeno_PS1_Xenogears_Lost Broken Shards_12.mid
+1,0,piece_177,0,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_0.mid
+1,0,piece_177,4,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_4.mid
+1,0,piece_177,8,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_8.mid
+1,0,piece_177,12,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_12.mid
+1,0,piece_177,16,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_16.mid
+1,0,piece_177,20,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_20.mid
+1,0,piece_177,24,-1,../phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_24.mid
+1,1,piece_178,0,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_0.mid
+1,1,piece_178,4,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_4.mid
+1,1,piece_178,8,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_8.mid
+1,1,piece_178,12,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_12.mid
+1,1,piece_178,16,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_16.mid
+1,1,piece_178,20,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_20.mid
+1,1,piece_178,24,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_24.mid
+1,1,piece_178,28,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_28.mid
+1,1,piece_178,32,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_32.mid
+1,1,piece_178,36,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_36.mid
+1,1,piece_178,40,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_40.mid
+1,1,piece_178,44,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_44.mid
+1,1,piece_178,48,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_48.mid
+1,1,piece_178,52,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_52.mid
+1,1,piece_178,56,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_56.mid
+1,1,piece_178,60,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_60.mid
+1,1,piece_178,64,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_64.mid
+1,1,piece_178,68,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_68.mid
+1,1,piece_178,72,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_72.mid
+1,1,piece_178,76,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_76.mid
+1,1,piece_178,80,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_80.mid
+1,1,piece_178,84,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_84.mid
+1,1,piece_178,88,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_88.mid
+1,1,piece_178,92,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_92.mid
+1,1,piece_178,96,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_96.mid
+1,1,piece_178,100,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_100.mid
+1,1,piece_178,104,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_104.mid
+1,1,piece_178,108,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_108.mid
+1,1,piece_178,112,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_112.mid
+1,1,piece_178,116,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_116.mid
+1,1,piece_178,120,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_120.mid
+1,1,piece_178,124,-1,../phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_124.mid
+1,0,piece_180,0,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_0.mid
+1,0,piece_180,4,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_4.mid
+1,0,piece_180,8,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_8.mid
+1,0,piece_180,12,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_12.mid
+1,0,piece_180,16,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_16.mid
+1,0,piece_180,20,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_20.mid
+1,0,piece_180,24,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_24.mid
+1,0,piece_180,28,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_28.mid
+1,0,piece_180,32,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_32.mid
+1,0,piece_180,36,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_36.mid
+1,0,piece_180,40,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_40.mid
+1,0,piece_180,44,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_44.mid
+1,0,piece_180,48,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_48.mid
+1,0,piece_180,52,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_52.mid
+1,0,piece_180,56,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_56.mid
+1,0,piece_180,60,-1,../phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_60.mid
+0,0,piece_181,0,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_0.mid
+0,0,piece_181,4,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_4.mid
+0,0,piece_181,8,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_8.mid
+0,0,piece_181,12,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_12.mid
+0,0,piece_181,16,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_16.mid
+0,0,piece_181,20,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_20.mid
+0,0,piece_181,24,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_24.mid
+0,0,piece_181,28,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_28.mid
+0,0,piece_181,32,-1,../phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_32.mid
+0,1,piece_182,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_0.mid
+0,1,piece_182,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_4.mid
+0,1,piece_182,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_8.mid
+0,1,piece_182,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_12.mid
+0,1,piece_182,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_16.mid
+0,1,piece_182,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_20.mid
+0,1,piece_182,24,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_24.mid
+0,1,piece_182,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_28.mid
+0,1,piece_182,32,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_32.mid
+1,0,piece_183,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Serenade of Water_0.mid
+1,0,piece_183,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Serenade of Water_4.mid
+1,1,piece_184,0,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_0.mid
+1,1,piece_184,4,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_4.mid
+1,1,piece_184,8,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_8.mid
+1,1,piece_184,12,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_12.mid
+1,1,piece_184,16,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_16.mid
+1,1,piece_184,20,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_20.mid
+1,1,piece_184,24,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_24.mid
+1,1,piece_184,28,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_28.mid
+1,1,piece_184,32,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_32.mid
+1,1,piece_184,36,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_36.mid
+1,1,piece_184,40,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_40.mid
+1,1,piece_184,44,-1,../phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_44.mid
+1,0,piece_186,0,-1,../phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_0.mid
+1,0,piece_186,4,-1,../phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_4.mid
+1,0,piece_186,8,-1,../phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_8.mid
+1,0,piece_186,12,-1,../phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_12.mid
+1,0,piece_186,16,-1,../phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_16.mid
+1,0,piece_186,20,-1,../phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_20.mid
+1,0,piece_187,0,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_0.mid
+1,0,piece_187,4,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_4.mid
+1,0,piece_187,8,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_8.mid
+1,0,piece_187,12,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_12.mid
+1,0,piece_187,16,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_16.mid
+1,0,piece_187,20,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_20.mid
+1,0,piece_187,24,-1,../phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_24.mid
+1,1,piece_188,0,-1,../phrases/Dragon Quest_NES_Dragon Quest_Title Screen_0.mid
+1,1,piece_188,4,-1,../phrases/Dragon Quest_NES_Dragon Quest_Title Screen_4.mid
+1,1,piece_188,8,-1,../phrases/Dragon Quest_NES_Dragon Quest_Title Screen_8.mid
+1,1,piece_188,12,-1,../phrases/Dragon Quest_NES_Dragon Quest_Title Screen_12.mid
+1,1,piece_188,16,-1,../phrases/Dragon Quest_NES_Dragon Quest_Title Screen_16.mid
+1,1,piece_188,20,-1,../phrases/Dragon Quest_NES_Dragon Quest_Title Screen_20.mid
+1,1,piece_190,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_0.mid
+1,1,piece_190,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_4.mid
+1,1,piece_190,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_8.mid
+1,1,piece_190,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_12.mid
+1,1,piece_190,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_16.mid
+1,1,piece_190,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_20.mid
+1,1,piece_190,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_24.mid
+1,1,piece_190,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_28.mid
+1,1,piece_190,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_32.mid
+1,1,piece_190,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_36.mid
+1,1,piece_190,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_40.mid
+1,1,piece_190,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_44.mid
+1,1,piece_190,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_48.mid
+1,1,piece_190,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_52.mid
+1,1,piece_190,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_56.mid
+1,1,piece_190,60,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_60.mid
+1,1,piece_190,64,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_64.mid
+1,0,piece_192,0,-1,../phrases/Dragon Quest_NES_Dragon Quest_Overworld Theme_0.mid
+1,0,piece_192,4,-1,../phrases/Dragon Quest_NES_Dragon Quest_Overworld Theme_4.mid
+1,0,piece_192,8,-1,../phrases/Dragon Quest_NES_Dragon Quest_Overworld Theme_8.mid
+1,0,piece_192,12,-1,../phrases/Dragon Quest_NES_Dragon Quest_Overworld Theme_12.mid
+1,0,piece_193,0,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_0.mid
+1,0,piece_193,4,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_4.mid
+1,0,piece_193,8,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_8.mid
+1,0,piece_193,24,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_24.mid
+1,0,piece_193,28,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_28.mid
+1,0,piece_193,32,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_32.mid
+1,0,piece_193,36,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_36.mid
+1,0,piece_193,40,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_40.mid
+1,0,piece_193,44,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_44.mid
+1,0,piece_193,48,-1,../phrases/Mana_SNES_Secret of Mana_Spirit of the Night_48.mid
+1,1,piece_196,0,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_0.mid
+1,1,piece_196,4,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_4.mid
+1,1,piece_196,8,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_8.mid
+1,1,piece_196,12,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_12.mid
+1,1,piece_196,16,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_16.mid
+1,1,piece_196,20,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_20.mid
+1,1,piece_196,24,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_24.mid
+1,1,piece_196,28,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_28.mid
+1,1,piece_196,32,-1,../phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_32.mid
+0,0,piece_198,0,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_0.mid
+0,0,piece_198,4,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_4.mid
+0,0,piece_198,8,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_8.mid
+0,0,piece_198,12,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_12.mid
+0,0,piece_198,16,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_16.mid
+0,0,piece_198,20,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_20.mid
+0,0,piece_198,24,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_24.mid
+0,0,piece_198,28,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_28.mid
+0,0,piece_198,40,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_40.mid
+0,0,piece_198,44,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_44.mid
+0,0,piece_198,48,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_48.mid
+0,0,piece_198,52,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_52.mid
+0,0,piece_198,60,-1,../phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_60.mid
+0,1,piece_199,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_0.mid
+0,1,piece_199,4,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_4.mid
+0,1,piece_199,8,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_8.mid
+0,1,piece_199,12,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_12.mid
+0,1,piece_199,16,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_16.mid
+0,1,piece_199,20,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_20.mid
+0,1,piece_199,24,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_24.mid
+0,1,piece_199,28,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_28.mid
+0,1,piece_199,32,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_32.mid
+0,1,piece_199,36,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_36.mid
+0,1,piece_199,40,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_40.mid
+0,1,piece_199,44,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_44.mid
+0,1,piece_199,48,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_48.mid
+0,1,piece_199,52,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_52.mid
+0,1,piece_199,56,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_56.mid
+0,1,piece_199,60,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_60.mid
+0,1,piece_199,64,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_64.mid
+0,1,piece_199,68,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_68.mid
+0,1,piece_199,72,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_72.mid
+0,1,piece_199,76,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_76.mid
+0,1,piece_199,80,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_80.mid
+0,1,piece_199,84,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_84.mid
+0,1,piece_199,88,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_88.mid
+0,1,piece_199,92,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_92.mid
+0,1,piece_199,96,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_96.mid
+0,1,piece_199,100,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_100.mid
+0,1,piece_199,104,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_104.mid
+0,1,piece_199,108,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_108.mid
+0,1,piece_199,112,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_112.mid
+0,1,piece_199,116,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_116.mid
+1,1,piece_199,0,-1,../phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_0.mid
