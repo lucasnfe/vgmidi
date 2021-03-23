@@ -4,4 +4,3 @@ phrases/*.txt
 *$py.class
 *.npy
 *.gsheet
-*.zip
