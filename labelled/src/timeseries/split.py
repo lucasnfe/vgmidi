@@ -28,7 +28,7 @@ def split_annotation_by_emotion(valence, arousal, ambiguity_threshold=0.0, ambig
         if abs(v) < ambiguity_threshold:
             n_ambiguous_measures_valence += 1
 
-        if abs(a) < ambiguity_threshold:
+        if abs(a) < ambiguity_threshold/2:
             n_ambiguous_measures_arousal += 1
 
         # Create emotion as numpy array
