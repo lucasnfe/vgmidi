@@ -2,10 +2,7 @@ import os
 import re
 import ssl
 import csv
-<<<<<<< HEAD
 import unidecode
-=======
->>>>>>> 7c4c27f6bb95545998e86c10d4b0c2bdbe03553f
 import urllib.request
 import argparse
 
@@ -13,7 +10,6 @@ from bs4 import BeautifulSoup
 
 MIDI_EXTENSIONS = [".mid", ".midi", ".MID", ".MIDI"]
 
-<<<<<<< HEAD
 def clean_name(name, invalid_chars=[":", "_", ".", "~", "'", '"', "/"]):
     # Remove invalid chars
     valid_name = ''.join(c for c in name if c not in invalid_chars)
@@ -23,12 +19,6 @@ def clean_name(name, invalid_chars=[":", "_", ".", "~", "'", '"', "/"]):
     ascii_encoding = unidecode.unidecode(valid_name_and_spaces)
 
     return ascii_encoding
-=======
-def clean_name(name, invalid_chars=[":", "_", ".", "~"]):
-    valid_name = ''.join(c for c in name if c not in invalid_chars)
-    valid_name_and_spaces = " ".join(valid_name.split())
-    return valid_name_and_spaces
->>>>>>> 7c4c27f6bb95545998e86c10d4b0c2bdbe03553f
 
 def get_series_metadata(series_url):
     print("Parsing...", series_url)
@@ -100,11 +90,7 @@ series_list = soup.find("ul", {"class": "browseCategoryList-subList"})
 all_games = []
 for litag in series_list.find_all('a'):
     series_url = litag.get('href')
-<<<<<<< HEAD
     series_name = clean_name(litag.string)
-=======
-    series_name = litag.string
->>>>>>> 7c4c27f6bb95545998e86c10d4b0c2bdbe03553f
     series_games = get_series_metadata(series_url)
 
     for id, metadata in series_games.items():
@@ -127,7 +113,6 @@ for litag in series_list.find_all('a'):
             with urllib.request.urlopen(metadata["midi_url"], context=context) as response:
                 with open(midi_filename, "wb") as fp:
                     fp.write(response.read())
-<<<<<<< HEAD
 
             # Include in the final dict
             all_games.append({'id': id,
@@ -140,20 +125,6 @@ for litag in series_list.find_all('a'):
         except:
             print("Could not download file.")
 
-=======
-        except:
-            print("Could not download file.")
-
-        # Include in the final dict
-        all_games.append({'id': id,
-                      'series': series_name,
-                     'console': metadata["console"],
-                        'game': metadata["game"],
-                       'piece': metadata["piece"],
-                        'midi': midi_filename,
-                         'pdf': pdf_filename})
-
->>>>>>> 7c4c27f6bb95545998e86c10d4b0c2bdbe03553f
         print("==========")
 
 csv_filename = "vgmidi_metadata.csv"
