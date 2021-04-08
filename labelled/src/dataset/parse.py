@@ -53,5 +53,5 @@ def persist_annotated_mids(annotated_pieces, output_path):
         fp_writer = csv.DictWriter(fp, fieldnames=fieldnames)
         fp_writer.writeheader()
 
-        for piece in annotated_pieces:
+        for piece in sorted(annotated_pieces, key=lambda k: k['game']):
             fp_writer.writerow(piece)

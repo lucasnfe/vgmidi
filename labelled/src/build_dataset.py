@@ -25,7 +25,6 @@ parser.add_argument('--midi' , type=str, required=True, help="Dir with annotated
 parser.add_argument('--phrases' , type=str, required=True, help="Phrases output path.")
 parser.add_argument('--plots' , type=str, required=True, help="Plots output path.")
 parser.add_argument('--at' , type=float, default=0.0, help="Ambiguity Threshold.")
-parser.add_argument('--aa' , type=float, default=1.0, help="Ambiguity Allowed.")
 parser.set_defaults(rmdup=True)
 
 opt = parser.parse_args()
@@ -64,12 +63,7 @@ for i, piece_id in enumerate(pieces):
     assert len(valence_median) == len(arousal_median)
 
     # Split medians at the points of axis changes (from -1 to 1 or from 1 to -1)
-    emotion_chunks = ts.split.split_annotation_by_emotion(valence_median, arousal_median, opt.at, opt.aa)
-
-    # This piece was discarted because it is ambiguous
-    if len(emotion_chunks) == 0:
-        n_ambiguous_pieces += 1
-        continue
+    emotion_chunks = ts.split.split_annotation_by_emotion(valence_median, arousal_median, opt.at)
 
     # Sanity check
     assert valence_median.shape[-1] == pieces[piece_id]["measures"]

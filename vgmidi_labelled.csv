@@ -1,287 +1,573 @@
 id,series,console,game,piece,midi,valence,arousal
-8001,Final Fantasy,PS1,Final Fantasy VII,Continue,phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_0.mid,1,0
-8002,Final Fantasy,PS1,Final Fantasy VII,Oppressed People,phrases/Final Fantasy_PS1_Final Fantasy VII_Oppressed People_0.mid,0,1
-8003,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Deku Palace,phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_0.mid,1,1
-8004,Final Fantasy,PS1,Final Fantasy VII,Holding My Thoughts in My Heart,phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_0.mid,1,0
-8005,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Alien Invasion,phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_0.mid,0,1
-8006,Final Fantasy,PS1,Final Fantasy VII,Main Theme,phrases/Final Fantasy_PS1_Final Fantasy VII_Main Theme_0.mid,1,0
-8007,Final Fantasy,PS1,Final Fantasy VII,Electric de Chocobo,phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_0.mid,1,1
-8009,Other,N64,GoldenEye 007,Facility X,phrases/Other_N64_GoldenEye 007_Facility X_0.mid,0,1
-8010,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Ganondorf,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Ganondorf_0.mid,0,0
-8013,Banjo-Kazooie,N64,Banjo-Kazooie,Boggys Igloo Happy,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy_0.mid,1,1
-8014,Super Mario,SNES,Super Mario World,Ending Theme,phrases/Super Mario_SNES_Super Mario World_Ending Theme_0.mid,1,0
-8014,Super Mario,SNES,Super Mario World,Ending Theme,phrases/Super Mario_SNES_Super Mario World_Ending Theme_1.mid,1,1
-8014,Super Mario,SNES,Super Mario World,Ending Theme,phrases/Super Mario_SNES_Super Mario World_Ending Theme_2.mid,1,0
-8015,Super Mario,SNES,Super Mario World,Castle,phrases/Super Mario_SNES_Super Mario World_Castle_0.mid,0,1
-8015,Super Mario,SNES,Super Mario World,Castle,phrases/Super Mario_SNES_Super Mario World_Castle_1.mid,1,1
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_0.mid,0,1
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_1.mid,0,0
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_2.mid,0,1
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_3.mid,0,0
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_4.mid,0,1
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_5.mid,0,0
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_6.mid,0,1
-8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_7.mid,0,0
-8018,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Song of Healing,phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_0.mid,1,0
-8019,Banjo-Kazooie,N64,Banjo-Kazooie,Motzhand,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand_0.mid,1,1
-8020,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Sarias Song,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_0.mid,1,1
-8021,Other,NES,Tetris,Enter Your Name,phrases/Other_NES_Tetris_Enter Your Name_0.mid,1,1
-8022,Banjo-Kazooie,N64,Banjo-Kazooie,Click Clock Wood,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_0.mid,1,1
-8023,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Owls Theme,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_0.mid,1,1
-8024,Super Mario,SNES,Super Mario World,Title Screen,phrases/Super Mario_SNES_Super Mario World_Title Screen_0.mid,1,1
-8025,Final Fantasy,PS1,Final Fantasy VII,Trail of Blood,phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_0.mid,0,0
-8026,Final Fantasy,PS1,Final Fantasy VII,Sandy Badlands,phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_0.mid,1,0
-8028,Final Fantasy,PS1,Final Fantasy VII,Life Stream,phrases/Final Fantasy_PS1_Final Fantasy VII_Life Stream_0.mid,0,0
-8029,Banjo-Kazooie,N64,Banjo-Kazooie,Bubblegloop Swamp,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_0.mid,1,1
-8031,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Temple of Time,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_0.mid,0,0
-8033,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Prelude of Light,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light_0.mid,1,0
-8034,Other,PS2,Shadow of the Colossus,The Farthest Land,phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_0.mid,1,0
-8035,Super Mario,N64,Super Mario 64,Koopas Theme,phrases/Super Mario_N64_Super Mario 64_Koopas Theme_0.mid,0,1
-8036,Final Fantasy,PS1,Final Fantasy VII,Mining Town,phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_0.mid,1,1
-8037,Final Fantasy,PS1,Final Fantasy VII,Aeriths Theme,phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_0.mid,1,0
-8038,Super Mario,NES,Super Mario Bros,Main Theme,phrases/Super Mario_NES_Super Mario Bros_Main Theme_0.mid,1,1
-8039,Final Fantasy,PS1,Final Fantasy VII,Mark of the Traitor,phrases/Final Fantasy_PS1_Final Fantasy VII_Mark of the Traitor_0.mid,0,0
-8040,Super Mario,NES,Super Mario Bros,Underworld,phrases/Super Mario_NES_Super Mario Bros_Underworld_0.mid,0,1
-8041,Final Fantasy,PS1,Final Fantasy VII,Tifa,phrases/Final Fantasy_PS1_Final Fantasy VII_Tifa_0.mid,1,0
-8041,Final Fantasy,PS1,Final Fantasy VII,Tifa,phrases/Final Fantasy_PS1_Final Fantasy VII_Tifa_1.mid,1,1
-8043,Final Fantasy,PS1,Final Fantasy VII,A High Wind Takes to the Skies,phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_0.mid,1,1
-8044,Final Fantasy,PS1,Final Fantasy VII,Chasing The Black Caped Man,phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_0.mid,0,1
-8044,Final Fantasy,PS1,Final Fantasy VII,Chasing The Black Caped Man,phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_1.mid,1,1
-8045,Final Fantasy,PS1,Final Fantasy VII,Costa Del Sol,phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_0.mid,1,0
-8047,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Inside Jabu Jabus Belly,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly_0.mid,0,1
-8048,Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_0.mid,0,1
-8048,Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_1.mid,1,1
-8049,Super Mario,SNES,Super Mario World,Overworld 2,phrases/Super Mario_SNES_Super Mario World_Overworld 2_0.mid,1,1
-8050,Other,N64,GoldenEye 007,Statue,phrases/Other_N64_GoldenEye 007_Statue_0.mid,0,0
-8050,Other,N64,GoldenEye 007,Statue,phrases/Other_N64_GoldenEye 007_Statue_1.mid,1,1
-8051,Banjo-Kazooie,N64,Banjo-Kazooie,Mumbos Mountain,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_0.mid,1,1
-8052,Other,PS2,Shadow of the Colossus,Prayer,phrases/Other_PS2_Shadow of the Colossus_Prayer_0.mid,0,0
-8054,Final Fantasy,PS1,Final Fantasy VII,Who Are You,phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_0.mid,0,0
-8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_0.mid,0,1
-8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_1.mid,0,0
-8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_2.mid,0,1
-8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_3.mid,0,0
-8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_0.mid,0,0
-8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_1.mid,0,1
-8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_2.mid,0,0
-8057,Final Fantasy,PS1,Final Fantasy VII,Waltz de Chocobo,phrases/Final Fantasy_PS1_Final Fantasy VII_Waltz de Chocobo_0.mid,1,1
-8058,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Hyrule Castle Town,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_0.mid,1,1
-8059,Final Fantasy,PS1,Final Fantasy VII,Gold Saucer,phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_0.mid,1,1
-8060,Super Mario,SNES,Super Mario World,Overworld,phrases/Super Mario_SNES_Super Mario World_Overworld_0.mid,1,1
-8061,Other,NES,Tetris,Music A,phrases/Other_NES_Tetris_Music A_0.mid,1,1
-8062,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Clock Town,phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_0.mid,1,1
-8064,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Kokiri Forest,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_0.mid,1,1
-8065,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Goron City,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Goron City_0.mid,1,0
-8066,Banjo-Kazooie,N64,Banjo-Kazooie,Ending,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_0.mid,1,1
-8067,Other,N64,GoldenEye 007,Runway,phrases/Other_N64_GoldenEye 007_Runway_0.mid,0,1
-8068,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Cremias Wagon Ride,phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_0.mid,1,0
-8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_0.mid,0,0
-8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_1.mid,1,0
-8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_2.mid,0,0
-8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_3.mid,1,1
-8071,Other,N64,GoldenEye 007,Frigate,phrases/Other_N64_GoldenEye 007_Frigate_0.mid,1,1
-8072,Final Fantasy,PS1,Final Fantasy VII,Overworld,phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_0.mid,1,0
-8073,Banjo-Kazooie,N64,Banjo-Kazooie,Boggys Igloo Sad,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad_0.mid,0,0
-8074,Super Mario,N64,Super Mario 64,Select a File,phrases/Super Mario_N64_Super Mario 64_Select a File_0.mid,1,0
-8075,Super Mario,SNES,Super Mario World,Forest of Illusion,phrases/Super Mario_SNES_Super Mario World_Forest of Illusion_0.mid,1,1
-8076,Other,N64,GoldenEye 007,Dam,phrases/Other_N64_GoldenEye 007_Dam_0.mid,0,1
-8077,Final Fantasy,PS1,Final Fantasy VII,Anxious Heart,phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_0.mid,0,0
-8078,Super Mario,NES,Super Mario Bros,Underwater,phrases/Super Mario_NES_Super Mario Bros_Underwater_0.mid,1,0
-8078,Super Mario,NES,Super Mario Bros,Underwater,phrases/Super Mario_NES_Super Mario Bros_Underwater_1.mid,1,1
-8079,Banjo-Kazooie,N64,Banjo-Kazooie,Freezeezy Peak,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_0.mid,1,1
-8080,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Chase Theme,phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_0.mid,0,1
-8081,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Hot Head Bop,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_0.mid,1,1
-8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_0.mid,0,1
-8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_1.mid,0,0
-8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_2.mid,0,1
-8083,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Snakey Chantey,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_0.mid,1,1
-8084,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Lost Woods,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_0.mid,1,0
-8085,Final Fantasy,PS1,Final Fantasy VII,Cinco de Chocobo,phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_0.mid,1,1
-8086,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_0.mid,1,1
-8086,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_1.mid,0,1
-8086,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_2.mid,1,1
-8087,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Introduction,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_0.mid,1,0
-8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_0.mid,0,0
-8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_1.mid,0,1
-8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_2.mid,1,1
-8089,Final Fantasy,PS1,Final Fantasy VII,Rufuss Welcoming Ceremony,phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_0.mid,1,1
-8091,Banjo-Kazooie,N64,Banjo-Kazooie,Gobis Valley,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley_0.mid,1,1
-8092,Final Fantasy,PS1,Final Fantasy VII,Great Warrior,phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_0.mid,1,0
-8092,Final Fantasy,PS1,Final Fantasy VII,Great Warrior,phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_1.mid,1,1
-8093,Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_0.mid,0,1
-8093,Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_1.mid,1,1
-8093,Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_2.mid,0,1
-8095,Dragon Quest,NES,Dragon Quest,Castle Theme,phrases/Dragon Quest_NES_Dragon Quest_Castle Theme_0.mid,1,0
-8095,Dragon Quest,NES,Dragon Quest,Castle Theme,phrases/Dragon Quest_NES_Dragon Quest_Castle Theme_1.mid,1,1
-8096,Star Fox,SNES,Star Fox,Venom,phrases/Star Fox_SNES_Star Fox_Venom_0.mid,0,1
-8097,Battle of Olympus,NES,Battle of Olympus,Orpheus Journey Arranged,phrases/Battle of Olympus_NES_Battle of Olympus_Orpheus Journey Arranged_0.mid,1,0
-8098,Xeno,PS1,Xenogears,Bonds of Sea and Fire,phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_0.mid,1,0
-8099,Banjo-Kazooie,N64,Banjo-Tooie,Chilly Willy Chilli Billi,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_0.mid,0,1
-8100,Chrono,SNES,Chrono Trigger,Secret of the Forest,phrases/Chrono_SNES_Chrono Trigger_Secret of the Forest_0.mid,1,0
-8101,Xeno,PS1,Xenogears,The Wounded Shall Advance Into the Light,phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_0.mid,1,0
-8104,Other,PC,Age of Empires,Title Theme,phrases/Other_PC_Age of Empires_Title Theme_0.mid,0,1
-8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_0.mid,1,0
-8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_1.mid,1,1
-8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_2.mid,1,0
-8108,Banjo-Kazooie,N64,Banjo-Tooie,Terry,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_0.mid,0,1
-8109,Xeno,PS1,Xenogears,Gathering Stars In the Night Sky,phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_0.mid,1,0
-8110,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel Reborn Arrangement,phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_0.mid,0,1
-8110,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel Reborn Arrangement,phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_1.mid,1,1
-8111,Mana,SNES,Secret of Mana,The Holy Intruder,phrases/Mana_SNES_Secret of Mana_The Holy Intruder_0.mid,1,1
-8111,Mana,SNES,Secret of Mana,The Holy Intruder,phrases/Mana_SNES_Secret of Mana_The Holy Intruder_1.mid,1,0
-8111,Mana,SNES,Secret of Mana,The Holy Intruder,phrases/Mana_SNES_Secret of Mana_The Holy Intruder_2.mid,1,1
-8111,Mana,SNES,Secret of Mana,The Holy Intruder,phrases/Mana_SNES_Secret of Mana_The Holy Intruder_3.mid,1,0
-8111,Mana,SNES,Secret of Mana,The Holy Intruder,phrases/Mana_SNES_Secret of Mana_The Holy Intruder_4.mid,1,1
-8111,Mana,SNES,Secret of Mana,The Holy Intruder,phrases/Mana_SNES_Secret of Mana_The Holy Intruder_5.mid,1,0
-8112,Banjo-Kazooie,N64,Banjo-Tooie,Here Comes Trouble,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_0.mid,0,1
-8113,Final Fantasy,PS1,Final Fantasy VII,Cait Siths Theme,phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_0.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_0.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_1.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_2.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_3.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_4.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_5.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_6.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_7.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_8.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_9.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_10.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_11.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_12.mid,0,1
-8116,Mana,SNES,Secret of Mana,Danger,phrases/Mana_SNES_Secret of Mana_Danger_13.mid,1,1
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_0.mid,1,1
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_1.mid,1,0
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_2.mid,1,1
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_3.mid,1,0
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_4.mid,1,1
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_5.mid,1,0
-8117,Other,PC,The Sims,New Beginnings,phrases/Other_PC_The Sims_New Beginnings_6.mid,1,1
-8118,Other,PC,World of Warcraft Warlords of Draenor,Stormwind,phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_0.mid,0,0
-8119,Indiana Jones,PC,Indiana Jones and the Last Crusade,Venice,phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_0.mid,1,1
-8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_0.mid,0,0
-8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_1.mid,0,1
-8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_2.mid,0,0
-8121,Other,PC,Age of Empires II The Age of Kings,Menu,phrases/Other_PC_Age of Empires II The Age of Kings_Menu_0.mid,0,1
-8122,Indiana Jones,PC,Indiana Jones and the Last Crusade,The Holy Grail,phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_0.mid,0,0
-8124,Other,PC,The Sims,The Neighbourhood,phrases/Other_PC_The Sims_The Neighbourhood_0.mid,1,0
-8124,Other,PC,The Sims,The Neighbourhood,phrases/Other_PC_The Sims_The Neighbourhood_1.mid,1,1
-8124,Other,PC,The Sims,The Neighbourhood,phrases/Other_PC_The Sims_The Neighbourhood_2.mid,1,0
-8126,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Hyrule Castle Courtyard,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_0.mid,1,1
-8128,Super Mario,N64,Super Mario 64,Final Bowser,phrases/Super Mario_N64_Super Mario 64_Final Bowser_0.mid,1,1
-8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_0.mid,1,0
-8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_1.mid,0,0
-8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_2.mid,1,0
-8131,Mana,SNES,Secret of Mana,Tell A Strange Tale,phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_0.mid,1,1
-8132,Mana,SNES,Secret of Mana,A Wish,phrases/Mana_SNES_Secret of Mana_A Wish_0.mid,1,0
-8133,Star Fox,SNES,Star Fox,Map,phrases/Star Fox_SNES_Star Fox_Map_0.mid,1,1
-8134,Other,PC,The Sims,Theme 4,phrases/Other_PC_The Sims_Theme 4_0.mid,1,0
-8134,Other,PC,The Sims,Theme 4,phrases/Other_PC_The Sims_Theme 4_1.mid,0,0
-8134,Other,PC,The Sims,Theme 4,phrases/Other_PC_The Sims_Theme 4_2.mid,1,0
-8135,Xeno,PS1,Xenogears,Tears of the Stars Hearts of the People,phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_0.mid,0,0
-8136,Chrono,SNES,Chrono Trigger,Millenial Fair,phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_0.mid,1,1
-8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_0.mid,1,0
-8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_1.mid,1,1
-8138,Other,PC,The Sims,Since We Met,phrases/Other_PC_The Sims_Since We Met_0.mid,1,0
-8138,Other,PC,The Sims,Since We Met,phrases/Other_PC_The Sims_Since We Met_1.mid,1,1
-8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_0.mid,1,0
-8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_1.mid,1,1
-8140,Other,PC,Aion Tower of Eternity,Wings of the Knight,phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_0.mid,1,0
-8141,Dragon Quest,NES,Dragon Quest,Final Battle,phrases/Dragon Quest_NES_Dragon Quest_Final Battle_0.mid,1,1
-8142,Mana,SNES,Secret of Mana,Rose and Ghost,phrases/Mana_SNES_Secret of Mana_Rose and Ghost_0.mid,1,0
-8143,Other,PC,Aion Tower of Eternity,Song of Moonlight,phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_0.mid,1,0
-8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_0.mid,1,0
-8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_1.mid,1,1
-8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_2.mid,1,0
-8145,Other,PC,The Sims,Bittersweet,phrases/Other_PC_The Sims_Bittersweet_0.mid,1,0
-8146,Other,PC,The Sims,Buying Theme,phrases/Other_PC_The Sims_Buying Theme_0.mid,1,1
-8147,Mana,SNES,Secret of Mana,Meridian Dance,phrases/Mana_SNES_Secret of Mana_Meridian Dance_0.mid,1,1
-8148,Chrono,SNES,Chrono Trigger,Wings That Cross Time,phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_0.mid,1,1
-8149,Xeno,PS1,Xenogears,Valley Where the Wind Is Born,phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_0.mid,1,0
-8151,Dragon Quest,NES,Dragon Quest,Town Theme,phrases/Dragon Quest_NES_Dragon Quest_Town Theme_0.mid,1,1
-8151,Dragon Quest,NES,Dragon Quest,Town Theme,phrases/Dragon Quest_NES_Dragon Quest_Town Theme_1.mid,1,0
-8151,Dragon Quest,NES,Dragon Quest,Town Theme,phrases/Dragon Quest_NES_Dragon Quest_Town Theme_2.mid,1,1
-8152,Xeno,PS1,Xenogears,Ship of Regret and Sleep,phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_0.mid,1,0
-8153,Other,NES,Ghosts 'n Goblins,Main Theme,phrases/Other_NES_Ghosts 'n Goblins_Main Theme_0.mid,1,1
-8154,Xeno,PS1,Xenogears,Knight of Fire,phrases/Xeno_PS1_Xenogears_Knight of Fire_0.mid,0,1
-8155,Chrono,SNES,Chrono Trigger,600 AD,phrases/Chrono_SNES_Chrono Trigger_600 AD_0.mid,1,0
-8157,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Kakariko Village,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_0.mid,1,0
-8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid,0,0
-8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_1.mid,0,1
-8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_2.mid,0,0
-8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_3.mid,1,0
-8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_4.mid,0,0
-8160,Chrono,SNES,Chrono Trigger,Silent Light,phrases/Chrono_SNES_Chrono Trigger_Silent Light_0.mid,1,0
-8160,Chrono,SNES,Chrono Trigger,Silent Light,phrases/Chrono_SNES_Chrono Trigger_Silent Light_1.mid,0,0
-8160,Chrono,SNES,Chrono Trigger,Silent Light,phrases/Chrono_SNES_Chrono Trigger_Silent Light_2.mid,1,0
-8162,Mana,SNES,Secret of Mana,Kind Memories,phrases/Mana_SNES_Secret of Mana_Kind Memories_0.mid,1,0
-8163,Star Fox,SNES,Star Fox,Stage,phrases/Star Fox_SNES_Star Fox_Stage_Clear_0.mid,1,1
-8164,Super Mario,N64,Super Mario 64,Princess Secret Slide,phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_0.mid,1,1
-8165,Other,PC,The Sims,Theme 5,phrases/Other_PC_The Sims_Theme 5_0.mid,0,0
-8165,Other,PC,The Sims,Theme 5,phrases/Other_PC_The Sims_Theme 5_1.mid,1,0
-8165,Other,PC,The Sims,Theme 5,phrases/Other_PC_The Sims_Theme 5_2.mid,0,0
-8165,Other,PC,The Sims,Theme 5,phrases/Other_PC_The Sims_Theme 5_3.mid,1,0
-8165,Other,PC,The Sims,Theme 5,phrases/Other_PC_The Sims_Theme 5_4.mid,1,1
-8167,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Forest Temple,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_0.mid,0,1
-8167,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Forest Temple,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_1.mid,1,1
-8169,Super Mario,N64,Super Mario 64,Haunted Merry Go Round,phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_0.mid,1,1
-8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_0.mid,0,0
-8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_1.mid,0,1
-8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_2.mid,0,0
-8171,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Zeldas Lullaby,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_0.mid,1,0
-8172,Banjo-Kazooie,N64,Banjo-Tooie,End Credits,phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_0.mid,0,0
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_0.mid,1,0
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_1.mid,1,1
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_2.mid,1,0
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_3.mid,1,1
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_4.mid,1,0
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_5.mid,1,1
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_6.mid,1,0
-8173,Xeno,PS1,Xenogears,Two Pieces,phrases/Xeno_PS1_Xenogears_Two Pieces_7.mid,1,1
-8174,Other,PC,Aion Tower of Eternity,Death Waltz,phrases/Other_PC_Aion Tower of Eternity_Death Waltz_0.mid,0,0
-8175,Chrono,SNES,Chrono Trigger,Ocean Palace,phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_0.mid,0,1
-8175,Chrono,SNES,Chrono Trigger,Ocean Palace,phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_1.mid,1,1
-8176,Xeno,PS1,Xenogears,Lost Broken Shards,phrases/Xeno_PS1_Xenogears_Lost Broken Shards_0.mid,1,0
-8177,Xeno,PS1,Xenogears,Treasure Which Cannot Be Stolen,phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_0.mid,1,0
-8178,Chrono,SNES,Chrono Trigger,Chrono Trigger,phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_0.mid,1,1
-8180,Battle of Olympus,NES,Battle of Olympus,The Story of a Lost Love,phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_0.mid,1,0
-8181,Other,PC,Aion Tower of Eternity,The Still Sad World,phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_0.mid,0,0
-8182,Banjo-Kazooie,N64,Banjo-Tooie,Witchy World,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_0.mid,0,1
-8183,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Serenade of Water,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Serenade of Water_0.mid,1,0
-8184,Super Mario,N64,Super Mario 64,Cool Cool Mountain,phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_0.mid,1,1
-8185,Indiana Jones,PC,Indiana Jones and the Fate of Atlantis,Crossing,phrases/Indiana Jones_PC_Indiana Jones and the Fate of Atlantis_Crossing_0.mid,0,1
-8186,Mana,SNES,Secret of Mana,Close Your Eye lids,phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_0.mid,1,0
-8187,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Links House,phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_0.mid,1,0
-8188,Dragon Quest,NES,Dragon Quest,Title Screen,phrases/Dragon Quest_NES_Dragon Quest_Title Screen_0.mid,1,1
-8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_0.mid,0,0
-8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_1.mid,1,0
-8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_2.mid,1,1
-8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_3.mid,1,0
-8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_4.mid,1,1
-8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_5.mid,1,0
-8190,Final Fantasy,PS1,Final Fantasy VII,Ahead On Our Way Remix,phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_0.mid,1,1
-8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_0.mid,0,0
-8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_1.mid,0,1
-8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_2.mid,0,0
-8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_3.mid,0,1
-8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_4.mid,1,1
-8192,Dragon Quest,NES,Dragon Quest,Overworld Theme,phrases/Dragon Quest_NES_Dragon Quest_Overworld Theme_0.mid,1,0
-8193,Mana,SNES,Secret of Mana,Spirit of the Night,phrases/Mana_SNES_Secret of Mana_Spirit of the Night_0.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_0.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_1.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_2.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_3.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_4.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_5.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_6.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_7.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_8.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_9.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_10.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_11.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_12.mid,1,1
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_13.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_14.mid,1,1
-8196,Indiana Jones,PC,Indiana Jones and the Last Crusade,Zeppelin,phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_0.mid,1,1
-8198,Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags Cauldron Keep,phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_0.mid,0,0
-8199,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel,phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_0.mid,0,1
-8199,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel,phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_1.mid,1,1
+8104,Other,PC,Age of Empires,Title Theme,labelled/phrases/Other_PC_Age of Empires_Title Theme_0.mid,0,1
+8104,Other,PC,Age of Empires,Title Theme,labelled/phrases/Other_PC_Age of Empires_Title Theme_1.mid,-1,1
+8104,Other,PC,Age of Empires,Title Theme,labelled/phrases/Other_PC_Age of Empires_Title Theme_2.mid,0,1
+8104,Other,PC,Age of Empires,Title Theme,labelled/phrases/Other_PC_Age of Empires_Title Theme_3.mid,-1,1
+8121,Other,PC,Age of Empires II The Age of Kings,Menu,labelled/phrases/Other_PC_Age of Empires II The Age of Kings_Menu_0.mid,-1,1
+8114,Other,PC,Aion Tower of Eternity,Main Theme,labelled/phrases/Other_PC_Aion Tower of Eternity_Main Theme_0.mid,0,1
+8114,Other,PC,Aion Tower of Eternity,Main Theme,labelled/phrases/Other_PC_Aion Tower of Eternity_Main Theme_1.mid,0,0
+8114,Other,PC,Aion Tower of Eternity,Main Theme,labelled/phrases/Other_PC_Aion Tower of Eternity_Main Theme_2.mid,0,1
+8114,Other,PC,Aion Tower of Eternity,Main Theme,labelled/phrases/Other_PC_Aion Tower of Eternity_Main Theme_3.mid,-1,1
+8114,Other,PC,Aion Tower of Eternity,Main Theme,labelled/phrases/Other_PC_Aion Tower of Eternity_Main Theme_4.mid,0,1
+8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_0.mid,1,-1
+8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_1.mid,0,-1
+8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_2.mid,1,-1
+8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_3.mid,0,-1
+8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_4.mid,1,-1
+8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_5.mid,0,-1
+8140,Other,PC,Aion Tower of Eternity,Wings of the Knight,labelled/phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_0.mid,1,-1
+8143,Other,PC,Aion Tower of Eternity,Song of Moonlight,labelled/phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_0.mid,1,-1
+8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,labelled/phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_0.mid,1,-1
+8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,labelled/phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_1.mid,1,1
+8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,labelled/phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_2.mid,1,-1
+8174,Other,PC,Aion Tower of Eternity,Death Waltz,labelled/phrases/Other_PC_Aion Tower of Eternity_Death Waltz_0.mid,-1,-1
+8181,Other,PC,Aion Tower of Eternity,The Still Sad World,labelled/phrases/Other_PC_Aion Tower of Eternity_The Still Sad World_0.mid,-1,-1
+8013,Banjo-Kazooie,N64,Banjo-Kazooie,Boggys Igloo Happy,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy_0.mid,1,1
+8019,Banjo-Kazooie,N64,Banjo-Kazooie,Motzhand,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand_0.mid,1,1
+8022,Banjo-Kazooie,N64,Banjo-Kazooie,Click Clock Wood,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood_0.mid,1,1
+8029,Banjo-Kazooie,N64,Banjo-Kazooie,Bubblegloop Swamp,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp_0.mid,1,1
+8051,Banjo-Kazooie,N64,Banjo-Kazooie,Mumbos Mountain,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain_0.mid,1,1
+8066,Banjo-Kazooie,N64,Banjo-Kazooie,Ending,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_0.mid,1,1
+8066,Banjo-Kazooie,N64,Banjo-Kazooie,Ending,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_1.mid,1,0
+8066,Banjo-Kazooie,N64,Banjo-Kazooie,Ending,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_2.mid,1,1
+8066,Banjo-Kazooie,N64,Banjo-Kazooie,Ending,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Ending_3.mid,1,0
+8073,Banjo-Kazooie,N64,Banjo-Kazooie,Boggys Igloo Sad,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad_0.mid,-1,-1
+8079,Banjo-Kazooie,N64,Banjo-Kazooie,Freezeezy Peak,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak_0.mid,1,1
+8091,Banjo-Kazooie,N64,Banjo-Kazooie,Gobis Valley,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley_0.mid,1,1
+8091,Banjo-Kazooie,N64,Banjo-Kazooie,Gobis Valley,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley_1.mid,1,0
+8091,Banjo-Kazooie,N64,Banjo-Kazooie,Gobis Valley,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley_2.mid,1,1
+8091,Banjo-Kazooie,N64,Banjo-Kazooie,Gobis Valley,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley_3.mid,0,0
+8093,Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_0.mid,-1,1
+8093,Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_1.mid,0,1
+8093,Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion_2.mid,-1,1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_0.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_1.mid,1,0
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_2.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_3.mid,1,0
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_4.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_5.mid,1,0
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_6.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_7.mid,1,0
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_8.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_9.mid,1,0
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_10.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_11.mid,1,0
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_12.mid,1,-1
+8129,Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,labelled/phrases/Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic_13.mid,0,0
+8099,Banjo-Kazooie,N64,Banjo-Tooie,Chilly Willy Chilli Billi,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi_0.mid,-1,1
+8102,Banjo-Kazooie,N64,Banjo-Tooie,Spiral Mountain,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain_0.mid,0,1
+8102,Banjo-Kazooie,N64,Banjo-Tooie,Spiral Mountain,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain_1.mid,1,1
+8102,Banjo-Kazooie,N64,Banjo-Tooie,Spiral Mountain,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain_2.mid,-1,1
+8102,Banjo-Kazooie,N64,Banjo-Tooie,Spiral Mountain,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain_3.mid,0,1
+8102,Banjo-Kazooie,N64,Banjo-Tooie,Spiral Mountain,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain_4.mid,0,0
+8108,Banjo-Kazooie,N64,Banjo-Tooie,Terry,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Terry_0.mid,-1,1
+8112,Banjo-Kazooie,N64,Banjo-Tooie,Here Comes Trouble,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble_0.mid,-1,1
+8150,Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags_0.mid,0,0
+8150,Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags_1.mid,0,1
+8150,Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags_2.mid,0,0
+8150,Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags_3.mid,-1,0
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_0.mid,-1,-1
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_1.mid,-1,0
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_2.mid,-1,1
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_3.mid,-1,0
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_4.mid,-1,1
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_5.mid,-1,0
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_6.mid,-1,-1
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_7.mid,-1,0
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_8.mid,-1,-1
+8170,Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep_9.mid,-1,0
+8172,Banjo-Kazooie,N64,Banjo-Tooie,End Credits,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_End Credits_0.mid,-1,-1
+8182,Banjo-Kazooie,N64,Banjo-Tooie,Witchy World,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Witchy World_0.mid,-1,1
+8198,Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags Cauldron Keep,labelled/phrases/Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep_0.mid,-1,-1
+8097,Battle of Olympus,NES,Battle of Olympus,Orpheus Journey Arranged,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Orpheus Journey Arranged_0.mid,0,-1
+8097,Battle of Olympus,NES,Battle of Olympus,Orpheus Journey Arranged,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Orpheus Journey Arranged_1.mid,1,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_0.mid,1,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_1.mid,0,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_2.mid,1,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_3.mid,0,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_4.mid,1,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_5.mid,0,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_6.mid,-1,-1
+8105,Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus_7.mid,0,-1
+8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_0.mid,1,-1
+8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_1.mid,1,0
+8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_2.mid,1,1
+8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_3.mid,1,0
+8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_4.mid,1,1
+8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_5.mid,1,-1
+8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_0.mid,1,-1
+8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_1.mid,1,0
+8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_2.mid,1,1
+8180,Battle of Olympus,NES,Battle of Olympus,The Story of a Lost Love,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love_0.mid,1,-1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_0.mid,0,-1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_1.mid,1,-1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_2.mid,0,-1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_3.mid,0,0
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_4.mid,0,1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_5.mid,0,-1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_6.mid,1,-1
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_7.mid,1,0
+8189,Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai_8.mid,1,-1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_0.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_1.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_2.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_3.mid,1,-1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_4.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_5.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_6.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_7.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_8.mid,1,-1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_9.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_10.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_11.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_12.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_13.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_14.mid,1,1
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_15.mid,1,0
+8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_16.mid,0,0
+8100,Chrono,SNES,Chrono Trigger,Secret of the Forest,labelled/phrases/Chrono_SNES_Chrono Trigger_Secret of the Forest_0.mid,1,-1
+8136,Chrono,SNES,Chrono Trigger,Millenial Fair,labelled/phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_0.mid,1,0
+8136,Chrono,SNES,Chrono Trigger,Millenial Fair,labelled/phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_1.mid,1,1
+8148,Chrono,SNES,Chrono Trigger,Wings That Cross Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_0.mid,1,1
+8148,Chrono,SNES,Chrono Trigger,Wings That Cross Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Wings That Cross Time_1.mid,0,0
+8155,Chrono,SNES,Chrono Trigger,600 AD,labelled/phrases/Chrono_SNES_Chrono Trigger_600 AD_0.mid,1,-1
+8160,Chrono,SNES,Chrono Trigger,Silent Light,labelled/phrases/Chrono_SNES_Chrono Trigger_Silent Light_0.mid,1,-1
+8160,Chrono,SNES,Chrono Trigger,Silent Light,labelled/phrases/Chrono_SNES_Chrono Trigger_Silent Light_1.mid,-1,-1
+8160,Chrono,SNES,Chrono Trigger,Silent Light,labelled/phrases/Chrono_SNES_Chrono Trigger_Silent Light_2.mid,1,-1
+8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_0.mid,1,-1
+8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_1.mid,1,0
+8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_2.mid,1,-1
+8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_3.mid,1,0
+8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_4.mid,1,-1
+8175,Chrono,SNES,Chrono Trigger,Ocean Palace,labelled/phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_0.mid,-1,1
+8175,Chrono,SNES,Chrono Trigger,Ocean Palace,labelled/phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_1.mid,0,0
+8178,Chrono,SNES,Chrono Trigger,Chrono Trigger,labelled/phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_0.mid,1,1
+8178,Chrono,SNES,Chrono Trigger,Chrono Trigger,labelled/phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_1.mid,0,0
+8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_0.mid,-1,0
+8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_1.mid,-1,1
+8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_2.mid,0,1
+8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_3.mid,-1,1
+8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_4.mid,0,1
+8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_5.mid,0,0
+8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_0.mid,-1,-1
+8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_1.mid,0,-1
+8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_2.mid,-1,-1
+8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_3.mid,0,-1
+8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_4.mid,0,0
+8081,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Hot Head Bop,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_0.mid,0,1
+8081,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Hot Head Bop,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop_1.mid,1,1
+8083,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Snakey Chantey,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey_0.mid,1,1
+8086,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_0.mid,0,1
+8086,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_1.mid,-1,1
+8086,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig_2.mid,1,1
+8095,Dragon Quest,NES,Dragon Quest,Castle Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Castle Theme_0.mid,1,-1
+8095,Dragon Quest,NES,Dragon Quest,Castle Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Castle Theme_1.mid,1,0
+8095,Dragon Quest,NES,Dragon Quest,Castle Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Castle Theme_2.mid,1,1
+8115,Dragon Quest,NES,Dragon Quest,Battle Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Battle Theme_0.mid,0,-1
+8115,Dragon Quest,NES,Dragon Quest,Battle Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Battle Theme_1.mid,-1,-1
+8115,Dragon Quest,NES,Dragon Quest,Battle Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Battle Theme_2.mid,0,-1
+8141,Dragon Quest,NES,Dragon Quest,Final Battle,labelled/phrases/Dragon Quest_NES_Dragon Quest_Final Battle_0.mid,1,1
+8151,Dragon Quest,NES,Dragon Quest,Town Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Town Theme_0.mid,1,1
+8151,Dragon Quest,NES,Dragon Quest,Town Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Town Theme_1.mid,1,0
+8151,Dragon Quest,NES,Dragon Quest,Town Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Town Theme_2.mid,1,-1
+8151,Dragon Quest,NES,Dragon Quest,Town Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Town Theme_3.mid,1,1
+8161,Dragon Quest,NES,Dragon Quest,Cave Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Cave Theme_0.mid,0,1
+8188,Dragon Quest,NES,Dragon Quest,Title Screen,labelled/phrases/Dragon Quest_NES_Dragon Quest_Title Screen_0.mid,1,1
+8192,Dragon Quest,NES,Dragon Quest,Overworld Theme,labelled/phrases/Dragon Quest_NES_Dragon Quest_Overworld Theme_0.mid,1,-1
+8000,Final Fantasy,PS1,Final Fantasy VII,Lurking In The Darkness,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Lurking In The Darkness_0.mid,0,-1
+8000,Final Fantasy,PS1,Final Fantasy VII,Lurking In The Darkness,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Lurking In The Darkness_1.mid,-1,-1
+8001,Final Fantasy,PS1,Final Fantasy VII,Continue,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Continue_0.mid,1,-1
+8002,Final Fantasy,PS1,Final Fantasy VII,Oppressed People,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Oppressed People_0.mid,-1,1
+8002,Final Fantasy,PS1,Final Fantasy VII,Oppressed People,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Oppressed People_1.mid,-1,0
+8002,Final Fantasy,PS1,Final Fantasy VII,Oppressed People,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Oppressed People_2.mid,0,0
+8002,Final Fantasy,PS1,Final Fantasy VII,Oppressed People,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Oppressed People_3.mid,0,1
+8002,Final Fantasy,PS1,Final Fantasy VII,Oppressed People,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Oppressed People_4.mid,-1,1
+8004,Final Fantasy,PS1,Final Fantasy VII,Holding My Thoughts in My Heart,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart_0.mid,1,-1
+8006,Final Fantasy,PS1,Final Fantasy VII,Main Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Main Theme_0.mid,1,-1
+8007,Final Fantasy,PS1,Final Fantasy VII,Electric de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_0.mid,0,1
+8007,Final Fantasy,PS1,Final Fantasy VII,Electric de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_1.mid,1,1
+8007,Final Fantasy,PS1,Final Fantasy VII,Electric de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo_2.mid,0,0
+8008,Final Fantasy,PS1,Final Fantasy VII,Battle Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Battle Theme_0.mid,-1,1
+8008,Final Fantasy,PS1,Final Fantasy VII,Battle Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Battle Theme_1.mid,0,1
+8008,Final Fantasy,PS1,Final Fantasy VII,Battle Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Battle Theme_2.mid,-1,1
+8008,Final Fantasy,PS1,Final Fantasy VII,Battle Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Battle Theme_3.mid,0,1
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_0.mid,-1,0
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_1.mid,-1,-1
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_2.mid,-1,0
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_3.mid,-1,-1
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_4.mid,-1,0
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_5.mid,-1,-1
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_6.mid,-1,0
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_7.mid,-1,-1
+8017,Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago_8.mid,-1,0
+8025,Final Fantasy,PS1,Final Fantasy VII,Trail of Blood,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Trail of Blood_0.mid,-1,-1
+8026,Final Fantasy,PS1,Final Fantasy VII,Sandy Badlands,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands_0.mid,1,-1
+8028,Final Fantasy,PS1,Final Fantasy VII,Life Stream,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Life Stream_0.mid,-1,-1
+8030,Final Fantasy,PS1,Final Fantasy VII,Jenova Absolute,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Jenova Absolute_0.mid,0,1
+8036,Final Fantasy,PS1,Final Fantasy VII,Mining Town,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Mining Town_0.mid,1,1
+8037,Final Fantasy,PS1,Final Fantasy VII,Aeriths Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme_0.mid,1,-1
+8039,Final Fantasy,PS1,Final Fantasy VII,Mark of the Traitor,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Mark of the Traitor_0.mid,-1,-1
+8041,Final Fantasy,PS1,Final Fantasy VII,Tifa,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Tifa_0.mid,1,-1
+8041,Final Fantasy,PS1,Final Fantasy VII,Tifa,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Tifa_1.mid,1,0
+8042,Final Fantasy,PS1,Final Fantasy VII,Weapon Raid,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Weapon Raid_0.mid,0,1
+8042,Final Fantasy,PS1,Final Fantasy VII,Weapon Raid,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Weapon Raid_1.mid,-1,1
+8043,Final Fantasy,PS1,Final Fantasy VII,A High Wind Takes to the Skies,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_0.mid,1,1
+8043,Final Fantasy,PS1,Final Fantasy VII,A High Wind Takes to the Skies,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies_1.mid,0,0
+8044,Final Fantasy,PS1,Final Fantasy VII,Chasing The Black Caped Man,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_0.mid,-1,1
+8044,Final Fantasy,PS1,Final Fantasy VII,Chasing The Black Caped Man,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man_1.mid,0,0
+8045,Final Fantasy,PS1,Final Fantasy VII,Costa Del Sol,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol_0.mid,1,-1
+8048,Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_0.mid,-1,1
+8048,Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_1.mid,0,1
+8048,Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_2.mid,1,1
+8048,Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It_3.mid,0,0
+8054,Final Fantasy,PS1,Final Fantasy VII,Who Are You,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Who Are You_0.mid,-1,-1
+8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_0.mid,-1,1
+8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_1.mid,-1,0
+8055,Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet_2.mid,-1,-1
+8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_0.mid,-1,-1
+8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_1.mid,-1,0
+8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_2.mid,-1,1
+8056,Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Vincents Theme_3.mid,-1,-1
+8057,Final Fantasy,PS1,Final Fantasy VII,Waltz de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Waltz de Chocobo_0.mid,1,0
+8057,Final Fantasy,PS1,Final Fantasy VII,Waltz de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Waltz de Chocobo_1.mid,1,1
+8059,Final Fantasy,PS1,Final Fantasy VII,Gold Saucer,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_0.mid,1,1
+8059,Final Fantasy,PS1,Final Fantasy VII,Gold Saucer,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Gold Saucer_1.mid,0,0
+8063,Final Fantasy,PS1,Final Fantasy VII,Judgement Day,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Judgement Day_0.mid,-1,0
+8063,Final Fantasy,PS1,Final Fantasy VII,Judgement Day,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Judgement Day_1.mid,-1,-1
+8072,Final Fantasy,PS1,Final Fantasy VII,Overworld,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Overworld_0.mid,1,-1
+8077,Final Fantasy,PS1,Final Fantasy VII,Anxious Heart,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Anxious Heart_0.mid,-1,-1
+8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_0.mid,-1,1
+8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_1.mid,-1,0
+8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_2.mid,-1,-1
+8082,Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor_3.mid,-1,1
+8085,Final Fantasy,PS1,Final Fantasy VII,Cinco de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_0.mid,1,1
+8085,Final Fantasy,PS1,Final Fantasy VII,Cinco de Chocobo,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo_1.mid,0,0
+8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_0.mid,-1,-1
+8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_1.mid,-1,0
+8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_2.mid,-1,1
+8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_3.mid,-1,0
+8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_4.mid,-1,1
+8088,Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins_5.mid,0,0
+8089,Final Fantasy,PS1,Final Fantasy VII,Rufuss Welcoming Ceremony,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony_0.mid,1,1
+8092,Final Fantasy,PS1,Final Fantasy VII,Great Warrior,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_0.mid,1,-1
+8092,Final Fantasy,PS1,Final Fantasy VII,Great Warrior,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Great Warrior_1.mid,0,0
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_0.mid,1,-1
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_1.mid,1,0
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_2.mid,1,-1
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_3.mid,1,0
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_4.mid,1,-1
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_5.mid,1,0
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_6.mid,1,-1
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_7.mid,1,0
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_8.mid,1,-1
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_9.mid,1,0
+8103,Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon_10.mid,0,0
+8110,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel Reborn Arrangement,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_0.mid,-1,1
+8110,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel Reborn Arrangement,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement_1.mid,0,0
+8113,Final Fantasy,PS1,Final Fantasy VII,Cait Siths Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_0.mid,1,1
+8113,Final Fantasy,PS1,Final Fantasy VII,Cait Siths Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_1.mid,0,0
+8190,Final Fantasy,PS1,Final Fantasy VII,Ahead On Our Way Remix,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_0.mid,1,1
+8190,Final Fantasy,PS1,Final Fantasy VII,Ahead On Our Way Remix,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_1.mid,0,0
+8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_0.mid,0,1
+8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_1.mid,-1,1
+8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_2.mid,1,1
+8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_3.mid,0,1
+8199,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_0.mid,-1,1
+8199,Final Fantasy,PS1,Final Fantasy VII,One Winged Angel,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_One Winged Angel_1.mid,0,0
+8153,Other,NES,Ghosts 'n Goblins,Main Theme,labelled/phrases/Other_NES_Ghosts 'n Goblins_Main Theme_0.mid,1,1
+8009,Other,N64,GoldenEye 007,Facility X,labelled/phrases/Other_N64_GoldenEye 007_Facility X_0.mid,-1,1
+8012,Other,N64,GoldenEye 007,Runway X,labelled/phrases/Other_N64_GoldenEye 007_Runway X_0.mid,-1,0
+8016,Other,N64,GoldenEye 007,Caverns,labelled/phrases/Other_N64_GoldenEye 007_Caverns_0.mid,-1,-1
+8016,Other,N64,GoldenEye 007,Caverns,labelled/phrases/Other_N64_GoldenEye 007_Caverns_1.mid,0,-1
+8016,Other,N64,GoldenEye 007,Caverns,labelled/phrases/Other_N64_GoldenEye 007_Caverns_2.mid,0,0
+8016,Other,N64,GoldenEye 007,Caverns,labelled/phrases/Other_N64_GoldenEye 007_Caverns_3.mid,0,1
+8016,Other,N64,GoldenEye 007,Caverns,labelled/phrases/Other_N64_GoldenEye 007_Caverns_4.mid,0,0
+8050,Other,N64,GoldenEye 007,Statue,labelled/phrases/Other_N64_GoldenEye 007_Statue_0.mid,-1,-1
+8050,Other,N64,GoldenEye 007,Statue,labelled/phrases/Other_N64_GoldenEye 007_Statue_1.mid,0,-1
+8050,Other,N64,GoldenEye 007,Statue,labelled/phrases/Other_N64_GoldenEye 007_Statue_2.mid,-1,-1
+8050,Other,N64,GoldenEye 007,Statue,labelled/phrases/Other_N64_GoldenEye 007_Statue_3.mid,0,0
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_0.mid,0,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_1.mid,-1,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_2.mid,0,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_3.mid,-1,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_4.mid,0,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_5.mid,-1,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_6.mid,0,1
+8067,Other,N64,GoldenEye 007,Runway,labelled/phrases/Other_N64_GoldenEye 007_Runway_7.mid,-1,1
+8071,Other,N64,GoldenEye 007,Frigate,labelled/phrases/Other_N64_GoldenEye 007_Frigate_0.mid,1,1
+8076,Other,N64,GoldenEye 007,Dam,labelled/phrases/Other_N64_GoldenEye 007_Dam_0.mid,-1,1
+8076,Other,N64,GoldenEye 007,Dam,labelled/phrases/Other_N64_GoldenEye 007_Dam_1.mid,0,1
+8076,Other,N64,GoldenEye 007,Dam,labelled/phrases/Other_N64_GoldenEye 007_Dam_2.mid,-1,1
+8185,Indiana Jones,PC,Indiana Jones and the Fate of Atlantis,Crossing,labelled/phrases/Indiana Jones_PC_Indiana Jones and the Fate of Atlantis_Crossing_0.mid,-1,1
+8185,Indiana Jones,PC,Indiana Jones and the Fate of Atlantis,Crossing,labelled/phrases/Indiana Jones_PC_Indiana Jones and the Fate of Atlantis_Crossing_1.mid,-1,0
+8185,Indiana Jones,PC,Indiana Jones and the Fate of Atlantis,Crossing,labelled/phrases/Indiana Jones_PC_Indiana Jones and the Fate of Atlantis_Crossing_2.mid,-1,1
+8119,Indiana Jones,PC,Indiana Jones and the Last Crusade,Venice,labelled/phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice_0.mid,1,1
+8122,Indiana Jones,PC,Indiana Jones and the Last Crusade,The Holy Grail,labelled/phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail_0.mid,-1,-1
+8196,Indiana Jones,PC,Indiana Jones and the Last Crusade,Zeppelin,labelled/phrases/Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin_0.mid,1,1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_0.mid,1,1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_1.mid,1,0
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_2.mid,1,-1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_3.mid,1,0
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_4.mid,1,-1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_5.mid,1,0
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_6.mid,1,1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_7.mid,1,-1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_8.mid,1,1
+8111,Mana,SNES,Secret of Mana,The Holy Intruder,labelled/phrases/Mana_SNES_Secret of Mana_The Holy Intruder_9.mid,1,0
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_0.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_1.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_2.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_3.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_4.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_5.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_6.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_7.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_8.mid,1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_9.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_10.mid,1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_11.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_12.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_13.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_14.mid,1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_15.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_16.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_17.mid,1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_18.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_19.mid,-1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_20.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_21.mid,1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_22.mid,0,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_23.mid,1,1
+8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_24.mid,0,0
+8131,Mana,SNES,Secret of Mana,Tell A Strange Tale,labelled/phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_0.mid,1,1
+8132,Mana,SNES,Secret of Mana,A Wish,labelled/phrases/Mana_SNES_Secret of Mana_A Wish_0.mid,1,-1
+8142,Mana,SNES,Secret of Mana,Rose and Ghost,labelled/phrases/Mana_SNES_Secret of Mana_Rose and Ghost_0.mid,1,-1
+8147,Mana,SNES,Secret of Mana,Meridian Dance,labelled/phrases/Mana_SNES_Secret of Mana_Meridian Dance_0.mid,1,1
+8147,Mana,SNES,Secret of Mana,Meridian Dance,labelled/phrases/Mana_SNES_Secret of Mana_Meridian Dance_1.mid,0,0
+8162,Mana,SNES,Secret of Mana,Kind Memories,labelled/phrases/Mana_SNES_Secret of Mana_Kind Memories_0.mid,1,-1
+8186,Mana,SNES,Secret of Mana,Close Your Eye lids,labelled/phrases/Mana_SNES_Secret of Mana_Close Your Eye lids_0.mid,1,-1
+8193,Mana,SNES,Secret of Mana,Spirit of the Night,labelled/phrases/Mana_SNES_Secret of Mana_Spirit of the Night_0.mid,1,-1
+8034,Other,PS2,Shadow of the Colossus,The Farthest Land,labelled/phrases/Other_PS2_Shadow of the Colossus_The Farthest Land_0.mid,1,-1
+8046,Other,PS2,Shadow of the Colossus,The Tale of the 16 Sacrifices,labelled/phrases/Other_PS2_Shadow of the Colossus_The Tale of the 16 Sacrifices_0.mid,1,-1
+8046,Other,PS2,Shadow of the Colossus,The Tale of the 16 Sacrifices,labelled/phrases/Other_PS2_Shadow of the Colossus_The Tale of the 16 Sacrifices_1.mid,1,0
+8046,Other,PS2,Shadow of the Colossus,The Tale of the 16 Sacrifices,labelled/phrases/Other_PS2_Shadow of the Colossus_The Tale of the 16 Sacrifices_2.mid,1,-1
+8052,Other,PS2,Shadow of the Colossus,Prayer,labelled/phrases/Other_PS2_Shadow of the Colossus_Prayer_0.mid,-1,-1
+8070,Other,PS2,Shadow of the Colossus,The Opened Way,labelled/phrases/Other_PS2_Shadow of the Colossus_The Opened Way_0.mid,-1,1
+8070,Other,PS2,Shadow of the Colossus,The Opened Way,labelled/phrases/Other_PS2_Shadow of the Colossus_The Opened Way_1.mid,0,1
+8070,Other,PS2,Shadow of the Colossus,The Opened Way,labelled/phrases/Other_PS2_Shadow of the Colossus_The Opened Way_2.mid,-1,1
+8090,Other,PS2,Shadow of the Colossus,Memories,labelled/phrases/Other_PS2_Shadow of the Colossus_Memories_0.mid,-1,-1
+8090,Other,PS2,Shadow of the Colossus,Memories,labelled/phrases/Other_PS2_Shadow of the Colossus_Memories_1.mid,0,-1
+8090,Other,PS2,Shadow of the Colossus,Memories,labelled/phrases/Other_PS2_Shadow of the Colossus_Memories_2.mid,-1,-1
+8090,Other,PS2,Shadow of the Colossus,Memories,labelled/phrases/Other_PS2_Shadow of the Colossus_Memories_3.mid,0,-1
+8096,Star Fox,SNES,Star Fox,Venom,labelled/phrases/Star Fox_SNES_Star Fox_Venom_0.mid,-1,1
+8107,Star Fox,SNES,Star Fox,Corneria,labelled/phrases/Star Fox_SNES_Star Fox_Corneria_0.mid,-1,1
+8107,Star Fox,SNES,Star Fox,Corneria,labelled/phrases/Star Fox_SNES_Star Fox_Corneria_1.mid,0,1
+8107,Star Fox,SNES,Star Fox,Corneria,labelled/phrases/Star Fox_SNES_Star Fox_Corneria_2.mid,-1,1
+8107,Star Fox,SNES,Star Fox,Corneria,labelled/phrases/Star Fox_SNES_Star Fox_Corneria_3.mid,0,1
+8123,Star Fox,SNES,Star Fox,SpaceArmada,labelled/phrases/Star Fox_SNES_Star Fox_SpaceArmada_0.mid,1,-1
+8123,Star Fox,SNES,Star Fox,SpaceArmada,labelled/phrases/Star Fox_SNES_Star Fox_SpaceArmada_1.mid,0,-1
+8133,Star Fox,SNES,Star Fox,Map,labelled/phrases/Star Fox_SNES_Star Fox_Map_0.mid,1,1
+8163,Star Fox,SNES,Star Fox,Stage,labelled/phrases/Star Fox_SNES_Star Fox_Stage_Clear_0.mid,1,1
+8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,labelled/phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_0.mid,-1,-1
+8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,labelled/phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_1.mid,-1,0
+8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,labelled/phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_2.mid,-1,1
+8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,labelled/phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_3.mid,-1,0
+8120,Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,labelled/phrases/Star Fox_GCN_Star Fox Adventures_Dark Ice Mines_4.mid,-1,-1
+8035,Super Mario,N64,Super Mario 64,Koopas Theme,labelled/phrases/Super Mario_N64_Super Mario 64_Koopas Theme_0.mid,-1,1
+8074,Super Mario,N64,Super Mario 64,Select a File,labelled/phrases/Super Mario_N64_Super Mario 64_Select a File_0.mid,1,-1
+8128,Super Mario,N64,Super Mario 64,Final Bowser,labelled/phrases/Super Mario_N64_Super Mario 64_Final Bowser_0.mid,1,1
+8128,Super Mario,N64,Super Mario 64,Final Bowser,labelled/phrases/Super Mario_N64_Super Mario 64_Final Bowser_1.mid,0,1
+8164,Super Mario,N64,Super Mario 64,Princess Secret Slide,labelled/phrases/Super Mario_N64_Super Mario 64_Princess Secret Slide_0.mid,1,1
+8169,Super Mario,N64,Super Mario 64,Haunted Merry Go Round,labelled/phrases/Super Mario_N64_Super Mario 64_Haunted Merry Go Round_0.mid,1,1
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_0.mid,1,0
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_1.mid,0,0
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_2.mid,1,0
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_3.mid,1,-1
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_4.mid,1,0
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_5.mid,1,-1
+8179,Super Mario,N64,Super Mario 64,Dire Dire Docks,labelled/phrases/Super Mario_N64_Super Mario 64_Dire Dire Docks_6.mid,0,0
+8184,Super Mario,N64,Super Mario 64,Cool Cool Mountain,labelled/phrases/Super Mario_N64_Super Mario 64_Cool Cool Mountain_0.mid,1,1
+8038,Super Mario,NES,Super Mario Bros,Main Theme,labelled/phrases/Super Mario_NES_Super Mario Bros_Main Theme_0.mid,1,1
+8040,Super Mario,NES,Super Mario Bros,Underworld,labelled/phrases/Super Mario_NES_Super Mario Bros_Underworld_0.mid,0,1
+8040,Super Mario,NES,Super Mario Bros,Underworld,labelled/phrases/Super Mario_NES_Super Mario Bros_Underworld_1.mid,-1,1
+8040,Super Mario,NES,Super Mario Bros,Underworld,labelled/phrases/Super Mario_NES_Super Mario Bros_Underworld_2.mid,0,1
+8040,Super Mario,NES,Super Mario Bros,Underworld,labelled/phrases/Super Mario_NES_Super Mario Bros_Underworld_3.mid,-1,1
+8078,Super Mario,NES,Super Mario Bros,Underwater,labelled/phrases/Super Mario_NES_Super Mario Bros_Underwater_0.mid,1,-1
+8078,Super Mario,NES,Super Mario Bros,Underwater,labelled/phrases/Super Mario_NES_Super Mario Bros_Underwater_1.mid,0,0
+8014,Super Mario,SNES,Super Mario World,Ending Theme,labelled/phrases/Super Mario_SNES_Super Mario World_Ending Theme_0.mid,1,-1
+8014,Super Mario,SNES,Super Mario World,Ending Theme,labelled/phrases/Super Mario_SNES_Super Mario World_Ending Theme_1.mid,1,0
+8014,Super Mario,SNES,Super Mario World,Ending Theme,labelled/phrases/Super Mario_SNES_Super Mario World_Ending Theme_2.mid,1,-1
+8014,Super Mario,SNES,Super Mario World,Ending Theme,labelled/phrases/Super Mario_SNES_Super Mario World_Ending Theme_3.mid,1,1
+8014,Super Mario,SNES,Super Mario World,Ending Theme,labelled/phrases/Super Mario_SNES_Super Mario World_Ending Theme_4.mid,1,-1
+8015,Super Mario,SNES,Super Mario World,Castle,labelled/phrases/Super Mario_SNES_Super Mario World_Castle_0.mid,-1,1
+8015,Super Mario,SNES,Super Mario World,Castle,labelled/phrases/Super Mario_SNES_Super Mario World_Castle_1.mid,0,1
+8015,Super Mario,SNES,Super Mario World,Castle,labelled/phrases/Super Mario_SNES_Super Mario World_Castle_2.mid,-1,1
+8015,Super Mario,SNES,Super Mario World,Castle,labelled/phrases/Super Mario_SNES_Super Mario World_Castle_3.mid,0,1
+8015,Super Mario,SNES,Super Mario World,Castle,labelled/phrases/Super Mario_SNES_Super Mario World_Castle_4.mid,0,0
+8024,Super Mario,SNES,Super Mario World,Title Screen,labelled/phrases/Super Mario_SNES_Super Mario World_Title Screen_0.mid,1,1
+8049,Super Mario,SNES,Super Mario World,Overworld 2,labelled/phrases/Super Mario_SNES_Super Mario World_Overworld 2_0.mid,1,1
+8060,Super Mario,SNES,Super Mario World,Overworld,labelled/phrases/Super Mario_SNES_Super Mario World_Overworld_0.mid,1,1
+8075,Super Mario,SNES,Super Mario World,Forest of Illusion,labelled/phrases/Super Mario_SNES_Super Mario World_Forest of Illusion_0.mid,1,1
+8021,Other,NES,Tetris,Enter Your Name,labelled/phrases/Other_NES_Tetris_Enter Your Name_0.mid,1,1
+8061,Other,NES,Tetris,Music A,labelled/phrases/Other_NES_Tetris_Music A_0.mid,1,1
+8061,Other,NES,Tetris,Music A,labelled/phrases/Other_NES_Tetris_Music A_1.mid,0,1
+8061,Other,NES,Tetris,Music A,labelled/phrases/Other_NES_Tetris_Music A_2.mid,1,1
+8061,Other,NES,Tetris,Music A,labelled/phrases/Other_NES_Tetris_Music A_3.mid,0,1
+8003,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Deku Palace,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace_0.mid,1,1
+8005,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Alien Invasion,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion_0.mid,-1,1
+8011,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,The Mayors Office,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_The Mayors Office_0.mid,0,-1
+8018,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Song of Healing,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing_0.mid,1,-1
+8053,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted_0.mid,0,0
+8053,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted_1.mid,0,-1
+8053,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted_2.mid,0,0
+8053,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted_3.mid,0,-1
+8053,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted_4.mid,0,0
+8053,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted_5.mid,0,1
+8062,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Clock Town,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town_0.mid,1,1
+8068,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Cremias Wagon Ride,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride_0.mid,1,-1
+8080,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Chase Theme,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme_0.mid,-1,1
+8094,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Temple Tower,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Temple Tower_0.mid,-1,-1
+8094,The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Temple Tower,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Temple Tower_1.mid,-1,0
+8010,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Ganondorf,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Ganondorf_0.mid,-1,-1
+8020,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Sarias Song,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song_0.mid,1,1
+8023,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Owls Theme,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_0.mid,1,1
+8023,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Owls Theme,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_1.mid,1,0
+8023,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Owls Theme,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme_2.mid,1,1
+8027,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Gerudo Valley,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Gerudo Valley_0.mid,-1,1
+8027,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Gerudo Valley,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Gerudo Valley_1.mid,0,1
+8027,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Gerudo Valley,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Gerudo Valley_2.mid,0,0
+8031,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Temple of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time_0.mid,-1,-1
+8032,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Windmill Hut,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Windmill Hut_0.mid,1,-1
+8032,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Windmill Hut,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Windmill Hut_1.mid,1,0
+8033,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Prelude of Light,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light_0.mid,1,-1
+8047,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Inside Jabu Jabus Belly,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly_0.mid,-1,1
+8058,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Hyrule Castle Town,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town_0.mid,1,1
+8064,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Kokiri Forest,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest_0.mid,1,1
+8065,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Goron City,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Goron City_0.mid,1,-1
+8084,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Lost Woods,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods_0.mid,1,-1
+8087,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Introduction,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction_0.mid,1,-1
+8126,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Hyrule Castle Courtyard,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard_0.mid,1,1
+8157,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Kakariko Village,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village_0.mid,1,-1
+8158,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Song of Storms,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Song of Storms_0.mid,1,-1
+8158,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Song of Storms,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Song of Storms_1.mid,1,0
+8158,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Song of Storms,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Song of Storms_2.mid,1,-1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_0.mid,1,0
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_1.mid,1,1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_2.mid,1,0
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_3.mid,1,1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_4.mid,1,0
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_5.mid,1,-1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_6.mid,1,0
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_7.mid,1,1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_8.mid,0,1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_9.mid,1,1
+8166,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time_10.mid,0,0
+8167,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Forest Temple,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_0.mid,-1,1
+8167,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Forest Temple,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple_1.mid,0,0
+8171,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Zeldas Lullaby,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby_0.mid,1,-1
+8183,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Serenade of Water,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Serenade of Water_0.mid,1,-1
+8187,The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Links House,labelled/phrases/The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House_0.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_0.mid,1,1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_1.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_2.mid,1,1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_3.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_4.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_5.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_6.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_7.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_8.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_9.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_10.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_11.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_12.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_13.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_14.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_15.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_16.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_17.mid,1,0
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_18.mid,1,-1
+8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_19.mid,0,0
+8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_0.mid,1,-1
+8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_1.mid,1,0
+8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_2.mid,1,-1
+8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_3.mid,1,0
+8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_4.mid,1,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_0.mid,1,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_1.mid,0,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_2.mid,-1,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_3.mid,0,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_4.mid,1,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_5.mid,0,-1
+8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_6.mid,1,-1
+8138,Other,PC,The Sims,Since We Met,labelled/phrases/Other_PC_The Sims_Since We Met_0.mid,1,-1
+8138,Other,PC,The Sims,Since We Met,labelled/phrases/Other_PC_The Sims_Since We Met_1.mid,0,0
+8145,Other,PC,The Sims,Bittersweet,labelled/phrases/Other_PC_The Sims_Bittersweet_0.mid,1,-1
+8146,Other,PC,The Sims,Buying Theme,labelled/phrases/Other_PC_The Sims_Buying Theme_0.mid,1,1
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_0.mid,1,-1
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_1.mid,1,0
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_2.mid,1,1
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_3.mid,1,0
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_4.mid,1,-1
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_5.mid,1,0
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_6.mid,1,1
+8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_7.mid,1,0
+8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_0.mid,-1,-1
+8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_1.mid,0,-1
+8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_2.mid,1,-1
+8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_3.mid,0,-1
+8125,Other,PC,Warcraft II,Human Theme 1,labelled/phrases/Other_PC_Warcraft II_Human Theme 1_0.mid,0,1
+8127,Other,PC,Warcraft II,Orc Theme 1,labelled/phrases/Other_PC_Warcraft II_Orc Theme 1_0.mid,-1,1
+8127,Other,PC,Warcraft II,Orc Theme 1,labelled/phrases/Other_PC_Warcraft II_Orc Theme 1_1.mid,-1,-1
+8127,Other,PC,Warcraft II,Orc Theme 1,labelled/phrases/Other_PC_Warcraft II_Orc Theme 1_2.mid,-1,1
+8127,Other,PC,Warcraft II,Orc Theme 1,labelled/phrases/Other_PC_Warcraft II_Orc Theme 1_3.mid,0,1
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_0.mid,-1,-1
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_1.mid,-1,0
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_2.mid,-1,1
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_3.mid,-1,0
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_4.mid,-1,-1
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_5.mid,-1,0
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_6.mid,-1,1
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_7.mid,0,1
+8191,Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,labelled/phrases/Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll_8.mid,1,1
+8118,Other,PC,World of Warcraft Warlords of Draenor,Stormwind,labelled/phrases/Other_PC_World of Warcraft Warlords of Draenor_Stormwind_0.mid,-1,-1
+8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,labelled/phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_0.mid,1,-1
+8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,labelled/phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_1.mid,1,0
+8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,labelled/phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_2.mid,1,-1
+8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,labelled/phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_3.mid,1,0
+8139,Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,labelled/phrases/Other_PC_World of Warcraft Warlords of Draenor_Song of Elune_4.mid,1,1
+8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,labelled/phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_0.mid,-1,-1
+8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,labelled/phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_1.mid,-1,1
+8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,labelled/phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_2.mid,-1,-1
+8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,labelled/phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_3.mid,0,-1
+8159,Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,labelled/phrases/Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son_4.mid,-1,-1
+8098,Xeno,PS1,Xenogears,Bonds of Sea and Fire,labelled/phrases/Xeno_PS1_Xenogears_Bonds of Sea and Fire_0.mid,1,-1
+8101,Xeno,PS1,Xenogears,The Wounded Shall Advance Into the Light,labelled/phrases/Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light_0.mid,1,-1
+8109,Xeno,PS1,Xenogears,Gathering Stars In the Night Sky,labelled/phrases/Xeno_PS1_Xenogears_Gathering Stars In the Night Sky_0.mid,1,-1
+8135,Xeno,PS1,Xenogears,Tears of the Stars Hearts of the People,labelled/phrases/Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People_0.mid,-1,-1
+8149,Xeno,PS1,Xenogears,Valley Where the Wind Is Born,labelled/phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_0.mid,1,0
+8149,Xeno,PS1,Xenogears,Valley Where the Wind Is Born,labelled/phrases/Xeno_PS1_Xenogears_Valley Where the Wind Is Born_1.mid,1,-1
+8152,Xeno,PS1,Xenogears,Ship of Regret and Sleep,labelled/phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_0.mid,1,-1
+8152,Xeno,PS1,Xenogears,Ship of Regret and Sleep,labelled/phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_1.mid,0,-1
+8152,Xeno,PS1,Xenogears,Ship of Regret and Sleep,labelled/phrases/Xeno_PS1_Xenogears_Ship of Regret and Sleep_2.mid,1,-1
+8154,Xeno,PS1,Xenogears,Knight of Fire,labelled/phrases/Xeno_PS1_Xenogears_Knight of Fire_0.mid,-1,1
+8154,Xeno,PS1,Xenogears,Knight of Fire,labelled/phrases/Xeno_PS1_Xenogears_Knight of Fire_1.mid,0,1
+8154,Xeno,PS1,Xenogears,Knight of Fire,labelled/phrases/Xeno_PS1_Xenogears_Knight of Fire_2.mid,-1,1
+8154,Xeno,PS1,Xenogears,Knight of Fire,labelled/phrases/Xeno_PS1_Xenogears_Knight of Fire_3.mid,0,1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_0.mid,1,-1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_1.mid,1,0
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_2.mid,1,-1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_3.mid,1,0
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_4.mid,1,1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_5.mid,1,0
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_6.mid,1,-1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_7.mid,1,0
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_8.mid,1,1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_9.mid,1,0
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_10.mid,1,1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_11.mid,1,-1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_12.mid,1,1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_13.mid,1,0
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_14.mid,1,-1
+8173,Xeno,PS1,Xenogears,Two Pieces,labelled/phrases/Xeno_PS1_Xenogears_Two Pieces_15.mid,0,0
+8176,Xeno,PS1,Xenogears,Lost Broken Shards,labelled/phrases/Xeno_PS1_Xenogears_Lost Broken Shards_0.mid,1,-1
+8177,Xeno,PS1,Xenogears,Treasure Which Cannot Be Stolen,labelled/phrases/Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen_0.mid,1,-1

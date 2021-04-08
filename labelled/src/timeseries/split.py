@@ -6,33 +6,28 @@ from .tsmath import *
 
 MIN_PIECE_ID = 8000
 
-def emotion(v, a):
-    emotion = np.array([0,0])
+def emotion(v, a, emotion_threshold):
+    emotion = np.array([0, 0])
 
-    if v >= 0:
+    if v < -emotion_threshold:
+        emotion[0] = -1
+    elif v > emotion_threshold:
         emotion[0] = 1
-    if a >= 0:
+
+    if a < -emotion_threshold/2:
+        emotion[1] = -1
+    elif a > emotion_threshold/2:
         emotion[1] = 1
 
     return emotion
 
-def split_annotation_by_emotion(valence, arousal, ambiguity_threshold=0.0, ambiguity_allowed=1.0):
-    n_ambiguous_measures_valence = 0
-    n_ambiguous_measures_arousal = 0
-
+def split_annotation_by_emotion(valence, arousal, ambiguity_threshold=0.0):
     last_emotion = None
 
     ix, chunks = -1, []
     for v,a in zip(valence, arousal):
-        # Count ambiguous measures (have annotations "close" to zero.)
-        if abs(v) < ambiguity_threshold:
-            n_ambiguous_measures_valence += 1
-
-        if abs(a) < ambiguity_threshold/2:
-            n_ambiguous_measures_arousal += 1
-
         # Create emotion as numpy array
-        current_emotion = emotion(v, a)
+        current_emotion = emotion(v, a, ambiguity_threshold)
 
         if (current_emotion != last_emotion).any():
             chunks.append([current_emotion])
@@ -41,14 +36,6 @@ def split_annotation_by_emotion(valence, arousal, ambiguity_threshold=0.0, ambig
             chunks[ix].append(current_emotion)
 
         last_emotion = current_emotion
-
-    # Discard pieces that have more ambiguity than the allowed
-    valence_ambiguity = n_ambiguous_measures_valence/len(valence)
-    arousal_ambiguity = n_ambiguous_measures_arousal/len(arousal)
-
-    if valence_ambiguity > ambiguity_allowed or arousal_ambiguity > ambiguity_allowed:
-        print("--- Discaring ambiguous piece !!!")
-        return []
 
     return chunks
 
@@ -152,8 +139,4 @@ def split_midi(piece_id, midi_path, labeled_splits, measure_length, splits_path)
 
         split_init += split_size
 
-    # Sort annotated data by game name
-    annotated_data = list(annotated_data.values())
-    annotated_data = sorted(annotated_data, key=lambda k: k['game'])
-
-    return annotated_data
+    return list(annotated_data.values())
