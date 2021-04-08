@@ -20,9 +20,9 @@ def split_annotation_by_emotion(valence, arousal, ambiguity_threshold=0.0, ambig
     n_ambiguous_measures_valence = 0
     n_ambiguous_measures_arousal = 0
 
-    last_emotion = emotion(0, 0)
+    last_emotion = None
 
-    ix, chunks = 0, []
+    ix, chunks = -1, []
     for v,a in zip(valence, arousal):
         # Count ambiguous measures (have annotations "close" to zero.)
         if abs(v) < ambiguity_threshold:
@@ -36,12 +36,8 @@ def split_annotation_by_emotion(valence, arousal, ambiguity_threshold=0.0, ambig
 
         if (current_emotion != last_emotion).any():
             chunks.append([current_emotion])
-            if len(chunks) > 1:
-                ix += 1
+            ix += 1
         else:
-            if len(chunks) == 0:
-                chunks.append([])
-
             chunks[ix].append(current_emotion)
 
         last_emotion = current_emotion
@@ -90,7 +86,6 @@ def create_midi_slice(notes, resolution):
     # Add notes
     for n in notes:
         piano.notes.append(n)
-
     midi.instruments.append(piano)
 
     return midi
@@ -104,7 +99,7 @@ def get_midi_note_count(midi_data):
 
     return note_count
 
-def split_midi(piece_id, midi_path, labeled_chunks, measure_length, phrases_path, slice_size=4, slice_length=2):
+def split_midi(piece_id, midi_path, labeled_splits, measure_length, splits_path):
     # Load midi data
     midi_data = pretty_midi.PrettyMIDI(midi_path)
 
@@ -119,62 +114,46 @@ def split_midi(piece_id, midi_path, labeled_chunks, measure_length, phrases_path
     # Dictionary to store the midi slices
     annotated_data = {}
 
-    # Start slice count
-    slice_count = 0
-
-    chunk_init = 0
-    for chunk in labeled_chunks:
-        chunk_size = len(chunk)
-
-        if chunk_size < slice_size:
-            continue
+    split_init = 0
+    split_count = 0
+    for split in labeled_splits:
+        split_size = len(split)
 
         # Get midi for this entire chunk
-        chunk_start = (chunk_init * measure_length)
-        chunk_end   = (chunk_init + chunk_size) * measure_length
-        chunk_midi_data = slice_midi(midi_data, chunk_start, chunk_end)
+        split_start = (split_init * measure_length)
+        split_end   = (split_init + split_size) * measure_length
+        split_midi_data = slice_midi(midi_data, split_start, split_end)
 
         # Get valence of arousal of this chunk
-        slice_valence = chunk[0][0]
-        slice_arousal = chunk[0][1]
+        split_valence = split[0][0]
+        split_arousal = split[0][1]
 
-        # Split this chunk into "phrases" of the same length
-        velocity, duration = None, None
+        # Save midi chunk
+        split_name = os.path.join(splits_path, midi_root + "_" + str(split_count) + ".mid")
+        split_midi_data.write(split_name)
 
-        slice_init = 0
-        for i in range(0, chunk_size, slice_size):
-            # Slice midi given measure length in seconds
-            slice_start = (slice_init * slice_length)
-            slice_end   = (slice_init + slice_size) * slice_length
-            slice_midi_data = slice_midi(chunk_midi_data, slice_start, slice_end)
+        # Add split to the dataset
+        with open(split_name, "rb") as midi_file:
+            ch_key = hashlib.md5(midi_file.read()).hexdigest()
 
-            if get_midi_note_count(slice_midi_data) == 0:
-                continue
+        if ch_key not in annotated_data:
+            annotated_data[ch_key] = {"id": id,
+                                  "series": series,
+                                 "console": console,
+                                    "game": game,
+                                   "piece": piece,
+                                    "midi": split_name,
+                                 "valence": split_valence,
+                                 "arousal": split_arousal}
 
-            # Save midi chunk
-            slice_name = os.path.join(phrases_path, midi_root + "_" + str(slice_count) + ".mid")
-            slice_midi_data.write(slice_name)
+            split_count += 1
+        else:
+            print(ch_key, "is repeated")
 
-            # Add split to the dataset
-            with open(slice_name, "rb") as midi_file:
-                ch_key = hashlib.md5(midi_file.read()).hexdigest()
+        split_init += split_size
 
-            if ch_key not in annotated_data:
-                annotated_data[ch_key] = {"id": id,
-                                      "series": series,
-                                     "console": console,
-                                        "game": game,
-                                       "piece": piece,
-                                        "midi": slice_name,
-                                     "valence": slice_valence,
-                                     "arousal": slice_arousal}
+    # Sort annotated data by game name
+    annotated_data = list(annotated_data.values())
+    annotated_data = sorted(annotated_data, key=lambda k: k['game'])
 
-                slice_count += 1
-            else:
-                print(ch_key, "is repeated")
-
-            slice_init += slice_size
-
-        chunk_init += chunk_size
-
-    return list(annotated_data.values())
+    return annotated_data
