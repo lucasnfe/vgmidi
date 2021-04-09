@@ -1,5 +1,6 @@
 __pycache__/
-phrases/*.txt
+labelled/phrases/
+labelled/plots/
 *.py[cod]
 *$py.class
 *.npy

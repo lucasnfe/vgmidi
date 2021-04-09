@@ -14,7 +14,6 @@ id,series,console,game,piece,midi,valence,arousal
 8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_2.mid,1,-1
 8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_3.mid,0,-1
 8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_4.mid,1,-1
-8130,Other,PC,Aion Tower of Eternity,Forgotten Sorrow,labelled/phrases/Other_PC_Aion Tower of Eternity_Forgotten Sorrow_5.mid,0,-1
 8140,Other,PC,Aion Tower of Eternity,Wings of the Knight,labelled/phrases/Other_PC_Aion Tower of Eternity_Wings of the Knight_0.mid,1,-1
 8143,Other,PC,Aion Tower of Eternity,Song of Moonlight,labelled/phrases/Other_PC_Aion Tower of Eternity_Song of Moonlight_0.mid,1,-1
 8144,Other,PC,Aion Tower of Eternity,Fairy of the Peace,labelled/phrases/Other_PC_Aion Tower of Eternity_Fairy of the Peace_0.mid,1,-1
@@ -94,7 +93,6 @@ id,series,console,game,piece,midi,valence,arousal
 8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_2.mid,1,1
 8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_3.mid,1,0
 8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_4.mid,1,1
-8106,Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_A Brave Warrior_5.mid,1,-1
 8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_0.mid,1,-1
 8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_1.mid,1,0
 8137,Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts_2.mid,1,1
@@ -124,7 +122,6 @@ id,series,console,game,piece,midi,valence,arousal
 8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_13.mid,1,0
 8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_14.mid,1,1
 8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_15.mid,1,0
-8194,Battle of Olympus,NES,Battle of Olympus,Athene Sonata,labelled/phrases/Battle of Olympus_NES_Battle of Olympus_Athene Sonata_16.mid,0,0
 8100,Chrono,SNES,Chrono Trigger,Secret of the Forest,labelled/phrases/Chrono_SNES_Chrono Trigger_Secret of the Forest_0.mid,1,-1
 8136,Chrono,SNES,Chrono Trigger,Millenial Fair,labelled/phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_0.mid,1,0
 8136,Chrono,SNES,Chrono Trigger,Millenial Fair,labelled/phrases/Chrono_SNES_Chrono Trigger_Millenial Fair_1.mid,1,1
@@ -140,7 +137,6 @@ id,series,console,game,piece,midi,valence,arousal
 8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_3.mid,1,0
 8168,Chrono,SNES,Chrono Trigger,Corridors of Time,labelled/phrases/Chrono_SNES_Chrono Trigger_Corridors of Time_4.mid,1,-1
 8175,Chrono,SNES,Chrono Trigger,Ocean Palace,labelled/phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_0.mid,-1,1
-8175,Chrono,SNES,Chrono Trigger,Ocean Palace,labelled/phrases/Chrono_SNES_Chrono Trigger_Ocean Palace_1.mid,0,0
 8178,Chrono,SNES,Chrono Trigger,Chrono Trigger,labelled/phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_0.mid,1,1
 8178,Chrono,SNES,Chrono Trigger,Chrono Trigger,labelled/phrases/Chrono_SNES_Chrono Trigger_Chrono Trigger_1.mid,0,0
 8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_0.mid,-1,0
@@ -148,7 +144,6 @@ id,series,console,game,piece,midi,valence,arousal
 8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_2.mid,0,1
 8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_3.mid,-1,1
 8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_4.mid,0,1
-8195,Chrono,SNES,Chrono Trigger,Maguss Theme,labelled/phrases/Chrono_SNES_Chrono Trigger_Maguss Theme_5.mid,0,0
 8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_0.mid,-1,-1
 8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_1.mid,0,-1
 8069,Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,labelled/phrases/Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie_2.mid,-1,-1
@@ -267,7 +262,6 @@ id,series,console,game,piece,midi,valence,arousal
 8113,Final Fantasy,PS1,Final Fantasy VII,Cait Siths Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_0.mid,1,1
 8113,Final Fantasy,PS1,Final Fantasy VII,Cait Siths Theme,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme_1.mid,0,0
 8190,Final Fantasy,PS1,Final Fantasy VII,Ahead On Our Way Remix,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_0.mid,1,1
-8190,Final Fantasy,PS1,Final Fantasy VII,Ahead On Our Way Remix,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix_1.mid,0,0
 8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_0.mid,0,1
 8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_1.mid,-1,1
 8197,Final Fantasy,PS1,Final Fantasy VII,JENOVA,labelled/phrases/Final Fantasy_PS1_Final Fantasy VII_JENOVA_2.mid,1,1
@@ -338,7 +332,6 @@ id,series,console,game,piece,midi,valence,arousal
 8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_21.mid,1,1
 8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_22.mid,0,1
 8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_23.mid,1,1
-8116,Mana,SNES,Secret of Mana,Danger,labelled/phrases/Mana_SNES_Secret of Mana_Danger_24.mid,0,0
 8131,Mana,SNES,Secret of Mana,Tell A Strange Tale,labelled/phrases/Mana_SNES_Secret of Mana_Tell A Strange Tale_0.mid,1,1
 8132,Mana,SNES,Secret of Mana,A Wish,labelled/phrases/Mana_SNES_Secret of Mana_A Wish_0.mid,1,-1
 8142,Mana,SNES,Secret of Mana,Rose and Ghost,labelled/phrases/Mana_SNES_Secret of Mana_Rose and Ghost_0.mid,1,-1
@@ -486,7 +479,6 @@ id,series,console,game,piece,midi,valence,arousal
 8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_16.mid,1,-1
 8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_17.mid,1,0
 8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_18.mid,1,-1
-8117,Other,PC,The Sims,New Beginnings,labelled/phrases/Other_PC_The Sims_New Beginnings_19.mid,0,0
 8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_0.mid,1,-1
 8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_1.mid,1,0
 8124,Other,PC,The Sims,The Neighbourhood,labelled/phrases/Other_PC_The Sims_The Neighbourhood_2.mid,1,-1
@@ -500,7 +492,6 @@ id,series,console,game,piece,midi,valence,arousal
 8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_5.mid,0,-1
 8134,Other,PC,The Sims,Theme 4,labelled/phrases/Other_PC_The Sims_Theme 4_6.mid,1,-1
 8138,Other,PC,The Sims,Since We Met,labelled/phrases/Other_PC_The Sims_Since We Met_0.mid,1,-1
-8138,Other,PC,The Sims,Since We Met,labelled/phrases/Other_PC_The Sims_Since We Met_1.mid,0,0
 8145,Other,PC,The Sims,Bittersweet,labelled/phrases/Other_PC_The Sims_Bittersweet_0.mid,1,-1
 8146,Other,PC,The Sims,Buying Theme,labelled/phrases/Other_PC_The Sims_Buying Theme_0.mid,1,1
 8156,Other,PC,The Sims,The Simple Life,labelled/phrases/Other_PC_The Sims_The Simple Life_0.mid,1,-1
@@ -514,7 +505,6 @@ id,series,console,game,piece,midi,valence,arousal
 8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_0.mid,-1,-1
 8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_1.mid,0,-1
 8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_2.mid,1,-1
-8165,Other,PC,The Sims,Theme 5,labelled/phrases/Other_PC_The Sims_Theme 5_3.mid,0,-1
 8125,Other,PC,Warcraft II,Human Theme 1,labelled/phrases/Other_PC_Warcraft II_Human Theme 1_0.mid,0,1
 8127,Other,PC,Warcraft II,Orc Theme 1,labelled/phrases/Other_PC_Warcraft II_Orc Theme 1_0.mid,-1,1
 8127,Other,PC,Warcraft II,Orc Theme 1,labelled/phrases/Other_PC_Warcraft II_Orc Theme 1_1.mid,-1,-1

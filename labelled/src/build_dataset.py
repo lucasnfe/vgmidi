@@ -38,9 +38,6 @@ emotion_phrases = []
 # Means
 means_pos, means_neg = [], []
 
-# Count ambiguous pieces
-n_ambiguous_pieces = 0
-
 for i, piece_id in enumerate(pieces):
     # Get midi name without extension and path
     midi_name = os.path.basename(pieces[piece_id]["midi"])
@@ -90,7 +87,5 @@ for i, piece_id in enumerate(pieces):
 
     plot_arousal_path = os.path.join(plot_arousal_path, os.path.splitext(midi_name)[0] + ".png")
     ts.plot.plot_cluster(arousal_data, arousal_clustering, "Arousal", "Clustering Arousal", plot_arousal_path)
-
-print("Discarted pieces", n_ambiguous_pieces)
 
 ds.parse.persist_annotated_mids(emotion_phrases, "vgmidi.csv")

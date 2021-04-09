@@ -58,9 +58,10 @@ def slice_midi(midi_data, start, end):
                     note.end -= start
                     notes.append(note)
 
-    midi_slice = create_midi_slice(notes, midi_data.resolution)
+    if len(notes) > 0:
+        return create_midi_slice(notes, midi_data.resolution)
 
-    return midi_slice
+    return None
 
 def create_midi_slice(notes, resolution):
     # Create a PrettyMIDI object
@@ -76,15 +77,6 @@ def create_midi_slice(notes, resolution):
     midi.instruments.append(piano)
 
     return midi
-
-def get_midi_note_count(midi_data):
-    note_count = 0
-    for instrument in midi_data.instruments:
-        if not instrument.is_drum:
-            for note in instrument.notes:
-                note_count += 1
-
-    return note_count
 
 def split_midi(piece_id, midi_path, labeled_splits, measure_length, splits_path):
     # Load midi data
@@ -109,7 +101,11 @@ def split_midi(piece_id, midi_path, labeled_splits, measure_length, splits_path)
         # Get midi for this entire chunk
         split_start = (split_init * measure_length)
         split_end   = (split_init + split_size) * measure_length
+
         split_midi_data = slice_midi(midi_data, split_start, split_end)
+        if split_midi_data is None:
+            print("Empty split!")
+            continue
 
         # Get valence of arousal of this chunk
         split_valence = split[0][0]
