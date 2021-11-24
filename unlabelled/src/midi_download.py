@@ -33,19 +33,15 @@ def get_series_metadata(series_url):
     game_soup = BeautifulSoup(game_html, features="html.parser")
 
     # Get list of all games
-    games_list = game_soup.find_all("div", {"class": "game"})
+    games_list = game_soup.find_all("section", {"class": "game"})
 
     # Get all games in html
     for divtag in games_list:
         # Get game name
-        game_name = divtag.find("h3", {"class": "heading-text"}).string
+        game_name = divtag.find("div", {"class": "heading-text"}).find("h3").string
 
-        # Split game name to get console name
-        console_name = game_name.split(" ")[0]
-        console_name = console_name[1:-1]
-
-        game_name = game_name.split(" ")[1:]
-        game_name = " ".join(game_name)
+        # Get console name
+        console_name = divtag.find("div", {"class": "gameInfo"}).find("li").find("a").get("title")
 
         # Get midis from that game
         game_metadata = divtag.find("ul", {"class": "tableList"})
@@ -60,13 +56,13 @@ def get_series_metadata(series_url):
             games[midi_id] = {"console": clean_name(console_name),
                                  "game": clean_name(game_name),
                                 "piece": clean_name(midi_name),
-                              "pdf_url": pdf_url,
-                             "midi_url": midi_url }
+                              "pdf_url": opt.url + pdf_url,
+                             "midi_url": opt.url + midi_url }
 
     return games
 
 # Parse arguments
-parser = argparse.ArgumentParser(description='download_midi.py')
+parser = argparse.ArgumentParser(description='midi_download.py')
 parser.add_argument('--url', type=str, required=True, help="URL to download files from.")
 parser.add_argument('--out', type=str, default=".", help="Output dir.")
 parser.set_defaults(local=False)
@@ -74,7 +70,7 @@ opt = parser.parse_args()
 
 # Download html from url
 context = ssl._create_unverified_context()
-with urllib.request.urlopen(opt.url, context=context) as response:
+with urllib.request.urlopen(opt.url + "/browse/series", context=context) as response:
     html = response.read()
 
 # Create parser from html
@@ -84,12 +80,12 @@ soup = BeautifulSoup(html, features="html.parser")
 csv_columns = ['id','series','console', 'game', 'piece', 'midi', 'pdf']
 
 # Get list of all game series
-series_list = soup.find("ul", {"class": "browseCategoryList-subList"})
+series_list = soup.find("ul", {"class": "browseCategoryList"})
 
 # Parse each game series
 all_games = []
 for litag in series_list.find_all('a'):
-    series_url = litag.get('href')
+    series_url = opt.url + litag.get('href')
     series_name = clean_name(litag.string)
     series_games = get_series_metadata(series_url)
 

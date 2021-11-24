@@ -42,8 +42,8 @@ IGNORED_GAMES=["Banjo-Kazooie",
                "Xenogears"]
 
 # Parse arguments
-parser = argparse.ArgumentParser(description='download_midi.py')
-parser.add_argument('--csv', type=str, required=True, help="URL to download files from.")
+parser = argparse.ArgumentParser(description='midi_clean.py')
+parser.add_argument('--csv', type=str, required=True, help="Midi dataset.")
 parser.add_argument('--out', type=str, required=True, help="Output dir.")
 opt = parser.parse_args()
 
@@ -79,27 +79,39 @@ with open(cleaned_csv_filename, 'w') as csvfile:
                     try:
                         # Get midi length in seconds
                         midi_data = pretty_midi.PrettyMIDI(row['midi'])
-                        midi_length = midi_data.get_end_time()
                     except:
                         print("----", "Midi file seems corruct.")
                         continue
 
-                    if midi_length > MIN_LENGTH:
-                        shutil.copyfile(row['pdf'], os.path.join(opt.out, "pdf", pdf_path))
-                        shutil.copyfile(row['midi'], os.path.join(opt.out, "midi", midi_path))
+                    # Check midi file has only piano tracks
+                    non_piano_instruments = 0
+                    for inst in midi_data.instruments:
+                        # Only consider instruments from the piano family
+                        if pretty_midi.program_to_instrument_class(inst.program) != "Piano":
+                            non_piano_instruments += 1
 
-                        row['series'] = unidecode.unidecode(row['series'])
-                        row['game'] = unidecode.unidecode(row['game'])
-                        row['pdf'] = os.path.join(opt.out, "pdf", pdf_path)
-                        row['midi'] = os.path.join(opt.out, "midi", midi_path)
+                    if non_piano_instruments == 0:
+                        # Check midi is not too short
+                        midi_length = midi_data.get_end_time()
 
-                        writer.writerow(row)
+                        if midi_length > MIN_LENGTH:
+                            shutil.copyfile(row['pdf'], os.path.join(opt.out, "pdf", pdf_path))
+                            shutil.copyfile(row['midi'], os.path.join(opt.out, "midi", midi_path))
 
-                        # Compute stats
-                        total_piece += 1
-                        total_time  += midi_data.get_end_time()
+                            row['series'] = unidecode.unidecode(row['series'])
+                            row['game'] = unidecode.unidecode(row['game'])
+                            row['pdf'] = os.path.join(opt.out, "pdf", pdf_path)
+                            row['midi'] = os.path.join(opt.out, "midi", midi_path)
+
+                            writer.writerow(row)
+
+                            # Compute stats
+                            total_piece += 1
+                            total_time  += midi_data.get_end_time()
+                        else:
+                            print("----", "Midi file is too short.")
                     else:
-                        print("----", "Midi file is too short.")
+                        print("----", "Midi file has non-piano instruments.")
                 else:
                     print("----", "Either midi of pdf do not exist.")
 

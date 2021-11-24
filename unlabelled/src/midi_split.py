@@ -21,8 +21,8 @@ def get_data_for_training(midi_csv, midi_dir):
     return np.array(x), np.array(y), np.array(groups)
 
 # Parse arguments
-parser = argparse.ArgumentParser(description='download_midi.py')
-parser.add_argument('--csv', type=str, required=True, help="URL to download files from.")
+parser = argparse.ArgumentParser(description='midi_split.py')
+parser.add_argument('--csv', type=str, required=True, help="Midi dataset.")
 parser.add_argument('--midi', type=str, required=True, help="Path to midi files.")
 parser.add_argument('--out', type=str, default=".", help="Output dir.")
 opt = parser.parse_args()
