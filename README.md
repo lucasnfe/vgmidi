@@ -1,6 +1,6 @@
 # VGMIDI Dataset
 
-VGMIDI is a dataset of 200 MIDI labelled piano pieces (video game soundtracks). Each piece was annotated by 30 human subjects according to a valence-arousal model of emotion. 
+VGMIDI is a dataset of piano arrangements of video game soundtracks. It contains 200 MIDI pieces labelled according to emotion and 3,850 unlabeled pieces. Each labelled piece was annotated by 30 human subjects according to the Circumplex (valence-arousal) model of emotion. 
 
 ## Data Annotation
 
